@@ -195,9 +195,9 @@ def merge_data():
     )
 
     print("Writing merged reports to files...")
-    write_df_to_csv_and_excel(summary_regions, SUMMARY_REGIONS_PATHS)
+    # write_df_to_csv_and_excel(summary_regions, SUMMARY_REGIONS_PATHS)
     write_df_to_csv_and_excel(summary_countries, SUMMARY_COUNTRIES_PATHS)
-#     write_df_to_csv_and_excel(summary_US, SUMMARY_US_PATHS) # temporary disable
+    # write_df_to_csv_and_excel(summary_US, SUMMARY_US_PATHS) # temporary disable
 
 
 @cli.command(help="Scrape data from all sources and merge reports")
