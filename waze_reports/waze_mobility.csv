@@ -4268,6 +4268,7 @@ Australia,Sydney,city,2021-10-29,15.0
 Australia,Sydney,city,2021-10-30,5.0
 Australia,Sydney,city,2021-10-31,3.0
 Australia,Sydney,city,2021-11-01,10.0
+Australia,Sydney,city,2021-11-02,-88.0
 Australia,Total,country,2020-03-01,4.0
 Australia,Total,country,2020-03-02,2.0
 Australia,Total,country,2020-03-03,1.0
@@ -6098,6 +6099,7 @@ Belgium,Antwerp,city,2021-10-29,18.0
 Belgium,Antwerp,city,2021-10-30,15.0
 Belgium,Antwerp,city,2021-10-31,22.0
 Belgium,Antwerp,city,2021-11-01,-18.0
+Belgium,Antwerp,city,2021-11-02,-98.0
 Belgium,Brussels,city,2020-03-01,3.0
 Belgium,Brussels,city,2020-03-02,0.0
 Belgium,Brussels,city,2020-03-03,-1.0
@@ -7318,6 +7320,7 @@ Belgium,Ghent,city,2021-10-29,15.0
 Belgium,Ghent,city,2021-10-30,57.99999999999999
 Belgium,Ghent,city,2021-10-31,-7.000000000000001
 Belgium,Ghent,city,2021-11-01,-38.0
+Belgium,Ghent,city,2021-11-02,-98.0
 Belgium,Total,country,2020-03-01,13.0
 Belgium,Total,country,2020-03-02,-1.0
 Belgium,Total,country,2020-03-03,1.0
@@ -12198,6 +12201,7 @@ Brazil,Porto Alegre,city,2021-10-29,6.0
 Brazil,Porto Alegre,city,2021-10-30,21.0
 Brazil,Porto Alegre,city,2021-10-31,21.0
 Brazil,Porto Alegre,city,2021-11-01,2.0
+Brazil,Porto Alegre,city,2021-11-02,-94.0
 Brazil,Recife,city,2020-03-01,8.0
 Brazil,Recife,city,2020-03-02,11.0
 Brazil,Recife,city,2020-03-03,8.0
@@ -28047,6 +28051,7 @@ Czechia,Brno,city,2021-10-29,0.0
 Czechia,Brno,city,2021-10-30,52.0
 Czechia,Brno,city,2021-10-31,99.0
 Czechia,Brno,city,2021-11-01,33.0
+Czechia,Brno,city,2021-11-02,-90.0
 Czechia,Prague,city,2020-03-01,6.0
 Czechia,Prague,city,2020-03-02,1.0
 Czechia,Prague,city,2020-03-03,1.0
@@ -30487,6 +30492,7 @@ Ecuador,Total,country,2021-10-29,15.0
 Ecuador,Total,country,2021-10-30,57.99999999999999
 Ecuador,Total,country,2021-10-31,77.0
 Ecuador,Total,country,2021-11-01,60.0
+Ecuador,Total,country,2021-11-02,-98.0
 Estonia,Total,country,2020-03-01,-7.000000000000001
 Estonia,Total,country,2020-03-02,-10.0
 Estonia,Total,country,2020-03-03,-5.0
@@ -32927,6 +32933,7 @@ France,Lyon,city,2021-10-29,8.0
 France,Lyon,city,2021-10-30,21.0
 France,Lyon,city,2021-10-31,-13.0
 France,Lyon,city,2021-11-01,77.0
+France,Lyon,city,2021-11-02,-94.0
 France,Marseille,city,2020-03-01,1.0
 France,Marseille,city,2020-03-02,11.0
 France,Marseille,city,2020-03-03,9.0
@@ -33537,6 +33544,7 @@ France,Marseille,city,2021-10-29,36.0
 France,Marseille,city,2021-10-30,52.0
 France,Marseille,city,2021-10-31,27.0
 France,Marseille,city,2021-11-01,43.0
+France,Marseille,city,2021-11-02,-98.0
 France,Paris,city,2020-03-01,-11.0
 France,Paris,city,2020-03-02,-3.0
 France,Paris,city,2020-03-03,0.0
@@ -47532,6 +47540,7 @@ Italy,Rome,city,2021-10-29,17.0
 Italy,Rome,city,2021-10-30,42.0
 Italy,Rome,city,2021-10-31,26.0
 Italy,Rome,city,2021-11-01,12.0
+Italy,Rome,city,2021-11-02,-97.0
 Italy,Total,country,2020-03-01,-28.000000000000004
 Italy,Total,country,2020-03-02,-17.0
 Italy,Total,country,2020-03-03,-15.0
@@ -64604,6 +64613,7 @@ Philippines,Makati,city,2021-10-29,-54.0
 Philippines,Makati,city,2021-10-30,-47.0
 Philippines,Makati,city,2021-10-31,-57.99999999999999
 Philippines,Makati,city,2021-11-01,-64.0
+Philippines,Makati,city,2021-11-02,-98.0
 Philippines,Manila,city,2020-03-01,-3.0
 Philippines,Manila,city,2020-03-02,-5.0
 Philippines,Manila,city,2020-03-03,0.0
@@ -65214,6 +65224,7 @@ Philippines,Manila,city,2021-10-29,-39.0
 Philippines,Manila,city,2021-10-30,-47.0
 Philippines,Manila,city,2021-10-31,-53.0
 Philippines,Manila,city,2021-11-01,-40.0
+Philippines,Manila,city,2021-11-02,-95.0
 Philippines,Quezon City,city,2020-03-01,2.0
 Philippines,Quezon City,city,2020-03-02,-4.0
 Philippines,Quezon City,city,2020-03-03,1.0
@@ -69477,6 +69488,7 @@ Portugal,Total,country,2021-10-29,43.0
 Portugal,Total,country,2021-10-30,37.0
 Portugal,Total,country,2021-10-31,9.0
 Portugal,Total,country,2021-11-01,60.0
+Portugal,Total,country,2021-11-02,-98.0
 Puerto Rico,Total,country,2020-03-01,-2.0
 Puerto Rico,Total,country,2020-03-02,-2.0
 Puerto Rico,Total,country,2020-03-03,4.0
@@ -70087,6 +70099,7 @@ Puerto Rico,Total,country,2021-10-29,21.0
 Puerto Rico,Total,country,2021-10-30,7.000000000000001
 Puerto Rico,Total,country,2021-10-31,1.0
 Puerto Rico,Total,country,2021-11-01,9.0
+Puerto Rico,Total,country,2021-11-02,-97.0
 Qatar,Doha,city,2020-03-01,4.0
 Qatar,Doha,city,2020-03-02,5.0
 Qatar,Doha,city,2020-03-03,11.0
@@ -75577,6 +75590,7 @@ Slovakia,Total,country,2021-10-29,28.999999999999996
 Slovakia,Total,country,2021-10-30,24.0
 Slovakia,Total,country,2021-10-31,13.0
 Slovakia,Total,country,2021-11-01,48.0
+Slovakia,Total,country,2021-11-02,-98.0
 South Africa,Cape Town,city,2020-03-01,35.0
 South Africa,Cape Town,city,2020-03-02,6.0
 South Africa,Cape Town,city,2020-03-03,4.0
@@ -76797,6 +76811,7 @@ South Africa,Total,country,2021-10-29,22.0
 South Africa,Total,country,2021-10-30,60.0
 South Africa,Total,country,2021-10-31,54.0
 South Africa,Total,country,2021-11-01,4.0
+South Africa,Total,country,2021-11-02,-98.0
 Spain,Barcelona,city,2020-03-01,-4.0
 Spain,Barcelona,city,2020-03-02,-8.0
 Spain,Barcelona,city,2020-03-03,-1.0
@@ -79236,6 +79251,7 @@ Sweden,Stockholm,city,2021-10-29,39.0
 Sweden,Stockholm,city,2021-10-30,11.0
 Sweden,Stockholm,city,2021-10-31,23.0
 Sweden,Stockholm,city,2021-11-01,9.0
+Sweden,Stockholm,city,2021-11-02,-95.0
 Sweden,Total,country,2020-03-01,10.0
 Sweden,Total,country,2020-03-02,1.0
 Sweden,Total,country,2020-03-03,-1.0
@@ -81575,6 +81591,7 @@ Ukraine,Lviv,city,2021-09-04,197.0
 Ukraine,Lviv,city,2021-09-06,149.0
 Ukraine,Lviv,city,2021-09-24,197.0
 Ukraine,Lviv,city,2021-09-27,179.0
+Ukraine,Lviv,city,2021-11-02,-67.0
 Ukraine,Total,country,2020-03-01,2.0
 Ukraine,Total,country,2020-03-02,3.0
 Ukraine,Total,country,2020-03-03,5.0
@@ -93592,6 +93609,7 @@ United States,Detroit,city,2021-10-29,-8.0
 United States,Detroit,city,2021-10-30,-31.0
 United States,Detroit,city,2021-10-31,-9.0
 United States,Detroit,city,2021-11-01,-10.0
+United States,Detroit,city,2021-11-02,-91.0
 United States,Fort Lauderdale,city,2020-03-01,-9.0
 United States,Fort Lauderdale,city,2020-03-02,0.0
 United States,Fort Lauderdale,city,2020-03-03,0.0
@@ -94202,6 +94220,7 @@ United States,Fort Lauderdale,city,2021-10-29,3.0
 United States,Fort Lauderdale,city,2021-10-30,-3.0
 United States,Fort Lauderdale,city,2021-10-31,-1.0
 United States,Fort Lauderdale,city,2021-11-01,-6.0
+United States,Fort Lauderdale,city,2021-11-02,-87.0
 United States,Fort Worth,city,2020-03-01,6.0
 United States,Fort Worth,city,2020-03-02,4.0
 United States,Fort Worth,city,2020-03-03,-1.0
@@ -94812,6 +94831,7 @@ United States,Fort Worth,city,2021-10-29,-8.0
 United States,Fort Worth,city,2021-10-30,-8.0
 United States,Fort Worth,city,2021-10-31,-2.0
 United States,Fort Worth,city,2021-11-01,-2.0
+United States,Fort Worth,city,2021-11-02,-98.0
 United States,Hartford,city,2020-03-01,-13.0
 United States,Hartford,city,2020-03-02,15.0
 United States,Hartford,city,2020-03-03,-3.0
@@ -95415,6 +95435,7 @@ United States,Hartford,city,2021-10-29,-34.0
 United States,Hartford,city,2021-10-30,-9.0
 United States,Hartford,city,2021-10-31,-22.0
 United States,Hartford,city,2021-11-01,-11.0
+United States,Hartford,city,2021-11-02,-56.99999999999999
 United States,Houston,city,2020-03-01,6.0
 United States,Houston,city,2020-03-02,1.0
 United States,Houston,city,2020-03-03,2.0
@@ -97244,6 +97265,7 @@ United States,Jersey City,city,2021-10-29,-8.0
 United States,Jersey City,city,2021-10-30,-2.0
 United States,Jersey City,city,2021-10-31,8.0
 United States,Jersey City,city,2021-11-01,3.0
+United States,Jersey City,city,2021-11-02,-99.0
 United States,Los Angeles,city,2020-03-01,4.0
 United States,Los Angeles,city,2020-03-02,2.0
 United States,Los Angeles,city,2020-03-03,-4.0
@@ -99674,6 +99696,7 @@ United States,Minneapolis,city,2021-10-29,-50.0
 United States,Minneapolis,city,2021-10-30,-6.0
 United States,Minneapolis,city,2021-10-31,59.0
 United States,Minneapolis,city,2021-11-01,-27.0
+United States,Minneapolis,city,2021-11-02,-98.0
 United States,Nashville,city,2020-03-01,7.000000000000001
 United States,Nashville,city,2020-03-02,4.0
 United States,Nashville,city,2020-03-03,-7.000000000000001
@@ -100893,6 +100916,7 @@ United States,New Orleans,city,2021-10-29,-36.0
 United States,New Orleans,city,2021-10-30,-48.0
 United States,New Orleans,city,2021-10-31,-14.000000000000002
 United States,New Orleans,city,2021-11-01,-20.0
+United States,New Orleans,city,2021-11-02,-96.0
 United States,New York,city,2020-03-01,4.0
 United States,New York,city,2020-03-02,4.0
 United States,New York,city,2020-03-03,-1.0
@@ -104553,6 +104577,7 @@ United States,Pittsburgh,city,2021-10-29,0.0
 United States,Pittsburgh,city,2021-10-30,-3.0
 United States,Pittsburgh,city,2021-10-31,-13.0
 United States,Pittsburgh,city,2021-11-01,-16.0
+United States,Pittsburgh,city,2021-11-02,-99.0
 United States,Portland,city,2020-03-01,-3.0
 United States,Portland,city,2020-03-02,0.0
 United States,Portland,city,2020-03-03,-5.0
@@ -105773,6 +105798,7 @@ United States,Raleigh,city,2021-10-29,19.0
 United States,Raleigh,city,2021-10-30,7.000000000000001
 United States,Raleigh,city,2021-10-31,-10.0
 United States,Raleigh,city,2021-11-01,-16.0
+United States,Raleigh,city,2021-11-02,-95.0
 United States,Sacramento,city,2020-03-01,-4.0
 United States,Sacramento,city,2020-03-02,16.0
 United States,Sacramento,city,2020-03-03,-5.0
@@ -107603,6 +107629,7 @@ United States,San Diego,city,2021-10-29,-32.0
 United States,San Diego,city,2021-10-30,-25.0
 United States,San Diego,city,2021-10-31,-27.0
 United States,San Diego,city,2021-11-01,-30.0
+United States,San Diego,city,2021-11-02,-97.0
 United States,San Francisco,city,2020-03-01,-6.0
 United States,San Francisco,city,2020-03-02,8.0
 United States,San Francisco,city,2020-03-03,-7.000000000000001
