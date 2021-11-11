@@ -1416,6 +1416,7 @@ Australia,Brisbane,city,2020-08-28,13.0
 Australia,Brisbane,city,2020-08-29,-8.0
 Australia,Brisbane,city,2020-08-30,7.000000000000001
 Australia,Brisbane,city,2020-08-31,3.0
+Australia,Brisbane,city,2020-08-31,3.0
 Australia,Brisbane,city,2020-09-01,11.0
 Australia,Brisbane,city,2020-09-02,0.0
 Australia,Brisbane,city,2020-09-03,1.0
@@ -6345,6 +6346,7 @@ Belgium,Brussels,city,2020-08-28,-33.0
 Belgium,Brussels,city,2020-08-29,-46.0
 Belgium,Brussels,city,2020-08-30,-21.0
 Belgium,Brussels,city,2020-08-31,-5.0
+Belgium,Brussels,city,2020-08-31,-5.0
 Belgium,Brussels,city,2020-09-01,-41.0
 Belgium,Brussels,city,2020-09-02,-22.0
 Belgium,Brussels,city,2020-09-03,-37.0
@@ -9426,6 +9428,7 @@ Brazil,Curitiba,city,2020-08-28,-28.000000000000004
 Brazil,Curitiba,city,2020-08-29,-25.0
 Brazil,Curitiba,city,2020-08-30,-20.0
 Brazil,Curitiba,city,2020-08-31,1.0
+Brazil,Curitiba,city,2020-08-31,1.0
 Brazil,Curitiba,city,2020-09-01,-6.0
 Brazil,Curitiba,city,2020-09-02,-18.0
 Brazil,Curitiba,city,2020-09-03,-14.000000000000002
@@ -11891,6 +11894,7 @@ Brazil,Porto Alegre,city,2020-08-28,-26.0
 Brazil,Porto Alegre,city,2020-08-29,-28.000000000000004
 Brazil,Porto Alegre,city,2020-08-30,-19.0
 Brazil,Porto Alegre,city,2020-08-31,-2.0
+Brazil,Porto Alegre,city,2020-08-31,-2.0
 Brazil,Porto Alegre,city,2020-09-01,-15.0
 Brazil,Porto Alegre,city,2020-09-02,-22.0
 Brazil,Porto Alegre,city,2020-09-03,-22.0
@@ -13123,6 +13127,7 @@ Brazil,Rio De Janeiro,city,2020-08-28,-31.0
 Brazil,Rio De Janeiro,city,2020-08-29,-34.0
 Brazil,Rio De Janeiro,city,2020-08-30,-19.0
 Brazil,Rio De Janeiro,city,2020-08-31,-8.0
+Brazil,Rio De Janeiro,city,2020-08-31,-8.0
 Brazil,Rio De Janeiro,city,2020-09-01,-16.0
 Brazil,Rio De Janeiro,city,2020-09-02,-22.0
 Brazil,Rio De Janeiro,city,2020-09-03,-19.0
@@ -14354,6 +14359,7 @@ Brazil,Sao Paulo,city,2020-08-27,-24.0
 Brazil,Sao Paulo,city,2020-08-28,-30.0
 Brazil,Sao Paulo,city,2020-08-29,-30.0
 Brazil,Sao Paulo,city,2020-08-30,-17.0
+Brazil,Sao Paulo,city,2020-08-31,4.0
 Brazil,Sao Paulo,city,2020-08-31,4.0
 Brazil,Sao Paulo,city,2020-09-01,-13.0
 Brazil,Sao Paulo,city,2020-09-02,-21.0
@@ -17428,6 +17434,7 @@ Canada,Mississauga,city,2020-08-28,-34.0
 Canada,Mississauga,city,2020-08-29,-30.0
 Canada,Mississauga,city,2020-08-30,-13.0
 Canada,Mississauga,city,2020-08-31,-9.0
+Canada,Mississauga,city,2020-08-31,-9.0
 Canada,Mississauga,city,2020-09-01,-34.0
 Canada,Mississauga,city,2020-09-02,-28.999999999999996
 Canada,Mississauga,city,2020-09-03,-32.0
@@ -18043,6 +18050,7 @@ Canada,Montreal,city,2020-08-27,-7.000000000000001
 Canada,Montreal,city,2020-08-28,-5.0
 Canada,Montreal,city,2020-08-29,-8.0
 Canada,Montreal,city,2020-08-30,9.0
+Canada,Montreal,city,2020-08-31,-3.0
 Canada,Montreal,city,2020-08-31,-3.0
 Canada,Montreal,city,2020-09-01,1.0
 Canada,Montreal,city,2020-09-02,-11.0
@@ -19891,6 +19899,7 @@ Canada,Toronto,city,2020-08-27,-22.0
 Canada,Toronto,city,2020-08-28,-19.0
 Canada,Toronto,city,2020-08-29,-12.0
 Canada,Toronto,city,2020-08-30,4.0
+Canada,Toronto,city,2020-08-31,5.0
 Canada,Toronto,city,2020-08-31,5.0
 Canada,Toronto,city,2020-09-01,-19.0
 Canada,Toronto,city,2020-09-02,-22.0
@@ -42039,6 +42048,7 @@ Israel,Be'er Sheva,city,2020-08-28,8.0
 Israel,Be'er Sheva,city,2020-08-29,-30.0
 Israel,Be'er Sheva,city,2020-08-30,19.0
 Israel,Be'er Sheva,city,2020-08-31,2.0
+Israel,Be'er Sheva,city,2020-08-31,2.0
 Israel,Be'er Sheva,city,2020-09-01,-3.0
 Israel,Be'er Sheva,city,2020-09-02,-1.0
 Israel,Be'er Sheva,city,2020-09-03,7.000000000000001
@@ -44503,6 +44513,7 @@ Israel,Ramat Gan,city,2020-08-28,3.0
 Israel,Ramat Gan,city,2020-08-29,-7.000000000000001
 Israel,Ramat Gan,city,2020-08-30,4.0
 Israel,Ramat Gan,city,2020-08-31,-1.0
+Israel,Ramat Gan,city,2020-08-31,-1.0
 Israel,Ramat Gan,city,2020-09-01,-1.0
 Israel,Ramat Gan,city,2020-09-02,-8.0
 Israel,Ramat Gan,city,2020-09-03,3.0
@@ -45120,6 +45131,7 @@ Israel,Rishon Letsiyon,city,2020-08-28,16.0
 Israel,Rishon Letsiyon,city,2020-08-29,-13.0
 Israel,Rishon Letsiyon,city,2020-08-30,8.0
 Israel,Rishon Letsiyon,city,2020-08-31,5.0
+Israel,Rishon Letsiyon,city,2020-08-31,5.0
 Israel,Rishon Letsiyon,city,2020-09-01,-5.0
 Israel,Rishon Letsiyon,city,2020-09-02,0.0
 Israel,Rishon Letsiyon,city,2020-09-03,-2.0
@@ -45735,6 +45747,7 @@ Israel,Tel Aviv-Yafo,city,2020-08-27,-5.0
 Israel,Tel Aviv-Yafo,city,2020-08-28,-7.000000000000001
 Israel,Tel Aviv-Yafo,city,2020-08-29,-7.000000000000001
 Israel,Tel Aviv-Yafo,city,2020-08-30,1.0
+Israel,Tel Aviv-Yafo,city,2020-08-31,-10.0
 Israel,Tel Aviv-Yafo,city,2020-08-31,-10.0
 Israel,Tel Aviv-Yafo,city,2020-09-01,-11.0
 Israel,Tel Aviv-Yafo,city,2020-09-02,-5.0
@@ -53120,6 +53133,7 @@ Malaysia,Johor Bahru,city,2020-08-28,-15.0
 Malaysia,Johor Bahru,city,2020-08-29,-13.0
 Malaysia,Johor Bahru,city,2020-08-30,6.0
 Malaysia,Johor Bahru,city,2020-08-31,4.0
+Malaysia,Johor Bahru,city,2020-08-31,4.0
 Malaysia,Johor Bahru,city,2020-09-01,1.0
 Malaysia,Johor Bahru,city,2020-09-02,-7.000000000000001
 Malaysia,Johor Bahru,city,2020-09-03,0.0
@@ -53735,6 +53749,7 @@ Malaysia,Kuala Lumpur,city,2020-08-27,-4.0
 Malaysia,Kuala Lumpur,city,2020-08-28,-8.0
 Malaysia,Kuala Lumpur,city,2020-08-29,-19.0
 Malaysia,Kuala Lumpur,city,2020-08-30,4.0
+Malaysia,Kuala Lumpur,city,2020-08-31,-3.0
 Malaysia,Kuala Lumpur,city,2020-08-31,-3.0
 Malaysia,Kuala Lumpur,city,2020-09-01,-1.0
 Malaysia,Kuala Lumpur,city,2020-09-02,-4.0
@@ -62362,6 +62377,7 @@ Netherlands,Rotterdam,city,2020-08-28,-28.000000000000004
 Netherlands,Rotterdam,city,2020-08-29,-4.0
 Netherlands,Rotterdam,city,2020-08-30,-7.000000000000001
 Netherlands,Rotterdam,city,2020-08-31,-5.0
+Netherlands,Rotterdam,city,2020-08-31,-5.0
 Netherlands,Rotterdam,city,2020-09-01,-83.0
 Netherlands,Rotterdam,city,2020-09-02,-4.0
 Netherlands,Rotterdam,city,2020-09-03,-8.0
@@ -68516,6 +68532,7 @@ Poland,Warsaw,city,2020-08-28,-17.0
 Poland,Warsaw,city,2020-08-29,-18.0
 Poland,Warsaw,city,2020-08-30,-5.0
 Poland,Warsaw,city,2020-08-31,-9.0
+Poland,Warsaw,city,2020-08-31,-9.0
 Poland,Warsaw,city,2020-09-01,-9.0
 Poland,Warsaw,city,2020-09-02,-16.0
 Poland,Warsaw,city,2020-09-03,-20.0
@@ -70979,6 +70996,7 @@ Qatar,Doha,city,2020-08-27,-15.0
 Qatar,Doha,city,2020-08-28,-27.0
 Qatar,Doha,city,2020-08-29,-20.0
 Qatar,Doha,city,2020-08-30,-13.0
+Qatar,Doha,city,2020-08-31,-10.0
 Qatar,Doha,city,2020-08-31,-10.0
 Qatar,Doha,city,2020-09-01,-5.0
 Qatar,Doha,city,2020-09-02,-14.000000000000002
@@ -74059,6 +74077,7 @@ Singapore,Singapore,city,2020-08-27,-11.0
 Singapore,Singapore,city,2020-08-28,-12.0
 Singapore,Singapore,city,2020-08-29,-15.0
 Singapore,Singapore,city,2020-08-30,-3.0
+Singapore,Singapore,city,2020-08-31,-9.0
 Singapore,Singapore,city,2020-08-31,-9.0
 Singapore,Singapore,city,2020-09-01,-10.0
 Singapore,Singapore,city,2020-09-02,-8.0
@@ -86704,6 +86723,7 @@ United Kingdom,Manchester,city,2020-08-28,-31.0
 United Kingdom,Manchester,city,2020-08-29,-26.0
 United Kingdom,Manchester,city,2020-08-30,-9.0
 United Kingdom,Manchester,city,2020-08-31,-4.0
+United Kingdom,Manchester,city,2020-08-31,-4.0
 United Kingdom,Manchester,city,2020-09-01,-14.000000000000002
 United Kingdom,Manchester,city,2020-09-02,-17.0
 United Kingdom,Manchester,city,2020-09-03,-14.000000000000002
@@ -97786,6 +97806,7 @@ United States,Jersey City,city,2020-08-28,-19.0
 United States,Jersey City,city,2020-08-29,-23.0
 United States,Jersey City,city,2020-08-30,-6.0
 United States,Jersey City,city,2020-08-31,-7.000000000000001
+United States,Jersey City,city,2020-08-31,-7.000000000000001
 United States,Jersey City,city,2020-09-01,-16.0
 United States,Jersey City,city,2020-09-02,-8.0
 United States,Jersey City,city,2020-09-03,-28.000000000000004
@@ -102085,6 +102106,7 @@ United States,New York,city,2020-08-27,-10.0
 United States,New York,city,2020-08-28,-14.000000000000002
 United States,New York,city,2020-08-29,-20.0
 United States,New York,city,2020-08-30,-11.0
+United States,New York,city,2020-08-31,7.000000000000001
 United States,New York,city,2020-08-31,7.000000000000001
 United States,New York,city,2020-09-01,-11.0
 United States,New York,city,2020-09-02,-10.0
@@ -113176,6 +113198,7 @@ United States,Yonkers,city,2020-08-28,-6.0
 United States,Yonkers,city,2020-08-29,-22.0
 United States,Yonkers,city,2020-08-30,4.0
 United States,Yonkers,city,2020-08-31,6.0
+United States,Yonkers,city,2020-08-31,6.0
 United States,Yonkers,city,2020-09-01,5.0
 United States,Yonkers,city,2020-09-02,4.0
 United States,Yonkers,city,2020-09-03,-3.0
@@ -113791,6 +113814,7 @@ Uruguay,Montevideo,city,2020-08-27,-15.0
 Uruguay,Montevideo,city,2020-08-28,-30.0
 Uruguay,Montevideo,city,2020-08-29,-17.0
 Uruguay,Montevideo,city,2020-08-30,-7.000000000000001
+Uruguay,Montevideo,city,2020-08-31,-5.0
 Uruguay,Montevideo,city,2020-08-31,-5.0
 Uruguay,Montevideo,city,2020-09-01,-16.0
 Uruguay,Montevideo,city,2020-09-02,-2.0
