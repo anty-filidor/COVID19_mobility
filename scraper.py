@@ -64,14 +64,14 @@ def process_google_data():
         write_df_to_csv_and_excel(google_asia_africa, GOOGLE_ASIA_AFRICA_PATHS)
         # write_df_to_csv_and_excel(google_america_oceania, GOOGLE_AMERICA_OCEANIA_PATHS) # temporary disable
         # write Europe data
-        write_df_to_csv_and_excel(google_europe, GOOGLE_EUROPE_PATHS)
+        # write_df_to_csv_and_excel(google_europe, GOOGLE_EUROPE_PATHS)
         # convert csv to zip
-        convert_file_to_zip(
-            GOOGLE_EUROPE_ZIP_PATH,
-            GOOGLE_EUROPE_PATHS[".csv"],
-            GOOGLE_EUROPE_FILE + ".csv",
-        )
-        GOOGLE_EUROPE_PATHS[".csv"].unlink()
+#         convert_file_to_zip(
+#             GOOGLE_EUROPE_ZIP_PATH,
+#             GOOGLE_EUROPE_PATHS[".csv"],
+#             GOOGLE_EUROPE_FILE + ".csv",
+#         )
+#         GOOGLE_EUROPE_PATHS[".csv"].unlink()
         # zip raw report
         convert_file_to_zip(GOOGLE_ZIP_PATH, GOOGLE_CSV_PATH, GOOGLE_RAW_FILE)
     # delete raw CSV report
