@@ -86,7 +86,10 @@ def download_report(alpha_codes_filename):
     for _, row in city_data.iterrows():
         api_url = base_api_url + row["api_key"]
         response = requests.get(api_url)
-        city_df = pd.DataFrame(response.json())
+        json_data = response.json()
+        if not json_data or not (isinstance(json_data, list)):
+            continue
+        city_df = pd.DataFrame(json_data)
         city_df["country"] = row["countryName"]
         city_df["city"] = row["name"]
         city_df_list.append(city_df)
