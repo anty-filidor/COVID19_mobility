@@ -98,6 +98,7 @@ def download_report(alpha_codes_filename):
     tomtom_data = tomtom_data.loc[
         :, ["country", "city", "date", "congestion", "diffRatio"]
     ]
+    tomtom_data.drop_duplicates(inplace=True)
     tomtom_data = tomtom_data.sort_values(by=["country", "city", "date"]).reset_index(
         drop=True
     )

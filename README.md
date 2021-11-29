@@ -116,6 +116,8 @@ Scraped reports: [Google Sheets](https://docs.google.com/spreadsheets/d/1aAdXeAh
 
 diffRatio attribute shows relative difference of average congestion levels in 2020 from standard congestion levels in 2019.
 
+**Note: Data for China only available up to 21.02.2021**
+
 ### Summary reports:
 These are merged Apple and Google reports.
 
