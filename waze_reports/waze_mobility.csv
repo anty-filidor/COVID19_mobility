@@ -1361,6 +1361,7 @@ Australia,Brisbane,city,2020-03-31,-45.0
 Australia,Brisbane,city,2020-04-01,-42.0
 Australia,Brisbane,city,2020-04-02,-42.0
 Australia,Brisbane,city,2020-04-03,-45.0
+Australia,Brisbane,city,2020-04-03,-45.0
 Australia,Brisbane,city,2020-04-04,-59.0
 Australia,Brisbane,city,2020-04-05,-52.0
 Australia,Brisbane,city,2020-04-06,-41.0
@@ -2024,6 +2025,7 @@ Australia,Gold Coast,city,2020-03-30,-30.0
 Australia,Gold Coast,city,2020-03-31,-55.00000000000001
 Australia,Gold Coast,city,2020-04-01,-56.99999999999999
 Australia,Gold Coast,city,2020-04-02,-33.0
+Australia,Gold Coast,city,2020-04-03,-54.0
 Australia,Gold Coast,city,2020-04-03,-54.0
 Australia,Gold Coast,city,2020-04-04,-52.0
 Australia,Gold Coast,city,2020-04-05,-37.0
@@ -2689,6 +2691,7 @@ Australia,Melbourne,city,2020-03-31,-56.00000000000001
 Australia,Melbourne,city,2020-04-01,-57.99999999999999
 Australia,Melbourne,city,2020-04-02,-61.0
 Australia,Melbourne,city,2020-04-03,-61.0
+Australia,Melbourne,city,2020-04-03,-61.0
 Australia,Melbourne,city,2020-04-04,-74.0
 Australia,Melbourne,city,2020-04-05,-65.0
 Australia,Melbourne,city,2020-04-06,-57.99999999999999
@@ -3353,6 +3356,7 @@ Australia,Perth,city,2020-03-31,-41.0
 Australia,Perth,city,2020-04-01,-52.0
 Australia,Perth,city,2020-04-02,-53.0
 Australia,Perth,city,2020-04-03,-54.0
+Australia,Perth,city,2020-04-03,-54.0
 Australia,Perth,city,2020-04-04,-56.99999999999999
 Australia,Perth,city,2020-04-05,-64.0
 Australia,Perth,city,2020-04-06,-43.0
@@ -4016,6 +4020,7 @@ Australia,Sydney,city,2020-03-30,-39.0
 Australia,Sydney,city,2020-03-31,-43.0
 Australia,Sydney,city,2020-04-01,-47.0
 Australia,Sydney,city,2020-04-02,-50.0
+Australia,Sydney,city,2020-04-03,-57.99999999999999
 Australia,Sydney,city,2020-04-03,-57.99999999999999
 Australia,Sydney,city,2020-04-04,-72.0
 Australia,Sydney,city,2020-04-05,-51.0
@@ -9997,6 +10002,7 @@ Brazil,Curitiba,city,2020-03-31,-57.99999999999999
 Brazil,Curitiba,city,2020-04-01,-63.0
 Brazil,Curitiba,city,2020-04-02,-62.0
 Brazil,Curitiba,city,2020-04-03,-60.0
+Brazil,Curitiba,city,2020-04-03,-60.0
 Brazil,Curitiba,city,2020-04-04,-60.0
 Brazil,Curitiba,city,2020-04-05,-61.0
 Brazil,Curitiba,city,2020-04-06,-48.0
@@ -11988,6 +11994,7 @@ Brazil,Guarulhos,city,2020-03-30,-52.0
 Brazil,Guarulhos,city,2020-03-31,-56.00000000000001
 Brazil,Guarulhos,city,2020-04-01,-57.99999999999999
 Brazil,Guarulhos,city,2020-04-02,-56.99999999999999
+Brazil,Guarulhos,city,2020-04-03,-57.99999999999999
 Brazil,Guarulhos,city,2020-04-03,-57.99999999999999
 Brazil,Guarulhos,city,2020-04-04,-61.0
 Brazil,Guarulhos,city,2020-04-05,-60.0
@@ -15308,6 +15315,7 @@ Brazil,Sao Paulo,city,2020-03-30,-57.99999999999999
 Brazil,Sao Paulo,city,2020-03-31,-61.0
 Brazil,Sao Paulo,city,2020-04-01,-64.0
 Brazil,Sao Paulo,city,2020-04-02,-65.0
+Brazil,Sao Paulo,city,2020-04-03,-62.0
 Brazil,Sao Paulo,city,2020-04-03,-62.0
 Brazil,Sao Paulo,city,2020-04-04,-66.0
 Brazil,Sao Paulo,city,2020-04-05,-67.0
@@ -23935,6 +23943,7 @@ Chile,Maipu,city,2020-03-31,-48.0
 Chile,Maipu,city,2020-04-01,-47.0
 Chile,Maipu,city,2020-04-02,-45.0
 Chile,Maipu,city,2020-04-03,-43.0
+Chile,Maipu,city,2020-04-03,-43.0
 Chile,Maipu,city,2020-04-04,-60.0
 Chile,Maipu,city,2020-04-05,-72.0
 Chile,Maipu,city,2020-04-06,-59.0
@@ -28582,6 +28591,7 @@ Costa Rica,San Jose,city,2020-03-31,-57.99999999999999
 Costa Rica,San Jose,city,2020-04-01,-64.0
 Costa Rica,San Jose,city,2020-04-02,-70.0
 Costa Rica,San Jose,city,2020-04-03,-61.0
+Costa Rica,San Jose,city,2020-04-03,-61.0
 Costa Rica,San Jose,city,2020-04-04,-78.0
 Costa Rica,San Jose,city,2020-04-05,-76.0
 Costa Rica,San Jose,city,2020-04-06,-76.0
@@ -29910,6 +29920,7 @@ Czechia,Brno,city,2020-03-31,-64.0
 Czechia,Brno,city,2020-04-01,-59.0
 Czechia,Brno,city,2020-04-02,-57.99999999999999
 Czechia,Brno,city,2020-04-03,-59.0
+Czechia,Brno,city,2020-04-03,-59.0
 Czechia,Brno,city,2020-04-04,-56.00000000000001
 Czechia,Brno,city,2020-04-05,-63.0
 Czechia,Brno,city,2020-04-06,-49.0
@@ -30574,6 +30585,7 @@ Czechia,Prague,city,2020-03-30,-53.0
 Czechia,Prague,city,2020-03-31,-54.0
 Czechia,Prague,city,2020-04-01,-54.0
 Czechia,Prague,city,2020-04-02,-56.00000000000001
+Czechia,Prague,city,2020-04-03,-56.00000000000001
 Czechia,Prague,city,2020-04-03,-56.00000000000001
 Czechia,Prague,city,2020-04-04,-64.0
 Czechia,Prague,city,2020-04-05,-60.0
@@ -40536,6 +40548,7 @@ Hungary,Budapest,city,2020-03-31,-56.00000000000001
 Hungary,Budapest,city,2020-04-01,-55.00000000000001
 Hungary,Budapest,city,2020-04-02,-56.99999999999999
 Hungary,Budapest,city,2020-04-03,-55.00000000000001
+Hungary,Budapest,city,2020-04-03,-55.00000000000001
 Hungary,Budapest,city,2020-04-04,-59.0
 Hungary,Budapest,city,2020-04-05,-64.0
 Hungary,Budapest,city,2020-04-06,-50.0
@@ -43188,6 +43201,7 @@ Indonesia,South Tangerang,city,2020-03-31,-52.0
 Indonesia,South Tangerang,city,2020-04-01,-60.0
 Indonesia,South Tangerang,city,2020-04-02,-50.0
 Indonesia,South Tangerang,city,2020-04-03,-53.0
+Indonesia,South Tangerang,city,2020-04-03,-53.0
 Indonesia,South Tangerang,city,2020-04-04,-48.0
 Indonesia,South Tangerang,city,2020-04-05,-60.0
 Indonesia,South Tangerang,city,2020-04-06,-47.0
@@ -43840,6 +43854,7 @@ Indonesia,Tangerang,city,2020-03-30,-89.0
 Indonesia,Tangerang,city,2020-03-31,-79.0
 Indonesia,Tangerang,city,2020-04-01,-53.0
 Indonesia,Tangerang,city,2020-04-02,-79.0
+Indonesia,Tangerang,city,2020-04-03,-62.0
 Indonesia,Tangerang,city,2020-04-03,-62.0
 Indonesia,Tangerang,city,2020-04-04,-82.0
 Indonesia,Tangerang,city,2020-04-05,-80.0
@@ -52462,6 +52477,7 @@ Latvia,Riga,city,2020-03-31,-40.0
 Latvia,Riga,city,2020-04-01,-41.0
 Latvia,Riga,city,2020-04-02,-43.0
 Latvia,Riga,city,2020-04-03,-45.0
+Latvia,Riga,city,2020-04-03,-45.0
 Latvia,Riga,city,2020-04-04,-46.0
 Latvia,Riga,city,2020-04-05,-37.0
 Latvia,Riga,city,2020-04-06,-32.0
@@ -53791,6 +53807,7 @@ Lithuania,Kaunas,city,2020-03-31,-65.0
 Lithuania,Kaunas,city,2020-04-01,-59.0
 Lithuania,Kaunas,city,2020-04-02,-59.0
 Lithuania,Kaunas,city,2020-04-03,-56.00000000000001
+Lithuania,Kaunas,city,2020-04-03,-56.00000000000001
 Lithuania,Kaunas,city,2020-04-04,-56.99999999999999
 Lithuania,Kaunas,city,2020-04-05,-71.0
 Lithuania,Kaunas,city,2020-04-06,-43.0
@@ -55111,6 +55128,7 @@ Lithuania,Vilnius,city,2020-03-30,-60.0
 Lithuania,Vilnius,city,2020-03-31,-44.0
 Lithuania,Vilnius,city,2020-04-01,-64.0
 Lithuania,Vilnius,city,2020-04-02,-56.99999999999999
+Lithuania,Vilnius,city,2020-04-03,-57.99999999999999
 Lithuania,Vilnius,city,2020-04-03,-57.99999999999999
 Lithuania,Vilnius,city,2020-04-04,-64.0
 Lithuania,Vilnius,city,2020-04-05,-59.0
@@ -63082,6 +63100,7 @@ Mexico,Puebla City,city,2020-03-30,-55.00000000000001
 Mexico,Puebla City,city,2020-03-31,-53.0
 Mexico,Puebla City,city,2020-04-01,-59.0
 Mexico,Puebla City,city,2020-04-02,-59.0
+Mexico,Puebla City,city,2020-04-03,-62.0
 Mexico,Puebla City,city,2020-04-03,-62.0
 Mexico,Puebla City,city,2020-04-04,-68.0
 Mexico,Puebla City,city,2020-04-05,-62.0
@@ -85661,6 +85680,7 @@ Sweden,Stockholm,city,2020-03-31,-35.0
 Sweden,Stockholm,city,2020-04-01,-30.0
 Sweden,Stockholm,city,2020-04-02,-20.0
 Sweden,Stockholm,city,2020-04-03,-38.0
+Sweden,Stockholm,city,2020-04-03,-38.0
 Sweden,Stockholm,city,2020-04-04,-41.0
 Sweden,Stockholm,city,2020-04-05,-54.0
 Sweden,Stockholm,city,2020-04-06,-30.0
@@ -88315,6 +88335,7 @@ Ukraine,Lviv,city,2020-03-30,-50.0
 Ukraine,Lviv,city,2020-03-31,-59.0
 Ukraine,Lviv,city,2020-04-01,-63.0
 Ukraine,Lviv,city,2020-04-02,-75.0
+Ukraine,Lviv,city,2020-04-03,-60.0
 Ukraine,Lviv,city,2020-04-03,-60.0
 Ukraine,Lviv,city,2020-04-04,-76.0
 Ukraine,Lviv,city,2020-04-05,-63.0
@@ -102543,6 +102564,7 @@ United States,Fort Worth,city,2020-03-31,-60.0
 United States,Fort Worth,city,2020-04-01,-56.99999999999999
 United States,Fort Worth,city,2020-04-02,-59.0
 United States,Fort Worth,city,2020-04-03,-61.0
+United States,Fort Worth,city,2020-04-03,-61.0
 United States,Fort Worth,city,2020-04-04,-69.0
 United States,Fort Worth,city,2020-04-05,-67.0
 United States,Fort Worth,city,2020-04-06,-57.99999999999999
@@ -114480,6 +114502,7 @@ United States,Raleigh,city,2020-03-31,-64.0
 United States,Raleigh,city,2020-04-01,-63.0
 United States,Raleigh,city,2020-04-02,-66.0
 United States,Raleigh,city,2020-04-03,-59.0
+United States,Raleigh,city,2020-04-03,-59.0
 United States,Raleigh,city,2020-04-04,-70.0
 United States,Raleigh,city,2020-04-05,-69.0
 United States,Raleigh,city,2020-04-06,-66.0
@@ -122450,6 +122473,7 @@ Uruguay,Montevideo,city,2020-03-30,-62.0
 Uruguay,Montevideo,city,2020-03-31,-68.0
 Uruguay,Montevideo,city,2020-04-01,-64.0
 Uruguay,Montevideo,city,2020-04-02,-61.0
+Uruguay,Montevideo,city,2020-04-03,-63.0
 Uruguay,Montevideo,city,2020-04-03,-63.0
 Uruguay,Montevideo,city,2020-04-04,-68.0
 Uruguay,Montevideo,city,2020-04-05,-79.0
