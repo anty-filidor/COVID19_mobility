@@ -56,6 +56,8 @@ Argentina,Buenos Aires,city,2020-04-23,-75.0
 Argentina,Buenos Aires,city,2020-04-24,-74.0
 Argentina,Buenos Aires,city,2020-04-25,-82.0
 Argentina,Buenos Aires,city,2020-04-26,-89.0
+Argentina,Buenos Aires,city,2020-04-26,-89.0
+Argentina,Buenos Aires,city,2020-04-27,-71.0
 Argentina,Buenos Aires,city,2020-04-27,-71.0
 Argentina,Buenos Aires,city,2020-04-28,-73.0
 Argentina,Buenos Aires,city,2020-04-29,-70.0
@@ -1399,6 +1401,7 @@ Australia,Brisbane,city,2020-04-24,-45.0
 Australia,Brisbane,city,2020-04-25,-56.99999999999999
 Australia,Brisbane,city,2020-04-26,-43.0
 Australia,Brisbane,city,2020-04-27,-39.0
+Australia,Brisbane,city,2020-04-27,-39.0
 Australia,Brisbane,city,2020-04-28,-37.0
 Australia,Brisbane,city,2020-04-29,-38.0
 Australia,Brisbane,city,2020-04-30,-36.0
@@ -2069,6 +2072,7 @@ Australia,Gold Coast,city,2020-04-23,-42.0
 Australia,Gold Coast,city,2020-04-24,-31.0
 Australia,Gold Coast,city,2020-04-25,-52.0
 Australia,Gold Coast,city,2020-04-26,-37.0
+Australia,Gold Coast,city,2020-04-27,-20.0
 Australia,Gold Coast,city,2020-04-27,-20.0
 Australia,Gold Coast,city,2020-04-28,-36.0
 Australia,Gold Coast,city,2020-04-29,-39.0
@@ -2741,6 +2745,7 @@ Australia,Melbourne,city,2020-04-24,-56.99999999999999
 Australia,Melbourne,city,2020-04-25,-67.0
 Australia,Melbourne,city,2020-04-26,-69.0
 Australia,Melbourne,city,2020-04-27,-56.00000000000001
+Australia,Melbourne,city,2020-04-27,-56.00000000000001
 Australia,Melbourne,city,2020-04-28,-56.00000000000001
 Australia,Melbourne,city,2020-04-29,-54.0
 Australia,Melbourne,city,2020-04-30,-56.99999999999999
@@ -3412,6 +3417,7 @@ Australia,Perth,city,2020-04-24,-43.0
 Australia,Perth,city,2020-04-25,-50.0
 Australia,Perth,city,2020-04-26,-50.0
 Australia,Perth,city,2020-04-27,-64.0
+Australia,Perth,city,2020-04-27,-64.0
 Australia,Perth,city,2020-04-28,-41.0
 Australia,Perth,city,2020-04-29,-33.0
 Australia,Perth,city,2020-04-30,-41.0
@@ -4082,6 +4088,7 @@ Australia,Sydney,city,2020-04-23,-50.0
 Australia,Sydney,city,2020-04-24,-53.0
 Australia,Sydney,city,2020-04-25,-50.0
 Australia,Sydney,city,2020-04-26,-46.0
+Australia,Sydney,city,2020-04-27,-45.0
 Australia,Sydney,city,2020-04-27,-45.0
 Australia,Sydney,city,2020-04-28,-32.0
 Australia,Sydney,city,2020-04-29,-41.0
@@ -6097,6 +6104,7 @@ Belgium,Antwerp,city,2020-04-23,-77.0
 Belgium,Antwerp,city,2020-04-24,-76.0
 Belgium,Antwerp,city,2020-04-25,-81.0
 Belgium,Antwerp,city,2020-04-26,-84.0
+Belgium,Antwerp,city,2020-04-26,-84.0
 Belgium,Antwerp,city,2020-04-27,-73.0
 Belgium,Antwerp,city,2020-04-28,-68.0
 Belgium,Antwerp,city,2020-04-29,-68.0
@@ -7440,6 +7448,8 @@ Belgium,Ghent,city,2020-04-23,-76.0
 Belgium,Ghent,city,2020-04-24,-79.0
 Belgium,Ghent,city,2020-04-25,-83.0
 Belgium,Ghent,city,2020-04-26,-86.0
+Belgium,Ghent,city,2020-04-26,-86.0
+Belgium,Ghent,city,2020-04-27,-71.0
 Belgium,Ghent,city,2020-04-27,-71.0
 Belgium,Ghent,city,2020-04-28,-70.0
 Belgium,Ghent,city,2020-04-29,-75.0
@@ -8783,6 +8793,7 @@ Brazil,Belo Horizonte,city,2020-04-24,-60.0
 Brazil,Belo Horizonte,city,2020-04-25,-67.0
 Brazil,Belo Horizonte,city,2020-04-26,-67.0
 Brazil,Belo Horizonte,city,2020-04-27,-53.0
+Brazil,Belo Horizonte,city,2020-04-27,-53.0
 Brazil,Belo Horizonte,city,2020-04-28,-55.00000000000001
 Brazil,Belo Horizonte,city,2020-04-29,-56.99999999999999
 Brazil,Belo Horizonte,city,2020-04-30,-52.0
@@ -9453,6 +9464,7 @@ Brazil,Brasilia,city,2020-04-23,-78.0
 Brazil,Brasilia,city,2020-04-24,-76.0
 Brazil,Brasilia,city,2020-04-25,-71.0
 Brazil,Brasilia,city,2020-04-26,-76.0
+Brazil,Brasilia,city,2020-04-27,-67.0
 Brazil,Brasilia,city,2020-04-27,-67.0
 Brazil,Brasilia,city,2020-04-28,-78.0
 Brazil,Brasilia,city,2020-04-29,-74.0
@@ -10125,6 +10137,7 @@ Brazil,Curitiba,city,2020-04-24,-50.0
 Brazil,Curitiba,city,2020-04-25,-50.0
 Brazil,Curitiba,city,2020-04-26,-54.0
 Brazil,Curitiba,city,2020-04-27,-40.0
+Brazil,Curitiba,city,2020-04-27,-40.0
 Brazil,Curitiba,city,2020-04-28,-38.0
 Brazil,Curitiba,city,2020-04-29,-48.0
 Brazil,Curitiba,city,2020-04-30,-42.0
@@ -10795,6 +10808,8 @@ Brazil,Florianopolis,city,2020-04-23,-66.0
 Brazil,Florianopolis,city,2020-04-24,-69.0
 Brazil,Florianopolis,city,2020-04-25,-82.0
 Brazil,Florianopolis,city,2020-04-26,-84.0
+Brazil,Florianopolis,city,2020-04-26,-84.0
+Brazil,Florianopolis,city,2020-04-27,-67.0
 Brazil,Florianopolis,city,2020-04-27,-67.0
 Brazil,Florianopolis,city,2020-04-28,-65.0
 Brazil,Florianopolis,city,2020-04-29,-53.0
@@ -11467,6 +11482,7 @@ Brazil,Fortaleza,city,2020-04-24,-61.0
 Brazil,Fortaleza,city,2020-04-25,-62.0
 Brazil,Fortaleza,city,2020-04-26,-64.0
 Brazil,Fortaleza,city,2020-04-27,-51.0
+Brazil,Fortaleza,city,2020-04-27,-51.0
 Brazil,Fortaleza,city,2020-04-28,-55.00000000000001
 Brazil,Fortaleza,city,2020-04-29,-62.0
 Brazil,Fortaleza,city,2020-04-30,-56.99999999999999
@@ -12137,6 +12153,7 @@ Brazil,Guarulhos,city,2020-04-23,-51.0
 Brazil,Guarulhos,city,2020-04-24,-52.0
 Brazil,Guarulhos,city,2020-04-25,-51.0
 Brazil,Guarulhos,city,2020-04-26,-56.99999999999999
+Brazil,Guarulhos,city,2020-04-27,-40.0
 Brazil,Guarulhos,city,2020-04-27,-40.0
 Brazil,Guarulhos,city,2020-04-28,-48.0
 Brazil,Guarulhos,city,2020-04-29,-50.0
@@ -12809,6 +12826,7 @@ Brazil,Porto Alegre,city,2020-04-24,-54.0
 Brazil,Porto Alegre,city,2020-04-25,-47.0
 Brazil,Porto Alegre,city,2020-04-26,-49.0
 Brazil,Porto Alegre,city,2020-04-27,-44.0
+Brazil,Porto Alegre,city,2020-04-27,-44.0
 Brazil,Porto Alegre,city,2020-04-28,-50.0
 Brazil,Porto Alegre,city,2020-04-29,-51.0
 Brazil,Porto Alegre,city,2020-04-30,-46.0
@@ -13479,6 +13497,7 @@ Brazil,Recife,city,2020-04-23,-72.0
 Brazil,Recife,city,2020-04-24,-71.0
 Brazil,Recife,city,2020-04-25,-74.0
 Brazil,Recife,city,2020-04-26,-73.0
+Brazil,Recife,city,2020-04-27,-63.0
 Brazil,Recife,city,2020-04-27,-63.0
 Brazil,Recife,city,2020-04-28,-65.0
 Brazil,Recife,city,2020-04-29,-69.0
@@ -14151,6 +14170,7 @@ Brazil,Rio De Janeiro,city,2020-04-24,-63.0
 Brazil,Rio De Janeiro,city,2020-04-25,-71.0
 Brazil,Rio De Janeiro,city,2020-04-26,-73.0
 Brazil,Rio De Janeiro,city,2020-04-27,-56.99999999999999
+Brazil,Rio De Janeiro,city,2020-04-27,-56.99999999999999
 Brazil,Rio De Janeiro,city,2020-04-28,-60.0
 Brazil,Rio De Janeiro,city,2020-04-29,-63.0
 Brazil,Rio De Janeiro,city,2020-04-30,-60.0
@@ -14822,6 +14842,7 @@ Brazil,Salvador,city,2020-04-24,-63.0
 Brazil,Salvador,city,2020-04-25,-69.0
 Brazil,Salvador,city,2020-04-26,-72.0
 Brazil,Salvador,city,2020-04-27,-60.0
+Brazil,Salvador,city,2020-04-27,-60.0
 Brazil,Salvador,city,2020-04-28,-60.0
 Brazil,Salvador,city,2020-04-29,-64.0
 Brazil,Salvador,city,2020-04-30,-56.00000000000001
@@ -15492,6 +15513,7 @@ Brazil,Sao Paulo,city,2020-04-23,-57.99999999999999
 Brazil,Sao Paulo,city,2020-04-24,-55.00000000000001
 Brazil,Sao Paulo,city,2020-04-25,-60.0
 Brazil,Sao Paulo,city,2020-04-26,-61.0
+Brazil,Sao Paulo,city,2020-04-27,-46.0
 Brazil,Sao Paulo,city,2020-04-27,-46.0
 Brazil,Sao Paulo,city,2020-04-28,-51.0
 Brazil,Sao Paulo,city,2020-04-29,-55.00000000000001
@@ -16835,6 +16857,7 @@ Brazil,Vitoria,city,2020-04-24,-74.0
 Brazil,Vitoria,city,2020-04-25,-63.0
 Brazil,Vitoria,city,2020-04-26,-67.0
 Brazil,Vitoria,city,2020-04-27,-50.0
+Brazil,Vitoria,city,2020-04-27,-50.0
 Brazil,Vitoria,city,2020-04-28,-65.0
 Brazil,Vitoria,city,2020-04-29,-57.99999999999999
 Brazil,Vitoria,city,2020-04-30,-55.00000000000001
@@ -17503,6 +17526,7 @@ Canada,Calgary,city,2020-04-24,-54.0
 Canada,Calgary,city,2020-04-25,-55.00000000000001
 Canada,Calgary,city,2020-04-26,-68.0
 Canada,Calgary,city,2020-04-27,-65.0
+Canada,Calgary,city,2020-04-27,-65.0
 Canada,Calgary,city,2020-04-28,-74.0
 Canada,Calgary,city,2020-04-29,-52.0
 Canada,Calgary,city,2020-04-30,-63.0
@@ -18169,6 +18193,7 @@ Canada,Hamilton,city,2020-04-23,-60.0
 Canada,Hamilton,city,2020-04-24,-54.0
 Canada,Hamilton,city,2020-04-25,-44.0
 Canada,Hamilton,city,2020-04-26,-64.0
+Canada,Hamilton,city,2020-04-27,-35.0
 Canada,Hamilton,city,2020-04-27,-35.0
 Canada,Hamilton,city,2020-04-28,-48.0
 Canada,Hamilton,city,2020-04-29,-47.0
@@ -18841,6 +18866,7 @@ Canada,Mississauga,city,2020-04-24,-71.0
 Canada,Mississauga,city,2020-04-25,-67.0
 Canada,Mississauga,city,2020-04-26,-74.0
 Canada,Mississauga,city,2020-04-27,-64.0
+Canada,Mississauga,city,2020-04-27,-64.0
 Canada,Mississauga,city,2020-04-28,-71.0
 Canada,Mississauga,city,2020-04-29,-70.0
 Canada,Mississauga,city,2020-04-30,-69.0
@@ -19511,6 +19537,7 @@ Canada,Montreal,city,2020-04-23,-71.0
 Canada,Montreal,city,2020-04-24,-68.0
 Canada,Montreal,city,2020-04-25,-69.0
 Canada,Montreal,city,2020-04-26,-76.0
+Canada,Montreal,city,2020-04-27,-70.0
 Canada,Montreal,city,2020-04-27,-70.0
 Canada,Montreal,city,2020-04-28,-68.0
 Canada,Montreal,city,2020-04-29,-67.0
@@ -20183,6 +20210,7 @@ Canada,Ottawa,city,2020-04-24,-73.0
 Canada,Ottawa,city,2020-04-25,-70.0
 Canada,Ottawa,city,2020-04-26,-71.0
 Canada,Ottawa,city,2020-04-27,-62.0
+Canada,Ottawa,city,2020-04-27,-62.0
 Canada,Ottawa,city,2020-04-28,-61.0
 Canada,Ottawa,city,2020-04-29,-69.0
 Canada,Ottawa,city,2020-04-30,-71.0
@@ -20854,6 +20882,7 @@ Canada,Quebec City,city,2020-04-23,-81.0
 Canada,Quebec City,city,2020-04-24,-79.0
 Canada,Quebec City,city,2020-04-25,-82.0
 Canada,Quebec City,city,2020-04-26,-78.0
+Canada,Quebec City,city,2020-04-26,-78.0
 Canada,Quebec City,city,2020-04-27,-73.0
 Canada,Quebec City,city,2020-04-28,-85.0
 Canada,Quebec City,city,2020-04-29,-72.0
@@ -21523,6 +21552,7 @@ Canada,Toronto,city,2020-04-23,-70.0
 Canada,Toronto,city,2020-04-24,-67.0
 Canada,Toronto,city,2020-04-25,-65.0
 Canada,Toronto,city,2020-04-26,-69.0
+Canada,Toronto,city,2020-04-27,-63.0
 Canada,Toronto,city,2020-04-27,-63.0
 Canada,Toronto,city,2020-04-28,-67.0
 Canada,Toronto,city,2020-04-29,-66.0
@@ -22866,6 +22896,7 @@ Canada,Vaughan,city,2020-04-24,-64.0
 Canada,Vaughan,city,2020-04-25,-66.0
 Canada,Vaughan,city,2020-04-26,-54.0
 Canada,Vaughan,city,2020-04-27,-56.00000000000001
+Canada,Vaughan,city,2020-04-27,-56.00000000000001
 Canada,Vaughan,city,2020-04-28,-64.0
 Canada,Vaughan,city,2020-04-29,-65.0
 Canada,Vaughan,city,2020-04-30,-65.0
@@ -23538,6 +23569,7 @@ Chile,Las Condes,city,2020-04-24,-47.0
 Chile,Las Condes,city,2020-04-25,-45.0
 Chile,Las Condes,city,2020-04-26,-69.0
 Chile,Las Condes,city,2020-04-27,-64.0
+Chile,Las Condes,city,2020-04-27,-64.0
 Chile,Las Condes,city,2020-04-28,-52.0
 Chile,Las Condes,city,2020-04-29,-40.0
 Chile,Las Condes,city,2020-04-30,-53.0
@@ -24209,6 +24241,7 @@ Chile,Maipu,city,2020-04-24,-37.0
 Chile,Maipu,city,2020-04-25,-49.0
 Chile,Maipu,city,2020-04-26,-63.0
 Chile,Maipu,city,2020-04-27,-55.00000000000001
+Chile,Maipu,city,2020-04-27,-55.00000000000001
 Chile,Maipu,city,2020-04-28,-28.000000000000004
 Chile,Maipu,city,2020-04-29,-33.0
 Chile,Maipu,city,2020-04-30,-17.0
@@ -24879,6 +24912,7 @@ Chile,Santiago,city,2020-04-23,-55.00000000000001
 Chile,Santiago,city,2020-04-24,-55.00000000000001
 Chile,Santiago,city,2020-04-25,-63.0
 Chile,Santiago,city,2020-04-26,-73.0
+Chile,Santiago,city,2020-04-27,-61.0
 Chile,Santiago,city,2020-04-27,-61.0
 Chile,Santiago,city,2020-04-28,-52.0
 Chile,Santiago,city,2020-04-29,-46.0
@@ -26221,6 +26255,7 @@ Colombia,Bogota,city,2020-04-23,-79.0
 Colombia,Bogota,city,2020-04-24,-79.0
 Colombia,Bogota,city,2020-04-25,-82.0
 Colombia,Bogota,city,2020-04-26,-84.0
+Colombia,Bogota,city,2020-04-26,-84.0
 Colombia,Bogota,city,2020-04-27,-76.0
 Colombia,Bogota,city,2020-04-28,-76.0
 Colombia,Bogota,city,2020-04-29,-74.0
@@ -26892,6 +26927,7 @@ Colombia,Cali,city,2020-04-23,-86.0
 Colombia,Cali,city,2020-04-24,-83.0
 Colombia,Cali,city,2020-04-25,-84.0
 Colombia,Cali,city,2020-04-26,-88.0
+Colombia,Cali,city,2020-04-26,-88.0
 Colombia,Cali,city,2020-04-27,-82.0
 Colombia,Cali,city,2020-04-28,-82.0
 Colombia,Cali,city,2020-04-29,-89.0
@@ -27560,6 +27596,7 @@ Colombia,Medellin,city,2020-04-22,-83.0
 Colombia,Medellin,city,2020-04-23,-81.0
 Colombia,Medellin,city,2020-04-24,-83.0
 Colombia,Medellin,city,2020-04-25,-84.0
+Colombia,Medellin,city,2020-04-26,-84.0
 Colombia,Medellin,city,2020-04-26,-84.0
 Colombia,Medellin,city,2020-04-27,-81.0
 Colombia,Medellin,city,2020-04-28,-82.0
@@ -28903,6 +28940,8 @@ Costa Rica,San Jose,city,2020-04-23,-64.0
 Costa Rica,San Jose,city,2020-04-24,-63.0
 Costa Rica,San Jose,city,2020-04-25,-78.0
 Costa Rica,San Jose,city,2020-04-26,-81.0
+Costa Rica,San Jose,city,2020-04-26,-81.0
+Costa Rica,San Jose,city,2020-04-27,-59.0
 Costa Rica,San Jose,city,2020-04-27,-59.0
 Costa Rica,San Jose,city,2020-04-28,-57.99999999999999
 Costa Rica,San Jose,city,2020-04-29,-57.99999999999999
@@ -30246,6 +30285,7 @@ Czechia,Brno,city,2020-04-24,-44.0
 Czechia,Brno,city,2020-04-25,-50.0
 Czechia,Brno,city,2020-04-26,-46.0
 Czechia,Brno,city,2020-04-27,-33.0
+Czechia,Brno,city,2020-04-27,-33.0
 Czechia,Brno,city,2020-04-28,-36.0
 Czechia,Brno,city,2020-04-29,-27.0
 Czechia,Brno,city,2020-04-30,-31.0
@@ -30917,6 +30957,7 @@ Czechia,Prague,city,2020-04-23,-38.0
 Czechia,Prague,city,2020-04-24,-40.0
 Czechia,Prague,city,2020-04-25,-50.0
 Czechia,Prague,city,2020-04-26,-35.0
+Czechia,Prague,city,2020-04-27,-27.0
 Czechia,Prague,city,2020-04-27,-27.0
 Czechia,Prague,city,2020-04-28,-27.0
 Czechia,Prague,city,2020-04-29,-27.0
@@ -32259,6 +32300,7 @@ Ecuador,Quito,city,2020-04-22,-84.0
 Ecuador,Quito,city,2020-04-23,-80.0
 Ecuador,Quito,city,2020-04-24,-78.0
 Ecuador,Quito,city,2020-04-25,-93.0
+Ecuador,Quito,city,2020-04-26,-90.0
 Ecuador,Quito,city,2020-04-26,-90.0
 Ecuador,Quito,city,2020-04-27,-79.0
 Ecuador,Quito,city,2020-04-28,-72.0
@@ -34273,6 +34315,7 @@ France,Bordeaux,city,2020-04-23,-80.0
 France,Bordeaux,city,2020-04-24,-85.0
 France,Bordeaux,city,2020-04-25,-87.0
 France,Bordeaux,city,2020-04-26,-91.0
+France,Bordeaux,city,2020-04-26,-91.0
 France,Bordeaux,city,2020-04-27,-79.0
 France,Bordeaux,city,2020-04-28,-78.0
 France,Bordeaux,city,2020-04-29,-81.0
@@ -34943,6 +34986,7 @@ France,Lille,city,2020-04-22,-87.0
 France,Lille,city,2020-04-23,-84.0
 France,Lille,city,2020-04-24,-84.0
 France,Lille,city,2020-04-25,-86.0
+France,Lille,city,2020-04-26,-93.0
 France,Lille,city,2020-04-26,-93.0
 France,Lille,city,2020-04-27,-82.0
 France,Lille,city,2020-04-28,-80.0
@@ -35615,6 +35659,7 @@ France,Lyon,city,2020-04-23,-83.0
 France,Lyon,city,2020-04-24,-85.0
 France,Lyon,city,2020-04-25,-89.0
 France,Lyon,city,2020-04-26,-92.0
+France,Lyon,city,2020-04-26,-92.0
 France,Lyon,city,2020-04-27,-78.0
 France,Lyon,city,2020-04-28,-77.0
 France,Lyon,city,2020-04-29,-77.0
@@ -36285,6 +36330,7 @@ France,Marseille,city,2020-04-22,-81.0
 France,Marseille,city,2020-04-23,-78.0
 France,Marseille,city,2020-04-24,-77.0
 France,Marseille,city,2020-04-25,-86.0
+France,Marseille,city,2020-04-26,-91.0
 France,Marseille,city,2020-04-26,-91.0
 France,Marseille,city,2020-04-27,-74.0
 France,Marseille,city,2020-04-28,-76.0
@@ -36957,6 +37003,8 @@ France,Paris,city,2020-04-23,-74.0
 France,Paris,city,2020-04-24,-77.0
 France,Paris,city,2020-04-25,-87.0
 France,Paris,city,2020-04-26,-88.0
+France,Paris,city,2020-04-26,-88.0
+France,Paris,city,2020-04-27,-71.0
 France,Paris,city,2020-04-27,-71.0
 France,Paris,city,2020-04-28,-71.0
 France,Paris,city,2020-04-29,-70.0
@@ -38299,6 +38347,7 @@ France,Toulouse,city,2020-04-23,-81.0
 France,Toulouse,city,2020-04-24,-82.0
 France,Toulouse,city,2020-04-25,-85.0
 France,Toulouse,city,2020-04-26,-91.0
+France,Toulouse,city,2020-04-26,-91.0
 France,Toulouse,city,2020-04-27,-79.0
 France,Toulouse,city,2020-04-28,-79.0
 France,Toulouse,city,2020-04-29,-78.0
@@ -38970,6 +39019,7 @@ Germany,Berlin,city,2020-04-23,-75.0
 Germany,Berlin,city,2020-04-24,-47.0
 Germany,Berlin,city,2020-04-25,-38.0
 Germany,Berlin,city,2020-04-26,-65.0
+Germany,Berlin,city,2020-04-27,-50.0
 Germany,Berlin,city,2020-04-27,-50.0
 Germany,Berlin,city,2020-04-28,-38.0
 Germany,Berlin,city,2020-04-29,-50.0
@@ -40983,6 +41033,7 @@ Hungary,Budapest,city,2020-04-24,-48.0
 Hungary,Budapest,city,2020-04-25,-54.0
 Hungary,Budapest,city,2020-04-26,-56.99999999999999
 Hungary,Budapest,city,2020-04-27,-45.0
+Hungary,Budapest,city,2020-04-27,-45.0
 Hungary,Budapest,city,2020-04-28,-44.0
 Hungary,Budapest,city,2020-04-29,-44.0
 Hungary,Budapest,city,2020-04-30,-37.0
@@ -42324,6 +42375,8 @@ Indonesia,Bekasi,city,2020-04-23,-62.0
 Indonesia,Bekasi,city,2020-04-24,-73.0
 Indonesia,Bekasi,city,2020-04-25,-86.0
 Indonesia,Bekasi,city,2020-04-26,-85.0
+Indonesia,Bekasi,city,2020-04-26,-85.0
+Indonesia,Bekasi,city,2020-04-27,-62.0
 Indonesia,Bekasi,city,2020-04-27,-62.0
 Indonesia,Bekasi,city,2020-04-28,-40.0
 Indonesia,Bekasi,city,2020-04-29,-60.0
@@ -42990,6 +43043,7 @@ Indonesia,Jakarta,city,2020-04-22,-72.0
 Indonesia,Jakarta,city,2020-04-23,-70.0
 Indonesia,Jakarta,city,2020-04-24,-79.0
 Indonesia,Jakarta,city,2020-04-25,-81.0
+Indonesia,Jakarta,city,2020-04-26,-82.0
 Indonesia,Jakarta,city,2020-04-26,-82.0
 Indonesia,Jakarta,city,2020-04-27,-73.0
 Indonesia,Jakarta,city,2020-04-28,-71.0
@@ -44322,6 +44376,7 @@ Indonesia,Tangerang,city,2020-04-23,-47.0
 Indonesia,Tangerang,city,2020-04-24,-62.0
 Indonesia,Tangerang,city,2020-04-25,-82.0
 Indonesia,Tangerang,city,2020-04-26,-80.0
+Indonesia,Tangerang,city,2020-04-26,-80.0
 Indonesia,Tangerang,city,2020-04-27,-79.0
 Indonesia,Tangerang,city,2020-04-28,-79.0
 Indonesia,Tangerang,city,2020-04-29,-76.0
@@ -45652,6 +45707,7 @@ Israel,Be'er Sheva,city,2020-04-24,-50.0
 Israel,Be'er Sheva,city,2020-04-25,-62.0
 Israel,Be'er Sheva,city,2020-04-26,-33.0
 Israel,Be'er Sheva,city,2020-04-27,-34.0
+Israel,Be'er Sheva,city,2020-04-27,-34.0
 Israel,Be'er Sheva,city,2020-04-28,-53.0
 Israel,Be'er Sheva,city,2020-04-29,-83.0
 Israel,Be'er Sheva,city,2020-04-30,-34.0
@@ -46321,6 +46377,7 @@ Israel,Haifa,city,2020-04-23,-49.0
 Israel,Haifa,city,2020-04-24,-57.99999999999999
 Israel,Haifa,city,2020-04-25,-71.0
 Israel,Haifa,city,2020-04-26,-37.0
+Israel,Haifa,city,2020-04-27,-39.0
 Israel,Haifa,city,2020-04-27,-39.0
 Israel,Haifa,city,2020-04-28,-65.0
 Israel,Haifa,city,2020-04-29,-90.0
@@ -46993,6 +47050,7 @@ Israel,Jerusalem,city,2020-04-24,-59.0
 Israel,Jerusalem,city,2020-04-25,-75.0
 Israel,Jerusalem,city,2020-04-26,-47.0
 Israel,Jerusalem,city,2020-04-27,-54.0
+Israel,Jerusalem,city,2020-04-27,-54.0
 Israel,Jerusalem,city,2020-04-28,-69.0
 Israel,Jerusalem,city,2020-04-29,-90.0
 Israel,Jerusalem,city,2020-04-30,-48.0
@@ -47663,6 +47721,7 @@ Israel,Petah Tikva,city,2020-04-23,-47.0
 Israel,Petah Tikva,city,2020-04-24,-49.0
 Israel,Petah Tikva,city,2020-04-25,-67.0
 Israel,Petah Tikva,city,2020-04-26,-35.0
+Israel,Petah Tikva,city,2020-04-27,-37.0
 Israel,Petah Tikva,city,2020-04-27,-37.0
 Israel,Petah Tikva,city,2020-04-28,-63.0
 Israel,Petah Tikva,city,2020-04-29,-87.0
@@ -48336,6 +48395,7 @@ Israel,Ramat Gan,city,2020-04-24,-47.0
 Israel,Ramat Gan,city,2020-04-25,-63.0
 Israel,Ramat Gan,city,2020-04-26,-27.0
 Israel,Ramat Gan,city,2020-04-27,-41.0
+Israel,Ramat Gan,city,2020-04-27,-41.0
 Israel,Ramat Gan,city,2020-04-28,-59.0
 Israel,Ramat Gan,city,2020-04-29,-81.0
 Israel,Ramat Gan,city,2020-04-30,-31.0
@@ -49006,6 +49066,7 @@ Israel,Rishon Letsiyon,city,2020-04-23,-42.0
 Israel,Rishon Letsiyon,city,2020-04-24,-47.0
 Israel,Rishon Letsiyon,city,2020-04-25,-70.0
 Israel,Rishon Letsiyon,city,2020-04-26,-30.0
+Israel,Rishon Letsiyon,city,2020-04-27,-39.0
 Israel,Rishon Letsiyon,city,2020-04-27,-39.0
 Israel,Rishon Letsiyon,city,2020-04-28,-56.99999999999999
 Israel,Rishon Letsiyon,city,2020-04-29,-86.0
@@ -49678,6 +49739,7 @@ Israel,Tel Aviv-Yafo,city,2020-04-23,-51.0
 Israel,Tel Aviv-Yafo,city,2020-04-24,-64.0
 Israel,Tel Aviv-Yafo,city,2020-04-25,-72.0
 Israel,Tel Aviv-Yafo,city,2020-04-26,-35.0
+Israel,Tel Aviv-Yafo,city,2020-04-27,-43.0
 Israel,Tel Aviv-Yafo,city,2020-04-27,-43.0
 Israel,Tel Aviv-Yafo,city,2020-04-28,-66.0
 Israel,Tel Aviv-Yafo,city,2020-04-29,-87.0
@@ -51020,6 +51082,7 @@ Italy,Milan,city,2020-04-23,-84.0
 Italy,Milan,city,2020-04-24,-85.0
 Italy,Milan,city,2020-04-25,-91.0
 Italy,Milan,city,2020-04-26,-95.0
+Italy,Milan,city,2020-04-26,-95.0
 Italy,Milan,city,2020-04-27,-78.0
 Italy,Milan,city,2020-04-28,-83.0
 Italy,Milan,city,2020-04-29,-84.0
@@ -51689,6 +51752,7 @@ Italy,Rome,city,2020-04-22,-84.0
 Italy,Rome,city,2020-04-23,-84.0
 Italy,Rome,city,2020-04-24,-83.0
 Italy,Rome,city,2020-04-25,-91.0
+Italy,Rome,city,2020-04-26,-93.0
 Italy,Rome,city,2020-04-26,-93.0
 Italy,Rome,city,2020-04-27,-83.0
 Italy,Rome,city,2020-04-28,-81.0
@@ -53033,6 +53097,7 @@ Latvia,Riga,city,2020-04-24,-34.0
 Latvia,Riga,city,2020-04-25,-35.0
 Latvia,Riga,city,2020-04-26,-32.0
 Latvia,Riga,city,2020-04-27,-27.0
+Latvia,Riga,city,2020-04-27,-27.0
 Latvia,Riga,city,2020-04-28,-25.0
 Latvia,Riga,city,2020-04-29,-24.0
 Latvia,Riga,city,2020-04-30,-17.0
@@ -54375,6 +54440,7 @@ Lithuania,Kaunas,city,2020-04-24,-44.0
 Lithuania,Kaunas,city,2020-04-25,-43.0
 Lithuania,Kaunas,city,2020-04-26,-43.0
 Lithuania,Kaunas,city,2020-04-27,-36.0
+Lithuania,Kaunas,city,2020-04-27,-36.0
 Lithuania,Kaunas,city,2020-04-28,-44.0
 Lithuania,Kaunas,city,2020-04-29,-45.0
 Lithuania,Kaunas,city,2020-04-30,-31.0
@@ -55709,6 +55775,7 @@ Lithuania,Vilnius,city,2020-04-23,-46.0
 Lithuania,Vilnius,city,2020-04-24,-48.0
 Lithuania,Vilnius,city,2020-04-25,-54.0
 Lithuania,Vilnius,city,2020-04-26,-44.0
+Lithuania,Vilnius,city,2020-04-27,-38.0
 Lithuania,Vilnius,city,2020-04-27,-38.0
 Lithuania,Vilnius,city,2020-04-28,-41.0
 Lithuania,Vilnius,city,2020-04-29,-42.0
@@ -57052,6 +57119,8 @@ Malaysia,Ipoh,city,2020-04-23,-81.0
 Malaysia,Ipoh,city,2020-04-24,-84.0
 Malaysia,Ipoh,city,2020-04-25,-89.0
 Malaysia,Ipoh,city,2020-04-26,-84.0
+Malaysia,Ipoh,city,2020-04-26,-84.0
+Malaysia,Ipoh,city,2020-04-27,-68.0
 Malaysia,Ipoh,city,2020-04-27,-68.0
 Malaysia,Ipoh,city,2020-04-28,-87.0
 Malaysia,Ipoh,city,2020-04-29,-76.0
@@ -57721,6 +57790,7 @@ Malaysia,Johor Bahru,city,2020-04-22,-78.0
 Malaysia,Johor Bahru,city,2020-04-23,-73.0
 Malaysia,Johor Bahru,city,2020-04-24,-82.0
 Malaysia,Johor Bahru,city,2020-04-25,-80.0
+Malaysia,Johor Bahru,city,2020-04-26,-79.0
 Malaysia,Johor Bahru,city,2020-04-26,-79.0
 Malaysia,Johor Bahru,city,2020-04-27,-72.0
 Malaysia,Johor Bahru,city,2020-04-28,-72.0
@@ -58393,6 +58463,7 @@ Malaysia,Kuala Lumpur,city,2020-04-23,-81.0
 Malaysia,Kuala Lumpur,city,2020-04-24,-84.0
 Malaysia,Kuala Lumpur,city,2020-04-25,-86.0
 Malaysia,Kuala Lumpur,city,2020-04-26,-86.0
+Malaysia,Kuala Lumpur,city,2020-04-26,-86.0
 Malaysia,Kuala Lumpur,city,2020-04-27,-79.0
 Malaysia,Kuala Lumpur,city,2020-04-28,-79.0
 Malaysia,Kuala Lumpur,city,2020-04-29,-80.0
@@ -59063,6 +59134,7 @@ Malaysia,Petaling Jaya,city,2020-04-22,-82.0
 Malaysia,Petaling Jaya,city,2020-04-23,-80.0
 Malaysia,Petaling Jaya,city,2020-04-24,-85.0
 Malaysia,Petaling Jaya,city,2020-04-25,-84.0
+Malaysia,Petaling Jaya,city,2020-04-26,-85.0
 Malaysia,Petaling Jaya,city,2020-04-26,-85.0
 Malaysia,Petaling Jaya,city,2020-04-27,-79.0
 Malaysia,Petaling Jaya,city,2020-04-28,-77.0
@@ -59736,6 +59808,7 @@ Malaysia,Puchong,city,2020-04-24,-64.0
 Malaysia,Puchong,city,2020-04-25,-75.0
 Malaysia,Puchong,city,2020-04-26,-78.0
 Malaysia,Puchong,city,2020-04-27,-65.0
+Malaysia,Puchong,city,2020-04-27,-65.0
 Malaysia,Puchong,city,2020-04-28,-68.0
 Malaysia,Puchong,city,2020-04-29,-69.0
 Malaysia,Puchong,city,2020-04-30,-72.0
@@ -60405,6 +60478,7 @@ Malaysia,Shah Alam,city,2020-04-22,-76.0
 Malaysia,Shah Alam,city,2020-04-23,-73.0
 Malaysia,Shah Alam,city,2020-04-24,-80.0
 Malaysia,Shah Alam,city,2020-04-25,-82.0
+Malaysia,Shah Alam,city,2020-04-26,-80.0
 Malaysia,Shah Alam,city,2020-04-26,-80.0
 Malaysia,Shah Alam,city,2020-04-27,-72.0
 Malaysia,Shah Alam,city,2020-04-28,-73.0
@@ -61749,6 +61823,7 @@ Mexico,Guadalajara,city,2020-04-24,-66.0
 Mexico,Guadalajara,city,2020-04-25,-67.0
 Mexico,Guadalajara,city,2020-04-26,-69.0
 Mexico,Guadalajara,city,2020-04-27,-62.0
+Mexico,Guadalajara,city,2020-04-27,-62.0
 Mexico,Guadalajara,city,2020-04-28,-59.0
 Mexico,Guadalajara,city,2020-04-29,-61.0
 Mexico,Guadalajara,city,2020-04-30,-57.99999999999999
@@ -62421,6 +62496,7 @@ Mexico,Mexico City,city,2020-04-24,-72.0
 Mexico,Mexico City,city,2020-04-25,-74.0
 Mexico,Mexico City,city,2020-04-26,-77.0
 Mexico,Mexico City,city,2020-04-27,-70.0
+Mexico,Mexico City,city,2020-04-27,-70.0
 Mexico,Mexico City,city,2020-04-28,-70.0
 Mexico,Mexico City,city,2020-04-29,-70.0
 Mexico,Mexico City,city,2020-04-30,-67.0
@@ -63091,6 +63167,7 @@ Mexico,Monterrey,city,2020-04-23,-75.0
 Mexico,Monterrey,city,2020-04-24,-74.0
 Mexico,Monterrey,city,2020-04-25,-73.0
 Mexico,Monterrey,city,2020-04-26,-75.0
+Mexico,Monterrey,city,2020-04-27,-67.0
 Mexico,Monterrey,city,2020-04-27,-67.0
 Mexico,Monterrey,city,2020-04-28,-72.0
 Mexico,Monterrey,city,2020-04-29,-72.0
@@ -63763,6 +63840,7 @@ Mexico,Puebla City,city,2020-04-24,-68.0
 Mexico,Puebla City,city,2020-04-25,-70.0
 Mexico,Puebla City,city,2020-04-26,-69.0
 Mexico,Puebla City,city,2020-04-27,-64.0
+Mexico,Puebla City,city,2020-04-27,-64.0
 Mexico,Puebla City,city,2020-04-28,-63.0
 Mexico,Puebla City,city,2020-04-29,-59.0
 Mexico,Puebla City,city,2020-04-30,-61.0
@@ -64433,6 +64511,7 @@ Mexico,Santiago De Queretaro,city,2020-04-23,-70.0
 Mexico,Santiago De Queretaro,city,2020-04-24,-69.0
 Mexico,Santiago De Queretaro,city,2020-04-25,-70.0
 Mexico,Santiago De Queretaro,city,2020-04-26,-65.0
+Mexico,Santiago De Queretaro,city,2020-04-27,-70.0
 Mexico,Santiago De Queretaro,city,2020-04-27,-70.0
 Mexico,Santiago De Queretaro,city,2020-04-28,-67.0
 Mexico,Santiago De Queretaro,city,2020-04-29,-68.0
@@ -65776,6 +65855,7 @@ Mexico,Zapopan,city,2020-04-24,-74.0
 Mexico,Zapopan,city,2020-04-25,-70.0
 Mexico,Zapopan,city,2020-04-26,-71.0
 Mexico,Zapopan,city,2020-04-27,-63.0
+Mexico,Zapopan,city,2020-04-27,-63.0
 Mexico,Zapopan,city,2020-04-28,-69.0
 Mexico,Zapopan,city,2020-04-29,-68.0
 Mexico,Zapopan,city,2020-04-30,-64.0
@@ -67117,6 +67197,7 @@ Netherlands,Amsterdam,city,2020-04-23,-65.0
 Netherlands,Amsterdam,city,2020-04-24,-66.0
 Netherlands,Amsterdam,city,2020-04-25,-70.0
 Netherlands,Amsterdam,city,2020-04-26,-70.0
+Netherlands,Amsterdam,city,2020-04-27,-70.0
 Netherlands,Amsterdam,city,2020-04-27,-70.0
 Netherlands,Amsterdam,city,2020-04-28,-63.0
 Netherlands,Amsterdam,city,2020-04-29,-62.0
@@ -69130,6 +69211,7 @@ Peru,Lima,city,2020-04-23,-89.0
 Peru,Lima,city,2020-04-24,-89.0
 Peru,Lima,city,2020-04-25,-89.0
 Peru,Lima,city,2020-04-26,-98.0
+Peru,Lima,city,2020-04-26,-98.0
 Peru,Lima,city,2020-04-27,-86.0
 Peru,Lima,city,2020-04-28,-86.0
 Peru,Lima,city,2020-04-29,-86.0
@@ -70472,6 +70554,7 @@ Philippines,Makati,city,2020-04-23,-90.0
 Philippines,Makati,city,2020-04-24,-90.0
 Philippines,Makati,city,2020-04-25,-88.0
 Philippines,Makati,city,2020-04-26,-88.0
+Philippines,Makati,city,2020-04-26,-88.0
 Philippines,Makati,city,2020-04-27,-92.0
 Philippines,Makati,city,2020-04-28,-89.0
 Philippines,Makati,city,2020-04-29,-90.0
@@ -71143,6 +71226,7 @@ Philippines,Manila,city,2020-04-23,-85.0
 Philippines,Manila,city,2020-04-24,-89.0
 Philippines,Manila,city,2020-04-25,-88.0
 Philippines,Manila,city,2020-04-26,-82.0
+Philippines,Manila,city,2020-04-26,-82.0
 Philippines,Manila,city,2020-04-27,-84.0
 Philippines,Manila,city,2020-04-28,-84.0
 Philippines,Manila,city,2020-04-29,-84.0
@@ -71813,6 +71897,7 @@ Philippines,Quezon City,city,2020-04-22,-85.0
 Philippines,Quezon City,city,2020-04-23,-85.0
 Philippines,Quezon City,city,2020-04-24,-87.0
 Philippines,Quezon City,city,2020-04-25,-87.0
+Philippines,Quezon City,city,2020-04-26,-88.0
 Philippines,Quezon City,city,2020-04-26,-88.0
 Philippines,Quezon City,city,2020-04-27,-83.0
 Philippines,Quezon City,city,2020-04-28,-82.0
@@ -73157,6 +73242,7 @@ Poland,Krakow,city,2020-04-24,-70.0
 Poland,Krakow,city,2020-04-25,-74.0
 Poland,Krakow,city,2020-04-26,-77.0
 Poland,Krakow,city,2020-04-27,-63.0
+Poland,Krakow,city,2020-04-27,-63.0
 Poland,Krakow,city,2020-04-28,-61.0
 Poland,Krakow,city,2020-04-29,-50.0
 Poland,Krakow,city,2020-04-30,-56.00000000000001
@@ -74492,6 +74578,7 @@ Poland,Warsaw,city,2020-04-24,-66.0
 Poland,Warsaw,city,2020-04-25,-64.0
 Poland,Warsaw,city,2020-04-26,-66.0
 Poland,Warsaw,city,2020-04-27,-54.0
+Poland,Warsaw,city,2020-04-27,-54.0
 Poland,Warsaw,city,2020-04-28,-53.0
 Poland,Warsaw,city,2020-04-29,-54.0
 Poland,Warsaw,city,2020-04-30,-52.0
@@ -75161,6 +75248,7 @@ Portugal,Lisbon,city,2020-04-22,-83.0
 Portugal,Lisbon,city,2020-04-23,-82.0
 Portugal,Lisbon,city,2020-04-24,-86.0
 Portugal,Lisbon,city,2020-04-25,-86.0
+Portugal,Lisbon,city,2020-04-26,-86.0
 Portugal,Lisbon,city,2020-04-26,-86.0
 Portugal,Lisbon,city,2020-04-27,-80.0
 Portugal,Lisbon,city,2020-04-28,-81.0
@@ -77176,6 +77264,7 @@ Qatar,Doha,city,2020-04-24,-71.0
 Qatar,Doha,city,2020-04-25,-64.0
 Qatar,Doha,city,2020-04-26,-57.99999999999999
 Qatar,Doha,city,2020-04-27,-59.0
+Qatar,Doha,city,2020-04-27,-59.0
 Qatar,Doha,city,2020-04-28,-55.00000000000001
 Qatar,Doha,city,2020-04-29,-53.0
 Qatar,Doha,city,2020-04-30,-56.00000000000001
@@ -78517,6 +78606,7 @@ Romania,Bucharest,city,2020-04-23,-66.0
 Romania,Bucharest,city,2020-04-24,-67.0
 Romania,Bucharest,city,2020-04-25,-73.0
 Romania,Bucharest,city,2020-04-26,-76.0
+Romania,Bucharest,city,2020-04-27,-63.0
 Romania,Bucharest,city,2020-04-27,-63.0
 Romania,Bucharest,city,2020-04-28,-61.0
 Romania,Bucharest,city,2020-04-29,-62.0
@@ -80532,6 +80622,7 @@ Singapore,Singapore,city,2020-04-24,-62.0
 Singapore,Singapore,city,2020-04-25,-61.0
 Singapore,Singapore,city,2020-04-26,-56.99999999999999
 Singapore,Singapore,city,2020-04-27,-56.99999999999999
+Singapore,Singapore,city,2020-04-27,-56.99999999999999
 Singapore,Singapore,city,2020-04-28,-56.99999999999999
 Singapore,Singapore,city,2020-04-29,-57.99999999999999
 Singapore,Singapore,city,2020-04-30,-55.00000000000001
@@ -81874,6 +81965,7 @@ Slovakia,Bratislava,city,2020-04-24,-65.0
 Slovakia,Bratislava,city,2020-04-25,-54.0
 Slovakia,Bratislava,city,2020-04-26,-62.0
 Slovakia,Bratislava,city,2020-04-27,-51.0
+Slovakia,Bratislava,city,2020-04-27,-51.0
 Slovakia,Bratislava,city,2020-04-28,-59.0
 Slovakia,Bratislava,city,2020-04-29,-59.0
 Slovakia,Bratislava,city,2020-04-30,-56.99999999999999
@@ -83214,6 +83306,7 @@ South Africa,Cape Town,city,2020-04-22,-89.0
 South Africa,Cape Town,city,2020-04-23,-86.0
 South Africa,Cape Town,city,2020-04-24,-86.0
 South Africa,Cape Town,city,2020-04-25,-73.0
+South Africa,Cape Town,city,2020-04-26,-82.0
 South Africa,Cape Town,city,2020-04-26,-82.0
 South Africa,Cape Town,city,2020-04-27,-89.0
 South Africa,Cape Town,city,2020-04-28,-80.0
@@ -84557,6 +84650,7 @@ Spain,Barcelona,city,2020-04-23,-79.0
 Spain,Barcelona,city,2020-04-24,-82.0
 Spain,Barcelona,city,2020-04-25,-90.0
 Spain,Barcelona,city,2020-04-26,-94.0
+Spain,Barcelona,city,2020-04-26,-94.0
 Spain,Barcelona,city,2020-04-27,-81.0
 Spain,Barcelona,city,2020-04-28,-79.0
 Spain,Barcelona,city,2020-04-29,-79.0
@@ -85227,6 +85321,7 @@ Spain,Madrid,city,2020-04-22,-87.0
 Spain,Madrid,city,2020-04-23,-87.0
 Spain,Madrid,city,2020-04-24,-86.0
 Spain,Madrid,city,2020-04-25,-91.0
+Spain,Madrid,city,2020-04-26,-94.0
 Spain,Madrid,city,2020-04-26,-94.0
 Spain,Madrid,city,2020-04-27,-84.0
 Spain,Madrid,city,2020-04-28,-84.0
@@ -86570,6 +86665,7 @@ Sweden,Stockholm,city,2020-04-23,-30.0
 Sweden,Stockholm,city,2020-04-24,-24.0
 Sweden,Stockholm,city,2020-04-25,-24.0
 Sweden,Stockholm,city,2020-04-26,-26.0
+Sweden,Stockholm,city,2020-04-27,-24.0
 Sweden,Stockholm,city,2020-04-27,-24.0
 Sweden,Stockholm,city,2020-04-28,-24.0
 Sweden,Stockholm,city,2020-04-29,-19.0
@@ -88583,6 +88679,7 @@ Ukraine,Kyiv,city,2020-04-24,-21.0
 Ukraine,Kyiv,city,2020-04-25,-36.0
 Ukraine,Kyiv,city,2020-04-26,-34.0
 Ukraine,Kyiv,city,2020-04-27,-11.0
+Ukraine,Kyiv,city,2020-04-27,-11.0
 Ukraine,Kyiv,city,2020-04-28,-6.0
 Ukraine,Kyiv,city,2020-04-29,-3.0
 Ukraine,Kyiv,city,2020-04-30,7.000000000000001
@@ -89253,6 +89350,7 @@ Ukraine,Lviv,city,2020-04-23,-63.0
 Ukraine,Lviv,city,2020-04-24,-60.0
 Ukraine,Lviv,city,2020-04-25,-41.0
 Ukraine,Lviv,city,2020-04-26,-50.0
+Ukraine,Lviv,city,2020-04-27,-50.0
 Ukraine,Lviv,city,2020-04-27,-50.0
 Ukraine,Lviv,city,2020-04-28,-59.0
 Ukraine,Lviv,city,2020-04-29,-25.0
@@ -90875,6 +90973,8 @@ United Kingdom,Birmingham,city,2020-04-23,-66.0
 United Kingdom,Birmingham,city,2020-04-24,-67.0
 United Kingdom,Birmingham,city,2020-04-25,-77.0
 United Kingdom,Birmingham,city,2020-04-26,-78.0
+United Kingdom,Birmingham,city,2020-04-26,-78.0
+United Kingdom,Birmingham,city,2020-04-27,-66.0
 United Kingdom,Birmingham,city,2020-04-27,-66.0
 United Kingdom,Birmingham,city,2020-04-28,-65.0
 United Kingdom,Birmingham,city,2020-04-29,-64.0
@@ -92885,6 +92985,7 @@ United Kingdom,London,city,2020-04-24,-64.0
 United Kingdom,London,city,2020-04-25,-73.0
 United Kingdom,London,city,2020-04-26,-76.0
 United Kingdom,London,city,2020-04-27,-61.0
+United Kingdom,London,city,2020-04-27,-61.0
 United Kingdom,London,city,2020-04-28,-60.0
 United Kingdom,London,city,2020-04-29,-61.0
 United Kingdom,London,city,2020-04-30,-62.0
@@ -93555,6 +93656,7 @@ United Kingdom,Luton,city,2020-04-23,-64.0
 United Kingdom,Luton,city,2020-04-24,-74.0
 United Kingdom,Luton,city,2020-04-25,-68.0
 United Kingdom,Luton,city,2020-04-26,-90.0
+United Kingdom,Luton,city,2020-04-26,-90.0
 United Kingdom,Luton,city,2020-04-27,-83.0
 United Kingdom,Luton,city,2020-04-28,-90.0
 United Kingdom,Luton,city,2020-04-29,-73.0
@@ -94219,6 +94321,7 @@ United Kingdom,Manchester,city,2020-04-22,-69.0
 United Kingdom,Manchester,city,2020-04-23,-66.0
 United Kingdom,Manchester,city,2020-04-24,-79.0
 United Kingdom,Manchester,city,2020-04-25,-78.0
+United Kingdom,Manchester,city,2020-04-26,-82.0
 United Kingdom,Manchester,city,2020-04-26,-82.0
 United Kingdom,Manchester,city,2020-04-27,-80.0
 United Kingdom,Manchester,city,2020-04-28,-66.0
@@ -95563,6 +95666,7 @@ United States,Atlanta,city,2020-04-24,-68.0
 United States,Atlanta,city,2020-04-25,-70.0
 United States,Atlanta,city,2020-04-26,-67.0
 United States,Atlanta,city,2020-04-27,-65.0
+United States,Atlanta,city,2020-04-27,-65.0
 United States,Atlanta,city,2020-04-28,-66.0
 United States,Atlanta,city,2020-04-29,-66.0
 United States,Atlanta,city,2020-04-30,-65.0
@@ -96234,6 +96338,7 @@ United States,Austin,city,2020-04-23,-72.0
 United States,Austin,city,2020-04-24,-71.0
 United States,Austin,city,2020-04-25,-72.0
 United States,Austin,city,2020-04-26,-66.0
+United States,Austin,city,2020-04-27,-67.0
 United States,Austin,city,2020-04-27,-67.0
 United States,Austin,city,2020-04-28,-69.0
 United States,Austin,city,2020-04-29,-70.0
@@ -96907,6 +97012,7 @@ United States,Baltimore,city,2020-04-24,-60.0
 United States,Baltimore,city,2020-04-25,-62.0
 United States,Baltimore,city,2020-04-26,-67.0
 United States,Baltimore,city,2020-04-27,-59.0
+United States,Baltimore,city,2020-04-27,-59.0
 United States,Baltimore,city,2020-04-28,-61.0
 United States,Baltimore,city,2020-04-29,-56.99999999999999
 United States,Baltimore,city,2020-04-30,-57.99999999999999
@@ -97577,6 +97683,7 @@ United States,Boston,city,2020-04-23,-73.0
 United States,Boston,city,2020-04-24,-67.0
 United States,Boston,city,2020-04-25,-72.0
 United States,Boston,city,2020-04-26,-70.0
+United States,Boston,city,2020-04-27,-72.0
 United States,Boston,city,2020-04-27,-72.0
 United States,Boston,city,2020-04-28,-71.0
 United States,Boston,city,2020-04-29,-70.0
@@ -98918,6 +99025,7 @@ United States,Charlotte,city,2020-04-24,-61.0
 United States,Charlotte,city,2020-04-25,-64.0
 United States,Charlotte,city,2020-04-26,-59.0
 United States,Charlotte,city,2020-04-27,-62.0
+United States,Charlotte,city,2020-04-27,-62.0
 United States,Charlotte,city,2020-04-28,-63.0
 United States,Charlotte,city,2020-04-29,-63.0
 United States,Charlotte,city,2020-04-30,-61.0
@@ -99590,6 +99698,7 @@ United States,Chicago,city,2020-04-24,-65.0
 United States,Chicago,city,2020-04-25,-67.0
 United States,Chicago,city,2020-04-26,-64.0
 United States,Chicago,city,2020-04-27,-62.0
+United States,Chicago,city,2020-04-27,-62.0
 United States,Chicago,city,2020-04-28,-61.0
 United States,Chicago,city,2020-04-29,-63.0
 United States,Chicago,city,2020-04-30,-62.0
@@ -100260,6 +100369,7 @@ United States,Cincinnati,city,2020-04-23,-67.0
 United States,Cincinnati,city,2020-04-24,-68.0
 United States,Cincinnati,city,2020-04-25,-71.0
 United States,Cincinnati,city,2020-04-26,-68.0
+United States,Cincinnati,city,2020-04-27,-66.0
 United States,Cincinnati,city,2020-04-27,-66.0
 United States,Cincinnati,city,2020-04-28,-66.0
 United States,Cincinnati,city,2020-04-29,-62.0
@@ -100932,6 +101042,7 @@ United States,Dallas,city,2020-04-24,-66.0
 United States,Dallas,city,2020-04-25,-64.0
 United States,Dallas,city,2020-04-26,-61.0
 United States,Dallas,city,2020-04-27,-61.0
+United States,Dallas,city,2020-04-27,-61.0
 United States,Dallas,city,2020-04-28,-66.0
 United States,Dallas,city,2020-04-29,-66.0
 United States,Dallas,city,2020-04-30,-63.0
@@ -101602,6 +101713,7 @@ United States,Denver,city,2020-04-23,-74.0
 United States,Denver,city,2020-04-24,-75.0
 United States,Denver,city,2020-04-25,-74.0
 United States,Denver,city,2020-04-26,-67.0
+United States,Denver,city,2020-04-27,-71.0
 United States,Denver,city,2020-04-27,-71.0
 United States,Denver,city,2020-04-28,-74.0
 United States,Denver,city,2020-04-29,-72.0
@@ -102947,6 +103059,7 @@ United States,Fort Lauderdale,city,2020-04-24,-73.0
 United States,Fort Lauderdale,city,2020-04-25,-79.0
 United States,Fort Lauderdale,city,2020-04-26,-78.0
 United States,Fort Lauderdale,city,2020-04-27,-72.0
+United States,Fort Lauderdale,city,2020-04-27,-72.0
 United States,Fort Lauderdale,city,2020-04-28,-67.0
 United States,Fort Lauderdale,city,2020-04-29,-73.0
 United States,Fort Lauderdale,city,2020-04-30,-80.0
@@ -103617,6 +103730,7 @@ United States,Fort Worth,city,2020-04-23,-54.0
 United States,Fort Worth,city,2020-04-24,-54.0
 United States,Fort Worth,city,2020-04-25,-57.99999999999999
 United States,Fort Worth,city,2020-04-26,-52.0
+United States,Fort Worth,city,2020-04-27,-49.0
 United States,Fort Worth,city,2020-04-27,-49.0
 United States,Fort Worth,city,2020-04-28,-53.0
 United States,Fort Worth,city,2020-04-29,-53.0
@@ -104290,6 +104404,7 @@ United States,Hartford,city,2020-04-24,-72.0
 United States,Hartford,city,2020-04-25,-70.0
 United States,Hartford,city,2020-04-26,-65.0
 United States,Hartford,city,2020-04-27,-69.0
+United States,Hartford,city,2020-04-27,-69.0
 United States,Hartford,city,2020-04-28,-68.0
 United States,Hartford,city,2020-04-29,-69.0
 United States,Hartford,city,2020-04-30,-63.0
@@ -104953,6 +105068,7 @@ United States,Houston,city,2020-04-23,-68.0
 United States,Houston,city,2020-04-24,-66.0
 United States,Houston,city,2020-04-25,-66.0
 United States,Houston,city,2020-04-26,-62.0
+United States,Houston,city,2020-04-27,-63.0
 United States,Houston,city,2020-04-27,-63.0
 United States,Houston,city,2020-04-28,-66.0
 United States,Houston,city,2020-04-29,-67.0
@@ -105624,6 +105740,7 @@ United States,Irvine,city,2020-04-23,-71.0
 United States,Irvine,city,2020-04-24,-70.0
 United States,Irvine,city,2020-04-25,-69.0
 United States,Irvine,city,2020-04-26,-71.0
+United States,Irvine,city,2020-04-27,-66.0
 United States,Irvine,city,2020-04-27,-66.0
 United States,Irvine,city,2020-04-28,-74.0
 United States,Irvine,city,2020-04-29,-78.0
@@ -106966,6 +107083,7 @@ United States,Los Angeles,city,2020-04-24,-69.0
 United States,Los Angeles,city,2020-04-25,-67.0
 United States,Los Angeles,city,2020-04-26,-67.0
 United States,Los Angeles,city,2020-04-27,-65.0
+United States,Los Angeles,city,2020-04-27,-65.0
 United States,Los Angeles,city,2020-04-28,-68.0
 United States,Los Angeles,city,2020-04-29,-68.0
 United States,Los Angeles,city,2020-04-30,-68.0
@@ -107635,6 +107753,7 @@ United States,Miami,city,2020-04-22,-76.0
 United States,Miami,city,2020-04-23,-77.0
 United States,Miami,city,2020-04-24,-82.0
 United States,Miami,city,2020-04-25,-76.0
+United States,Miami,city,2020-04-26,-78.0
 United States,Miami,city,2020-04-26,-78.0
 United States,Miami,city,2020-04-27,-73.0
 United States,Miami,city,2020-04-28,-74.0
@@ -108307,6 +108426,7 @@ United States,Miami Beach,city,2020-04-23,-86.0
 United States,Miami Beach,city,2020-04-24,-82.0
 United States,Miami Beach,city,2020-04-25,-81.0
 United States,Miami Beach,city,2020-04-26,-94.0
+United States,Miami Beach,city,2020-04-26,-94.0
 United States,Miami Beach,city,2020-04-27,-80.0
 United States,Miami Beach,city,2020-04-28,-68.0
 United States,Miami Beach,city,2020-04-29,-79.0
@@ -108974,6 +109094,7 @@ United States,Minneapolis,city,2020-04-24,-69.0
 United States,Minneapolis,city,2020-04-25,-73.0
 United States,Minneapolis,city,2020-04-26,-57.99999999999999
 United States,Minneapolis,city,2020-04-27,-55.00000000000001
+United States,Minneapolis,city,2020-04-27,-55.00000000000001
 United States,Minneapolis,city,2020-04-28,-68.0
 United States,Minneapolis,city,2020-04-29,-60.0
 United States,Minneapolis,city,2020-04-30,-76.0
@@ -109639,6 +109760,7 @@ United States,Nashville,city,2020-04-23,-67.0
 United States,Nashville,city,2020-04-24,-65.0
 United States,Nashville,city,2020-04-25,-69.0
 United States,Nashville,city,2020-04-26,-64.0
+United States,Nashville,city,2020-04-27,-63.0
 United States,Nashville,city,2020-04-27,-63.0
 United States,Nashville,city,2020-04-28,-63.0
 United States,Nashville,city,2020-04-29,-62.0
@@ -110309,6 +110431,7 @@ United States,New Orleans,city,2020-04-22,-74.0
 United States,New Orleans,city,2020-04-23,-78.0
 United States,New Orleans,city,2020-04-24,-83.0
 United States,New Orleans,city,2020-04-25,-89.0
+United States,New Orleans,city,2020-04-26,-84.0
 United States,New Orleans,city,2020-04-26,-84.0
 United States,New Orleans,city,2020-04-27,-75.0
 United States,New Orleans,city,2020-04-28,-71.0
@@ -110981,6 +111104,7 @@ United States,New York,city,2020-04-24,-63.0
 United States,New York,city,2020-04-25,-64.0
 United States,New York,city,2020-04-26,-68.0
 United States,New York,city,2020-04-27,-61.0
+United States,New York,city,2020-04-27,-61.0
 United States,New York,city,2020-04-28,-56.99999999999999
 United States,New York,city,2020-04-29,-55.00000000000001
 United States,New York,city,2020-04-30,-57.99999999999999
@@ -111651,6 +111775,7 @@ United States,Oakland,city,2020-04-23,-63.0
 United States,Oakland,city,2020-04-24,-63.0
 United States,Oakland,city,2020-04-25,-56.99999999999999
 United States,Oakland,city,2020-04-26,-65.0
+United States,Oakland,city,2020-04-27,-60.0
 United States,Oakland,city,2020-04-27,-60.0
 United States,Oakland,city,2020-04-28,-74.0
 United States,Oakland,city,2020-04-29,-59.0
@@ -112323,6 +112448,7 @@ United States,Orlando,city,2020-04-24,-72.0
 United States,Orlando,city,2020-04-25,-74.0
 United States,Orlando,city,2020-04-26,-73.0
 United States,Orlando,city,2020-04-27,-69.0
+United States,Orlando,city,2020-04-27,-69.0
 United States,Orlando,city,2020-04-28,-67.0
 United States,Orlando,city,2020-04-29,-67.0
 United States,Orlando,city,2020-04-30,-69.0
@@ -112993,6 +113119,7 @@ United States,Philadelphia,city,2020-04-23,-65.0
 United States,Philadelphia,city,2020-04-24,-67.0
 United States,Philadelphia,city,2020-04-25,-66.0
 United States,Philadelphia,city,2020-04-26,-68.0
+United States,Philadelphia,city,2020-04-27,-65.0
 United States,Philadelphia,city,2020-04-27,-65.0
 United States,Philadelphia,city,2020-04-28,-63.0
 United States,Philadelphia,city,2020-04-29,-61.0
@@ -113665,6 +113792,7 @@ United States,Phoenix,city,2020-04-23,-61.0
 United States,Phoenix,city,2020-04-24,-66.0
 United States,Phoenix,city,2020-04-25,-56.00000000000001
 United States,Phoenix,city,2020-04-26,-60.0
+United States,Phoenix,city,2020-04-27,-60.0
 United States,Phoenix,city,2020-04-27,-60.0
 United States,Phoenix,city,2020-04-28,-60.0
 United States,Phoenix,city,2020-04-29,-63.0
@@ -115008,6 +115136,7 @@ United States,Portland,city,2020-04-24,-68.0
 United States,Portland,city,2020-04-25,-73.0
 United States,Portland,city,2020-04-26,-68.0
 United States,Portland,city,2020-04-27,-59.0
+United States,Portland,city,2020-04-27,-59.0
 United States,Portland,city,2020-04-28,-63.0
 United States,Portland,city,2020-04-29,-65.0
 United States,Portland,city,2020-04-30,-66.0
@@ -115678,6 +115807,7 @@ United States,Raleigh,city,2020-04-23,-56.99999999999999
 United States,Raleigh,city,2020-04-24,-53.0
 United States,Raleigh,city,2020-04-25,-60.0
 United States,Raleigh,city,2020-04-26,-63.0
+United States,Raleigh,city,2020-04-27,-61.0
 United States,Raleigh,city,2020-04-27,-61.0
 United States,Raleigh,city,2020-04-28,-60.0
 United States,Raleigh,city,2020-04-29,-55.00000000000001
@@ -116351,6 +116481,7 @@ United States,Sacramento,city,2020-04-24,-59.0
 United States,Sacramento,city,2020-04-25,-56.00000000000001
 United States,Sacramento,city,2020-04-26,-52.0
 United States,Sacramento,city,2020-04-27,-60.0
+United States,Sacramento,city,2020-04-27,-60.0
 United States,Sacramento,city,2020-04-28,-57.99999999999999
 United States,Sacramento,city,2020-04-29,-50.0
 United States,Sacramento,city,2020-04-30,-50.0
@@ -117023,6 +117154,7 @@ United States,San Antonio,city,2020-04-24,-66.0
 United States,San Antonio,city,2020-04-25,-69.0
 United States,San Antonio,city,2020-04-26,-64.0
 United States,San Antonio,city,2020-04-27,-60.0
+United States,San Antonio,city,2020-04-27,-60.0
 United States,San Antonio,city,2020-04-28,-66.0
 United States,San Antonio,city,2020-04-29,-61.0
 United States,San Antonio,city,2020-04-30,-64.0
@@ -117693,6 +117825,7 @@ United States,San Diego,city,2020-04-23,-72.0
 United States,San Diego,city,2020-04-24,-72.0
 United States,San Diego,city,2020-04-25,-72.0
 United States,San Diego,city,2020-04-26,-72.0
+United States,San Diego,city,2020-04-27,-65.0
 United States,San Diego,city,2020-04-27,-65.0
 United States,San Diego,city,2020-04-28,-70.0
 United States,San Diego,city,2020-04-29,-70.0
@@ -118365,6 +118498,7 @@ United States,San Francisco,city,2020-04-24,-69.0
 United States,San Francisco,city,2020-04-25,-72.0
 United States,San Francisco,city,2020-04-26,-72.0
 United States,San Francisco,city,2020-04-27,-68.0
+United States,San Francisco,city,2020-04-27,-68.0
 United States,San Francisco,city,2020-04-28,-71.0
 United States,San Francisco,city,2020-04-29,-67.0
 United States,San Francisco,city,2020-04-30,-67.0
@@ -119035,6 +119169,7 @@ United States,San Jose,city,2020-04-23,-71.0
 United States,San Jose,city,2020-04-24,-69.0
 United States,San Jose,city,2020-04-25,-68.0
 United States,San Jose,city,2020-04-26,-66.0
+United States,San Jose,city,2020-04-27,-65.0
 United States,San Jose,city,2020-04-27,-65.0
 United States,San Jose,city,2020-04-28,-72.0
 United States,San Jose,city,2020-04-29,-67.0
@@ -119707,6 +119842,7 @@ United States,Seattle,city,2020-04-24,-68.0
 United States,Seattle,city,2020-04-25,-68.0
 United States,Seattle,city,2020-04-26,-67.0
 United States,Seattle,city,2020-04-27,-66.0
+United States,Seattle,city,2020-04-27,-66.0
 United States,Seattle,city,2020-04-28,-66.0
 United States,Seattle,city,2020-04-29,-67.0
 United States,Seattle,city,2020-04-30,-69.0
@@ -120378,6 +120514,7 @@ United States,Stamford,city,2020-04-24,-62.0
 United States,Stamford,city,2020-04-25,-60.0
 United States,Stamford,city,2020-04-26,-70.0
 United States,Stamford,city,2020-04-27,-71.0
+United States,Stamford,city,2020-04-27,-71.0
 United States,Stamford,city,2020-04-28,-60.0
 United States,Stamford,city,2020-04-29,-68.0
 United States,Stamford,city,2020-04-30,-67.0
@@ -121048,6 +121185,7 @@ United States,Tampa,city,2020-04-23,-73.0
 United States,Tampa,city,2020-04-24,-75.0
 United States,Tampa,city,2020-04-25,-78.0
 United States,Tampa,city,2020-04-26,-68.0
+United States,Tampa,city,2020-04-27,-71.0
 United States,Tampa,city,2020-04-27,-71.0
 United States,Tampa,city,2020-04-28,-72.0
 United States,Tampa,city,2020-04-29,-70.0
@@ -122391,6 +122529,7 @@ United States,Washington,city,2020-04-24,-66.0
 United States,Washington,city,2020-04-25,-68.0
 United States,Washington,city,2020-04-26,-70.0
 United States,Washington,city,2020-04-27,-62.0
+United States,Washington,city,2020-04-27,-62.0
 United States,Washington,city,2020-04-28,-63.0
 United States,Washington,city,2020-04-29,-61.0
 United States,Washington,city,2020-04-30,-63.0
@@ -123062,6 +123201,7 @@ United States,Yonkers,city,2020-04-24,-59.0
 United States,Yonkers,city,2020-04-25,-56.00000000000001
 United States,Yonkers,city,2020-04-26,-59.0
 United States,Yonkers,city,2020-04-27,-59.0
+United States,Yonkers,city,2020-04-27,-59.0
 United States,Yonkers,city,2020-04-28,-56.00000000000001
 United States,Yonkers,city,2020-04-29,-46.0
 United States,Yonkers,city,2020-04-30,-53.0
@@ -123732,6 +123872,7 @@ Uruguay,Montevideo,city,2020-04-23,-59.0
 Uruguay,Montevideo,city,2020-04-24,-56.00000000000001
 Uruguay,Montevideo,city,2020-04-25,-59.0
 Uruguay,Montevideo,city,2020-04-26,-64.0
+Uruguay,Montevideo,city,2020-04-27,-52.0
 Uruguay,Montevideo,city,2020-04-27,-52.0
 Uruguay,Montevideo,city,2020-04-28,-55.00000000000001
 Uruguay,Montevideo,city,2020-04-29,-48.0
