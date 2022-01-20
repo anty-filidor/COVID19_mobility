@@ -3549,6 +3549,7 @@ Australia,Perth,city,2020-06-25,-12.0
 Australia,Perth,city,2020-06-26,-28.999999999999996
 Australia,Perth,city,2020-06-27,-8.0
 Australia,Perth,city,2020-06-28,-37.0
+Australia,Perth,city,2020-06-28,-37.0
 Australia,Perth,city,2020-06-29,-9.0
 Australia,Perth,city,2020-06-30,-18.0
 Australia,Perth,city,2020-07-01,-21.0
@@ -12470,6 +12471,7 @@ Brazil,Guarulhos,city,2020-06-25,-34.0
 Brazil,Guarulhos,city,2020-06-26,-31.0
 Brazil,Guarulhos,city,2020-06-27,-47.0
 Brazil,Guarulhos,city,2020-06-28,-40.0
+Brazil,Guarulhos,city,2020-06-28,-40.0
 Brazil,Guarulhos,city,2020-06-29,-19.0
 Brazil,Guarulhos,city,2020-06-30,-32.0
 Brazil,Guarulhos,city,2020-07-01,-32.0
@@ -15900,6 +15902,7 @@ Brazil,Sao Paulo,city,2020-06-25,-40.0
 Brazil,Sao Paulo,city,2020-06-26,-37.0
 Brazil,Sao Paulo,city,2020-06-27,-46.0
 Brazil,Sao Paulo,city,2020-06-28,-46.0
+Brazil,Sao Paulo,city,2020-06-28,-46.0
 Brazil,Sao Paulo,city,2020-06-29,-28.000000000000004
 Brazil,Sao Paulo,city,2020-06-30,-32.0
 Brazil,Sao Paulo,city,2020-07-01,-39.0
@@ -19322,6 +19325,7 @@ Canada,Mississauga,city,2020-06-24,-48.0
 Canada,Mississauga,city,2020-06-25,-57.99999999999999
 Canada,Mississauga,city,2020-06-26,-51.0
 Canada,Mississauga,city,2020-06-27,-38.0
+Canada,Mississauga,city,2020-06-28,-47.0
 Canada,Mississauga,city,2020-06-28,-47.0
 Canada,Mississauga,city,2020-06-29,-26.0
 Canada,Mississauga,city,2020-06-30,-48.0
@@ -44699,6 +44703,7 @@ Indonesia,South Tangerang,city,2020-06-25,-25.0
 Indonesia,South Tangerang,city,2020-06-26,-13.0
 Indonesia,South Tangerang,city,2020-06-27,-52.0
 Indonesia,South Tangerang,city,2020-06-28,-37.0
+Indonesia,South Tangerang,city,2020-06-28,-37.0
 Indonesia,South Tangerang,city,2020-06-29,-30.0
 Indonesia,South Tangerang,city,2020-06-30,-23.0
 Indonesia,South Tangerang,city,2020-07-01,-15.0
@@ -52906,6 +52911,7 @@ Italy,Rome,city,2020-06-24,-28.999999999999996
 Italy,Rome,city,2020-06-25,-28.999999999999996
 Italy,Rome,city,2020-06-26,-42.0
 Italy,Rome,city,2020-06-27,-38.0
+Italy,Rome,city,2020-06-28,-41.0
 Italy,Rome,city,2020-06-28,-41.0
 Italy,Rome,city,2020-06-29,-7.000000000000001
 Italy,Rome,city,2020-06-30,-15.0
@@ -63189,6 +63195,7 @@ Mexico,Guadalajara,city,2020-06-24,-33.0
 Mexico,Guadalajara,city,2020-06-25,-47.0
 Mexico,Guadalajara,city,2020-06-26,-43.0
 Mexico,Guadalajara,city,2020-06-27,-46.0
+Mexico,Guadalajara,city,2020-06-28,-46.0
 Mexico,Guadalajara,city,2020-06-28,-46.0
 Mexico,Guadalajara,city,2020-06-29,-38.0
 Mexico,Guadalajara,city,2020-06-30,-35.0
@@ -95687,6 +95694,7 @@ United Kingdom,Luton,city,2020-06-25,-50.0
 United Kingdom,Luton,city,2020-06-26,-37.0
 United Kingdom,Luton,city,2020-06-27,-21.0
 United Kingdom,Luton,city,2020-06-28,-46.0
+United Kingdom,Luton,city,2020-06-28,-46.0
 United Kingdom,Luton,city,2020-06-29,-47.0
 United Kingdom,Luton,city,2020-06-30,-49.0
 United Kingdom,Luton,city,2020-07-01,-2.0
@@ -96367,6 +96375,7 @@ United Kingdom,Manchester,city,2020-06-24,-47.0
 United Kingdom,Manchester,city,2020-06-25,-35.0
 United Kingdom,Manchester,city,2020-06-26,-76.0
 United Kingdom,Manchester,city,2020-06-27,-32.0
+United Kingdom,Manchester,city,2020-06-28,-44.0
 United Kingdom,Manchester,city,2020-06-28,-44.0
 United Kingdom,Manchester,city,2020-06-29,-27.0
 United Kingdom,Manchester,city,2020-06-30,-51.0
@@ -98427,6 +98436,7 @@ United States,Austin,city,2020-06-25,-53.0
 United States,Austin,city,2020-06-26,-51.0
 United States,Austin,city,2020-06-27,-55.00000000000001
 United States,Austin,city,2020-06-28,-47.0
+United States,Austin,city,2020-06-28,-47.0
 United States,Austin,city,2020-06-29,-50.0
 United States,Austin,city,2020-06-30,-59.0
 United States,Austin,city,2020-07-01,-52.0
@@ -99114,6 +99124,7 @@ United States,Baltimore,city,2020-06-25,-36.0
 United States,Baltimore,city,2020-06-26,-34.0
 United States,Baltimore,city,2020-06-27,-31.0
 United States,Baltimore,city,2020-06-28,-38.0
+United States,Baltimore,city,2020-06-28,-38.0
 United States,Baltimore,city,2020-06-29,-31.0
 United States,Baltimore,city,2020-06-30,-33.0
 United States,Baltimore,city,2020-07-01,-23.0
@@ -99799,6 +99810,7 @@ United States,Boston,city,2020-06-24,-47.0
 United States,Boston,city,2020-06-25,-47.0
 United States,Boston,city,2020-06-26,-46.0
 United States,Boston,city,2020-06-27,-51.0
+United States,Boston,city,2020-06-28,-42.0
 United States,Boston,city,2020-06-28,-42.0
 United States,Boston,city,2020-06-29,-49.0
 United States,Boston,city,2020-06-30,-53.0
@@ -103915,6 +103927,7 @@ United States,Denver,city,2020-06-25,-56.00000000000001
 United States,Denver,city,2020-06-26,-49.0
 United States,Denver,city,2020-06-27,-41.0
 United States,Denver,city,2020-06-28,-37.0
+United States,Denver,city,2020-06-28,-37.0
 United States,Denver,city,2020-06-29,-41.0
 United States,Denver,city,2020-06-30,-49.0
 United States,Denver,city,2020-07-01,-47.0
@@ -105288,6 +105301,7 @@ United States,Fort Lauderdale,city,2020-06-24,-52.0
 United States,Fort Lauderdale,city,2020-06-25,-39.0
 United States,Fort Lauderdale,city,2020-06-26,-48.0
 United States,Fort Lauderdale,city,2020-06-27,-48.0
+United States,Fort Lauderdale,city,2020-06-28,-35.0
 United States,Fort Lauderdale,city,2020-06-28,-35.0
 United States,Fort Lauderdale,city,2020-06-29,-56.00000000000001
 United States,Fort Lauderdale,city,2020-06-30,-28.999999999999996
@@ -107340,6 +107354,7 @@ United States,Houston,city,2020-06-24,-49.0
 United States,Houston,city,2020-06-25,-50.0
 United States,Houston,city,2020-06-26,-47.0
 United States,Houston,city,2020-06-27,-45.0
+United States,Houston,city,2020-06-28,-40.0
 United States,Houston,city,2020-06-28,-40.0
 United States,Houston,city,2020-06-29,-48.0
 United States,Houston,city,2020-06-30,-50.0
@@ -109398,6 +109413,7 @@ United States,Los Angeles,city,2020-06-25,-49.0
 United States,Los Angeles,city,2020-06-26,-47.0
 United States,Los Angeles,city,2020-06-27,-47.0
 United States,Los Angeles,city,2020-06-28,-44.0
+United States,Los Angeles,city,2020-06-28,-44.0
 United States,Los Angeles,city,2020-06-29,-42.0
 United States,Los Angeles,city,2020-06-30,-50.0
 United States,Los Angeles,city,2020-07-01,-49.0
@@ -110083,6 +110099,7 @@ United States,Miami,city,2020-06-24,-55.00000000000001
 United States,Miami,city,2020-06-25,-52.0
 United States,Miami,city,2020-06-26,-48.0
 United States,Miami,city,2020-06-27,-53.0
+United States,Miami,city,2020-06-28,-47.0
 United States,Miami,city,2020-06-28,-47.0
 United States,Miami,city,2020-06-29,-45.0
 United States,Miami,city,2020-06-30,-59.0
@@ -114189,6 +114206,7 @@ United States,Oakland,city,2020-06-25,-39.0
 United States,Oakland,city,2020-06-26,-39.0
 United States,Oakland,city,2020-06-27,-30.0
 United States,Oakland,city,2020-06-28,-46.0
+United States,Oakland,city,2020-06-28,-46.0
 United States,Oakland,city,2020-06-29,-28.999999999999996
 United States,Oakland,city,2020-06-30,-57.99999999999999
 United States,Oakland,city,2020-07-01,-27.0
@@ -114874,6 +114892,7 @@ United States,Orlando,city,2020-06-24,-48.0
 United States,Orlando,city,2020-06-25,-42.0
 United States,Orlando,city,2020-06-26,-45.0
 United States,Orlando,city,2020-06-27,-45.0
+United States,Orlando,city,2020-06-28,-46.0
 United States,Orlando,city,2020-06-28,-46.0
 United States,Orlando,city,2020-06-29,-42.0
 United States,Orlando,city,2020-06-30,-43.0
@@ -116248,6 +116267,7 @@ United States,Phoenix,city,2020-06-25,-46.0
 United States,Phoenix,city,2020-06-26,-46.0
 United States,Phoenix,city,2020-06-27,-41.0
 United States,Phoenix,city,2020-06-28,-39.0
+United States,Phoenix,city,2020-06-28,-39.0
 United States,Phoenix,city,2020-06-29,-45.0
 United States,Phoenix,city,2020-06-30,-49.0
 United States,Phoenix,city,2020-07-01,-47.0
@@ -116934,6 +116954,7 @@ United States,Pittsburgh,city,2020-06-25,-67.0
 United States,Pittsburgh,city,2020-06-26,-4.0
 United States,Pittsburgh,city,2020-06-27,-36.0
 United States,Pittsburgh,city,2020-06-28,-39.0
+United States,Pittsburgh,city,2020-06-28,-39.0
 United States,Pittsburgh,city,2020-06-29,-51.0
 United States,Pittsburgh,city,2020-06-30,-37.0
 United States,Pittsburgh,city,2020-07-01,-30.0
@@ -117619,6 +117640,7 @@ United States,Portland,city,2020-06-24,-36.0
 United States,Portland,city,2020-06-25,-45.0
 United States,Portland,city,2020-06-26,-35.0
 United States,Portland,city,2020-06-27,-48.0
+United States,Portland,city,2020-06-28,-38.0
 United States,Portland,city,2020-06-28,-38.0
 United States,Portland,city,2020-06-29,-41.0
 United States,Portland,city,2020-06-30,-41.0
@@ -119680,6 +119702,7 @@ United States,San Antonio,city,2020-06-25,-49.0
 United States,San Antonio,city,2020-06-26,-49.0
 United States,San Antonio,city,2020-06-27,-51.0
 United States,San Antonio,city,2020-06-28,-42.0
+United States,San Antonio,city,2020-06-28,-42.0
 United States,San Antonio,city,2020-06-29,-51.0
 United States,San Antonio,city,2020-06-30,-49.0
 United States,San Antonio,city,2020-07-01,-47.0
@@ -120366,6 +120389,7 @@ United States,San Diego,city,2020-06-25,-50.0
 United States,San Diego,city,2020-06-26,-47.0
 United States,San Diego,city,2020-06-27,-41.0
 United States,San Diego,city,2020-06-28,-41.0
+United States,San Diego,city,2020-06-28,-41.0
 United States,San Diego,city,2020-06-29,-45.0
 United States,San Diego,city,2020-06-30,-52.0
 United States,San Diego,city,2020-07-01,-46.0
@@ -121051,6 +121075,7 @@ United States,San Francisco,city,2020-06-24,-50.0
 United States,San Francisco,city,2020-06-25,-50.0
 United States,San Francisco,city,2020-06-26,-55.00000000000001
 United States,San Francisco,city,2020-06-27,-55.00000000000001
+United States,San Francisco,city,2020-06-28,-46.0
 United States,San Francisco,city,2020-06-28,-46.0
 United States,San Francisco,city,2020-06-29,-38.0
 United States,San Francisco,city,2020-06-30,-55.00000000000001
@@ -122423,6 +122448,7 @@ United States,Seattle,city,2020-06-24,-45.0
 United States,Seattle,city,2020-06-25,-43.0
 United States,Seattle,city,2020-06-26,-41.0
 United States,Seattle,city,2020-06-27,-46.0
+United States,Seattle,city,2020-06-28,-40.0
 United States,Seattle,city,2020-06-28,-40.0
 United States,Seattle,city,2020-06-29,-38.0
 United States,Seattle,city,2020-06-30,-42.0
@@ -125167,6 +125193,7 @@ United States,Washington,city,2020-06-24,-39.0
 United States,Washington,city,2020-06-25,-42.0
 United States,Washington,city,2020-06-26,-44.0
 United States,Washington,city,2020-06-27,-45.0
+United States,Washington,city,2020-06-28,-38.0
 United States,Washington,city,2020-06-28,-38.0
 United States,Washington,city,2020-06-29,-32.0
 United States,Washington,city,2020-06-30,-38.0
