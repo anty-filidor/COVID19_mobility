@@ -108,6 +108,7 @@ Argentina,Buenos Aires,city,2020-06-14,-75.0
 Argentina,Buenos Aires,city,2020-06-15,-70.0
 Argentina,Buenos Aires,city,2020-06-16,-53.0
 Argentina,Buenos Aires,city,2020-06-17,-53.0
+Argentina,Buenos Aires,city,2020-06-17,-53.0
 Argentina,Buenos Aires,city,2020-06-18,-52.0
 Argentina,Buenos Aires,city,2020-06-19,-53.0
 Argentina,Buenos Aires,city,2020-06-20,-57.99999999999999
@@ -13853,6 +13854,7 @@ Brazil,Recife,city,2020-06-14,-62.0
 Brazil,Recife,city,2020-06-15,-45.0
 Brazil,Recife,city,2020-06-16,-52.0
 Brazil,Recife,city,2020-06-17,-56.00000000000001
+Brazil,Recife,city,2020-06-17,-56.00000000000001
 Brazil,Recife,city,2020-06-18,-61.0
 Brazil,Recife,city,2020-06-19,-55.00000000000001
 Brazil,Recife,city,2020-06-20,-57.99999999999999
@@ -15226,6 +15228,7 @@ Brazil,Salvador,city,2020-06-13,-56.99999999999999
 Brazil,Salvador,city,2020-06-14,-63.0
 Brazil,Salvador,city,2020-06-15,-46.0
 Brazil,Salvador,city,2020-06-16,-48.0
+Brazil,Salvador,city,2020-06-17,-55.00000000000001
 Brazil,Salvador,city,2020-06-17,-55.00000000000001
 Brazil,Salvador,city,2020-06-18,-55.00000000000001
 Brazil,Salvador,city,2020-06-19,-50.0
@@ -26901,6 +26904,7 @@ Colombia,Bogota,city,2020-06-13,-60.0
 Colombia,Bogota,city,2020-06-14,-65.0
 Colombia,Bogota,city,2020-06-15,-75.0
 Colombia,Bogota,city,2020-06-16,-56.00000000000001
+Colombia,Bogota,city,2020-06-17,-54.0
 Colombia,Bogota,city,2020-06-17,-54.0
 Colombia,Bogota,city,2020-06-18,-54.0
 Colombia,Bogota,city,2020-06-19,-53.0
@@ -44073,6 +44077,7 @@ Indonesia,Jakarta,city,2020-06-13,-65.0
 Indonesia,Jakarta,city,2020-06-14,-65.0
 Indonesia,Jakarta,city,2020-06-15,-50.0
 Indonesia,Jakarta,city,2020-06-16,-50.0
+Indonesia,Jakarta,city,2020-06-17,-56.99999999999999
 Indonesia,Jakarta,city,2020-06-17,-56.99999999999999
 Indonesia,Jakarta,city,2020-06-18,-57.99999999999999
 Indonesia,Jakarta,city,2020-06-19,-57.99999999999999
@@ -64655,6 +64660,7 @@ Mexico,Monterrey,city,2020-06-14,-52.0
 Mexico,Monterrey,city,2020-06-15,-42.0
 Mexico,Monterrey,city,2020-06-16,-56.00000000000001
 Mexico,Monterrey,city,2020-06-17,-56.00000000000001
+Mexico,Monterrey,city,2020-06-17,-56.00000000000001
 Mexico,Monterrey,city,2020-06-18,-55.00000000000001
 Mexico,Monterrey,city,2020-06-19,-56.99999999999999
 Mexico,Monterrey,city,2020-06-20,-51.0
@@ -65341,6 +65347,7 @@ Mexico,Puebla City,city,2020-06-13,-57.99999999999999
 Mexico,Puebla City,city,2020-06-14,-46.0
 Mexico,Puebla City,city,2020-06-15,-53.0
 Mexico,Puebla City,city,2020-06-16,-52.0
+Mexico,Puebla City,city,2020-06-17,-52.0
 Mexico,Puebla City,city,2020-06-17,-52.0
 Mexico,Puebla City,city,2020-06-18,-53.0
 Mexico,Puebla City,city,2020-06-19,-55.00000000000001
@@ -66029,6 +66036,7 @@ Mexico,Santiago De Queretaro,city,2020-06-13,-57.99999999999999
 Mexico,Santiago De Queretaro,city,2020-06-14,-50.0
 Mexico,Santiago De Queretaro,city,2020-06-15,-54.0
 Mexico,Santiago De Queretaro,city,2020-06-16,-52.0
+Mexico,Santiago De Queretaro,city,2020-06-17,-51.0
 Mexico,Santiago De Queretaro,city,2020-06-17,-51.0
 Mexico,Santiago De Queretaro,city,2020-06-18,-46.0
 Mexico,Santiago De Queretaro,city,2020-06-19,-49.0
@@ -67403,6 +67411,7 @@ Mexico,Zapopan,city,2020-06-13,-52.0
 Mexico,Zapopan,city,2020-06-14,-48.0
 Mexico,Zapopan,city,2020-06-15,-54.0
 Mexico,Zapopan,city,2020-06-16,-50.0
+Mexico,Zapopan,city,2020-06-17,-54.0
 Mexico,Zapopan,city,2020-06-17,-54.0
 Mexico,Zapopan,city,2020-06-18,-45.0
 Mexico,Zapopan,city,2020-06-19,-44.0
@@ -77017,6 +77026,7 @@ Portugal,Lisbon,city,2020-06-13,-65.0
 Portugal,Lisbon,city,2020-06-14,-21.0
 Portugal,Lisbon,city,2020-06-15,-42.0
 Portugal,Lisbon,city,2020-06-16,-51.0
+Portugal,Lisbon,city,2020-06-17,-55.00000000000001
 Portugal,Lisbon,city,2020-06-17,-55.00000000000001
 Portugal,Lisbon,city,2020-06-18,-53.0
 Portugal,Lisbon,city,2020-06-19,-54.0
@@ -87325,6 +87335,7 @@ Spain,Madrid,city,2020-06-14,-63.0
 Spain,Madrid,city,2020-06-15,-55.00000000000001
 Spain,Madrid,city,2020-06-16,-55.00000000000001
 Spain,Madrid,city,2020-06-17,-56.00000000000001
+Spain,Madrid,city,2020-06-17,-56.00000000000001
 Spain,Madrid,city,2020-06-18,-55.00000000000001
 Spain,Madrid,city,2020-06-19,-50.0
 Spain,Madrid,city,2020-06-20,-48.0
@@ -96511,6 +96522,7 @@ United Kingdom,Manchester,city,2020-06-13,-56.99999999999999
 United Kingdom,Manchester,city,2020-06-14,-33.0
 United Kingdom,Manchester,city,2020-06-15,-39.0
 United Kingdom,Manchester,city,2020-06-16,-32.0
+United Kingdom,Manchester,city,2020-06-17,-52.0
 United Kingdom,Manchester,city,2020-06-17,-52.0
 United Kingdom,Manchester,city,2020-06-18,-66.0
 United Kingdom,Manchester,city,2020-06-19,-74.0
@@ -106822,6 +106834,7 @@ United States,Hartford,city,2020-06-14,-35.0
 United States,Hartford,city,2020-06-15,-53.0
 United States,Hartford,city,2020-06-16,-20.0
 United States,Hartford,city,2020-06-17,-53.0
+United States,Hartford,city,2020-06-17,-53.0
 United States,Hartford,city,2020-06-18,-22.0
 United States,Hartford,city,2020-06-19,-28.000000000000004
 United States,Hartford,city,2020-06-20,-35.0
@@ -109564,6 +109577,7 @@ United States,Los Angeles,city,2020-06-14,-45.0
 United States,Los Angeles,city,2020-06-15,-43.0
 United States,Los Angeles,city,2020-06-16,-52.0
 United States,Los Angeles,city,2020-06-17,-51.0
+United States,Los Angeles,city,2020-06-17,-51.0
 United States,Los Angeles,city,2020-06-18,-52.0
 United States,Los Angeles,city,2020-06-19,-49.0
 United States,Los Angeles,city,2020-06-20,-47.0
@@ -110250,6 +110264,7 @@ United States,Miami,city,2020-06-13,-48.0
 United States,Miami,city,2020-06-14,-55.00000000000001
 United States,Miami,city,2020-06-15,-44.0
 United States,Miami,city,2020-06-16,-49.0
+United States,Miami,city,2020-06-17,-52.0
 United States,Miami,city,2020-06-17,-52.0
 United States,Miami,city,2020-06-18,-53.0
 United States,Miami,city,2020-06-19,-55.00000000000001
@@ -117113,6 +117128,7 @@ United States,Pittsburgh,city,2020-06-14,-27.0
 United States,Pittsburgh,city,2020-06-15,-44.0
 United States,Pittsburgh,city,2020-06-16,-48.0
 United States,Pittsburgh,city,2020-06-17,-55.00000000000001
+United States,Pittsburgh,city,2020-06-17,-55.00000000000001
 United States,Pittsburgh,city,2020-06-18,-38.0
 United States,Pittsburgh,city,2020-06-19,-55.00000000000001
 United States,Pittsburgh,city,2020-06-20,-34.0
@@ -120552,6 +120568,7 @@ United States,San Diego,city,2020-06-14,-37.0
 United States,San Diego,city,2020-06-15,-45.0
 United States,San Diego,city,2020-06-16,-50.0
 United States,San Diego,city,2020-06-17,-52.0
+United States,San Diego,city,2020-06-17,-52.0
 United States,San Diego,city,2020-06-18,-52.0
 United States,San Diego,city,2020-06-19,-48.0
 United States,San Diego,city,2020-06-20,-41.0
@@ -121239,6 +121256,7 @@ United States,San Francisco,city,2020-06-14,-50.0
 United States,San Francisco,city,2020-06-15,-43.0
 United States,San Francisco,city,2020-06-16,-53.0
 United States,San Francisco,city,2020-06-17,-55.00000000000001
+United States,San Francisco,city,2020-06-17,-55.00000000000001
 United States,San Francisco,city,2020-06-18,-51.0
 United States,San Francisco,city,2020-06-19,-48.0
 United States,San Francisco,city,2020-06-20,-49.0
@@ -121925,6 +121943,7 @@ United States,San Jose,city,2020-06-13,-50.0
 United States,San Jose,city,2020-06-14,-44.0
 United States,San Jose,city,2020-06-15,-39.0
 United States,San Jose,city,2020-06-16,-54.0
+United States,San Jose,city,2020-06-17,-50.0
 United States,San Jose,city,2020-06-17,-50.0
 United States,San Jose,city,2020-06-18,-51.0
 United States,San Jose,city,2020-06-19,-49.0
