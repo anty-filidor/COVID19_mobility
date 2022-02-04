@@ -692,8 +692,13 @@ Argentina,Buenos Aires,city,2022-01-21,-24.0
 Argentina,Buenos Aires,city,2022-01-22,-20.0
 Argentina,Buenos Aires,city,2022-01-23,-23.0
 Argentina,Buenos Aires,city,2022-01-24,-4.0
-Argentina,Buenos Aires,city,2022-01-25,-16.0
-Argentina,Buenos Aires,city,2022-01-26,-16.0
+Argentina,Buenos Aires,city,2022-01-25,-14.000000000000002
+Argentina,Buenos Aires,city,2022-01-26,-18.0
+Argentina,Buenos Aires,city,2022-01-27,-17.0
+Argentina,Buenos Aires,city,2022-01-28,-18.0
+Argentina,Buenos Aires,city,2022-01-29,-7.000000000000001
+Argentina,Buenos Aires,city,2022-01-30,0.0
+Argentina,Buenos Aires,city,2022-01-31,21.0
 Argentina,Total,country,2020-03-01,-11.0
 Argentina,Total,country,2020-03-02,-11.0
 Argentina,Total,country,2020-03-03,-21.0
@@ -1386,9 +1391,14 @@ Argentina,Total,country,2022-01-20,-1.0
 Argentina,Total,country,2022-01-21,-13.0
 Argentina,Total,country,2022-01-22,-23.0
 Argentina,Total,country,2022-01-23,-10.0
-Argentina,Total,country,2022-01-24,3.0
-Argentina,Total,country,2022-01-25,-10.0
-Argentina,Total,country,2022-01-26,6.0
+Argentina,Total,country,2022-01-24,4.0
+Argentina,Total,country,2022-01-25,-11.0
+Argentina,Total,country,2022-01-26,4.0
+Argentina,Total,country,2022-01-27,4.0
+Argentina,Total,country,2022-01-28,-6.0
+Argentina,Total,country,2022-01-29,-5.0
+Argentina,Total,country,2022-01-30,26.0
+Argentina,Total,country,2022-01-31,39.0
 Australia,Brisbane,city,2020-03-01,5.0
 Australia,Brisbane,city,2020-03-02,3.0
 Australia,Brisbane,city,2020-03-03,3.0
@@ -2081,9 +2091,15 @@ Australia,Brisbane,city,2022-01-20,41.0
 Australia,Brisbane,city,2022-01-21,43.0
 Australia,Brisbane,city,2022-01-22,44.0
 Australia,Brisbane,city,2022-01-23,43.0
-Australia,Brisbane,city,2022-01-24,50.0
+Australia,Brisbane,city,2022-01-24,40.0
 Australia,Brisbane,city,2022-01-25,28.999999999999996
-Australia,Brisbane,city,2022-01-26,27.0
+Australia,Brisbane,city,2022-01-26,31.0
+Australia,Brisbane,city,2022-01-27,53.0
+Australia,Brisbane,city,2022-01-28,40.0
+Australia,Brisbane,city,2022-01-29,57.99999999999999
+Australia,Brisbane,city,2022-01-30,60.0
+Australia,Brisbane,city,2022-01-31,60.0
+Australia,Brisbane,city,2022-02-02,-96.0
 Australia,Gold Coast,city,2020-03-01,26.0
 Australia,Gold Coast,city,2020-03-02,0.0
 Australia,Gold Coast,city,2020-03-03,0.0
@@ -2776,9 +2792,14 @@ Australia,Gold Coast,city,2022-01-20,56.00000000000001
 Australia,Gold Coast,city,2022-01-21,44.0
 Australia,Gold Coast,city,2022-01-22,-48.0
 Australia,Gold Coast,city,2022-01-23,82.0
-Australia,Gold Coast,city,2022-01-24,113.99999999999999
-Australia,Gold Coast,city,2022-01-25,57.99999999999999
-Australia,Gold Coast,city,2022-01-26,47.0
+Australia,Gold Coast,city,2022-01-24,63.0
+Australia,Gold Coast,city,2022-01-25,40.0
+Australia,Gold Coast,city,2022-01-26,48.0
+Australia,Gold Coast,city,2022-01-27,33.0
+Australia,Gold Coast,city,2022-01-28,34.0
+Australia,Gold Coast,city,2022-01-29,60.0
+Australia,Gold Coast,city,2022-01-30,68.0
+Australia,Gold Coast,city,2022-01-31,77.0
 Australia,Melbourne,city,2020-03-01,-1.0
 Australia,Melbourne,city,2020-03-02,-3.0
 Australia,Melbourne,city,2020-03-03,1.0
@@ -3471,9 +3492,14 @@ Australia,Melbourne,city,2022-01-20,-17.0
 Australia,Melbourne,city,2022-01-21,-7.000000000000001
 Australia,Melbourne,city,2022-01-22,-1.0
 Australia,Melbourne,city,2022-01-23,5.0
-Australia,Melbourne,city,2022-01-24,-1.0
-Australia,Melbourne,city,2022-01-25,-7.000000000000001
-Australia,Melbourne,city,2022-01-26,-5.0
+Australia,Melbourne,city,2022-01-24,0.0
+Australia,Melbourne,city,2022-01-25,-4.0
+Australia,Melbourne,city,2022-01-26,-8.0
+Australia,Melbourne,city,2022-01-27,-14.000000000000002
+Australia,Melbourne,city,2022-01-28,-21.0
+Australia,Melbourne,city,2022-01-29,11.0
+Australia,Melbourne,city,2022-01-30,-5.0
+Australia,Melbourne,city,2022-01-31,-6.0
 Australia,Perth,city,2020-03-01,-14.000000000000002
 Australia,Perth,city,2020-03-02,0.0
 Australia,Perth,city,2020-03-03,11.0
@@ -4166,9 +4192,14 @@ Australia,Perth,city,2022-01-20,12.0
 Australia,Perth,city,2022-01-21,7.000000000000001
 Australia,Perth,city,2022-01-22,23.0
 Australia,Perth,city,2022-01-23,54.0
-Australia,Perth,city,2022-01-24,59.0
-Australia,Perth,city,2022-01-25,50.0
-Australia,Perth,city,2022-01-26,48.0
+Australia,Perth,city,2022-01-24,62.0
+Australia,Perth,city,2022-01-25,22.0
+Australia,Perth,city,2022-01-26,16.0
+Australia,Perth,city,2022-01-27,46.0
+Australia,Perth,city,2022-01-28,19.0
+Australia,Perth,city,2022-01-29,25.0
+Australia,Perth,city,2022-01-30,73.0
+Australia,Perth,city,2022-01-31,141.0
 Australia,Sydney,city,2020-03-01,8.0
 Australia,Sydney,city,2020-03-02,-3.0
 Australia,Sydney,city,2020-03-03,-9.0
@@ -4862,9 +4893,14 @@ Australia,Sydney,city,2022-01-20,54.0
 Australia,Sydney,city,2022-01-21,-19.0
 Australia,Sydney,city,2022-01-22,10.0
 Australia,Sydney,city,2022-01-23,13.0
-Australia,Sydney,city,2022-01-24,16.0
-Australia,Sydney,city,2022-01-25,-7.000000000000001
-Australia,Sydney,city,2022-01-26,19.0
+Australia,Sydney,city,2022-01-24,4.0
+Australia,Sydney,city,2022-01-25,1.0
+Australia,Sydney,city,2022-01-26,30.0
+Australia,Sydney,city,2022-01-27,2.0
+Australia,Sydney,city,2022-01-28,7.000000000000001
+Australia,Sydney,city,2022-01-29,17.0
+Australia,Sydney,city,2022-01-30,28.999999999999996
+Australia,Sydney,city,2022-01-31,-3.0
 Australia,Total,country,2020-03-01,4.0
 Australia,Total,country,2020-03-02,2.0
 Australia,Total,country,2020-03-03,1.0
@@ -5559,7 +5595,12 @@ Australia,Total,country,2022-01-22,48.0
 Australia,Total,country,2022-01-23,39.0
 Australia,Total,country,2022-01-24,41.0
 Australia,Total,country,2022-01-25,46.0
-Australia,Total,country,2022-01-26,51.0
+Australia,Total,country,2022-01-26,50.0
+Australia,Total,country,2022-01-27,40.0
+Australia,Total,country,2022-01-28,38.0
+Australia,Total,country,2022-01-29,46.0
+Australia,Total,country,2022-01-30,44.0
+Australia,Total,country,2022-01-31,42.0
 Austria,Total,country,2020-03-01,-18.0
 Austria,Total,country,2020-03-02,-14.000000000000002
 Austria,Total,country,2020-03-03,-6.0
@@ -6253,9 +6294,14 @@ Austria,Total,country,2022-01-20,-14.000000000000002
 Austria,Total,country,2022-01-21,-26.0
 Austria,Total,country,2022-01-22,-50.0
 Austria,Total,country,2022-01-23,-21.0
-Austria,Total,country,2022-01-24,-18.0
+Austria,Total,country,2022-01-24,-20.0
 Austria,Total,country,2022-01-25,-11.0
-Austria,Total,country,2022-01-26,1.0
+Austria,Total,country,2022-01-26,-4.0
+Austria,Total,country,2022-01-27,-8.0
+Austria,Total,country,2022-01-28,-23.0
+Austria,Total,country,2022-01-29,-48.0
+Austria,Total,country,2022-01-30,-25.0
+Austria,Total,country,2022-01-31,-15.0
 Belgium,Antwerp,city,2020-03-01,8.0
 Belgium,Antwerp,city,2020-03-02,-3.0
 Belgium,Antwerp,city,2020-03-03,7.000000000000001
@@ -6948,9 +6994,14 @@ Belgium,Antwerp,city,2022-01-20,-14.000000000000002
 Belgium,Antwerp,city,2022-01-21,-5.0
 Belgium,Antwerp,city,2022-01-22,7.000000000000001
 Belgium,Antwerp,city,2022-01-23,14.000000000000002
-Belgium,Antwerp,city,2022-01-24,-8.0
-Belgium,Antwerp,city,2022-01-25,-6.0
-Belgium,Antwerp,city,2022-01-26,-5.0
+Belgium,Antwerp,city,2022-01-24,-7.000000000000001
+Belgium,Antwerp,city,2022-01-25,-9.0
+Belgium,Antwerp,city,2022-01-26,-9.0
+Belgium,Antwerp,city,2022-01-27,-20.0
+Belgium,Antwerp,city,2022-01-28,-3.0
+Belgium,Antwerp,city,2022-01-29,11.0
+Belgium,Antwerp,city,2022-01-30,3.0
+Belgium,Antwerp,city,2022-01-31,-13.0
 Belgium,Brussels,city,2020-03-01,3.0
 Belgium,Brussels,city,2020-03-02,0.0
 Belgium,Brussels,city,2020-03-03,-1.0
@@ -7644,9 +7695,15 @@ Belgium,Brussels,city,2022-01-20,-38.0
 Belgium,Brussels,city,2022-01-21,-17.0
 Belgium,Brussels,city,2022-01-22,5.0
 Belgium,Brussels,city,2022-01-23,-31.0
-Belgium,Brussels,city,2022-01-24,-16.0
-Belgium,Brussels,city,2022-01-25,-13.0
-Belgium,Brussels,city,2022-01-26,-19.0
+Belgium,Brussels,city,2022-01-24,-6.0
+Belgium,Brussels,city,2022-01-25,-18.0
+Belgium,Brussels,city,2022-01-26,-38.0
+Belgium,Brussels,city,2022-01-27,-20.0
+Belgium,Brussels,city,2022-01-28,-19.0
+Belgium,Brussels,city,2022-01-29,7.000000000000001
+Belgium,Brussels,city,2022-01-30,65.0
+Belgium,Brussels,city,2022-01-31,2.0
+Belgium,Brussels,city,2022-02-01,-91.0
 Belgium,Ghent,city,2020-03-01,5.0
 Belgium,Ghent,city,2020-03-02,0.0
 Belgium,Ghent,city,2020-03-03,2.0
@@ -8339,9 +8396,14 @@ Belgium,Ghent,city,2022-01-20,-7.000000000000001
 Belgium,Ghent,city,2022-01-21,-2.0
 Belgium,Ghent,city,2022-01-22,6.0
 Belgium,Ghent,city,2022-01-23,-1.0
-Belgium,Ghent,city,2022-01-24,-10.0
-Belgium,Ghent,city,2022-01-25,15.0
-Belgium,Ghent,city,2022-01-26,-10.0
+Belgium,Ghent,city,2022-01-24,-9.0
+Belgium,Ghent,city,2022-01-25,10.0
+Belgium,Ghent,city,2022-01-26,-16.0
+Belgium,Ghent,city,2022-01-27,-16.0
+Belgium,Ghent,city,2022-01-28,-2.0
+Belgium,Ghent,city,2022-01-29,16.0
+Belgium,Ghent,city,2022-01-30,14.000000000000002
+Belgium,Ghent,city,2022-01-31,14.000000000000002
 Belgium,Total,country,2020-03-01,13.0
 Belgium,Total,country,2020-03-02,-1.0
 Belgium,Total,country,2020-03-03,1.0
@@ -9035,8 +9097,13 @@ Belgium,Total,country,2022-01-21,3.0
 Belgium,Total,country,2022-01-22,19.0
 Belgium,Total,country,2022-01-23,15.0
 Belgium,Total,country,2022-01-24,4.0
-Belgium,Total,country,2022-01-25,2.0
+Belgium,Total,country,2022-01-25,3.0
 Belgium,Total,country,2022-01-26,3.0
+Belgium,Total,country,2022-01-27,-1.0
+Belgium,Total,country,2022-01-28,6.0
+Belgium,Total,country,2022-01-29,24.0
+Belgium,Total,country,2022-01-30,32.0
+Belgium,Total,country,2022-01-31,7.000000000000001
 Brazil,Belo Horizonte,city,2020-03-01,-21.0
 Brazil,Belo Horizonte,city,2020-03-02,6.0
 Brazil,Belo Horizonte,city,2020-03-03,4.0
@@ -9730,8 +9797,13 @@ Brazil,Belo Horizonte,city,2022-01-21,-26.0
 Brazil,Belo Horizonte,city,2022-01-22,-27.0
 Brazil,Belo Horizonte,city,2022-01-23,-24.0
 Brazil,Belo Horizonte,city,2022-01-24,-13.0
-Brazil,Belo Horizonte,city,2022-01-25,-20.0
-Brazil,Belo Horizonte,city,2022-01-26,-25.0
+Brazil,Belo Horizonte,city,2022-01-25,-22.0
+Brazil,Belo Horizonte,city,2022-01-26,-24.0
+Brazil,Belo Horizonte,city,2022-01-27,-24.0
+Brazil,Belo Horizonte,city,2022-01-28,-22.0
+Brazil,Belo Horizonte,city,2022-01-29,-28.999999999999996
+Brazil,Belo Horizonte,city,2022-01-30,-25.0
+Brazil,Belo Horizonte,city,2022-01-31,-10.0
 Brazil,Brasilia,city,2020-03-01,-27.0
 Brazil,Brasilia,city,2020-03-02,44.0
 Brazil,Brasilia,city,2020-03-03,33.0
@@ -10424,9 +10496,14 @@ Brazil,Brasilia,city,2022-01-20,-49.0
 Brazil,Brasilia,city,2022-01-21,-44.0
 Brazil,Brasilia,city,2022-01-22,-26.0
 Brazil,Brasilia,city,2022-01-23,-21.0
-Brazil,Brasilia,city,2022-01-24,-19.0
-Brazil,Brasilia,city,2022-01-25,-43.0
-Brazil,Brasilia,city,2022-01-26,-39.0
+Brazil,Brasilia,city,2022-01-24,-18.0
+Brazil,Brasilia,city,2022-01-25,-26.0
+Brazil,Brasilia,city,2022-01-26,-44.0
+Brazil,Brasilia,city,2022-01-27,-47.0
+Brazil,Brasilia,city,2022-01-28,-40.0
+Brazil,Brasilia,city,2022-01-29,-35.0
+Brazil,Brasilia,city,2022-01-30,-18.0
+Brazil,Brasilia,city,2022-01-31,-21.0
 Brazil,Curitiba,city,2020-03-01,4.0
 Brazil,Curitiba,city,2020-03-02,26.0
 Brazil,Curitiba,city,2020-03-03,24.0
@@ -11119,9 +11196,15 @@ Brazil,Curitiba,city,2022-01-20,-14.000000000000002
 Brazil,Curitiba,city,2022-01-21,-7.000000000000001
 Brazil,Curitiba,city,2022-01-22,-1.0
 Brazil,Curitiba,city,2022-01-23,-4.0
-Brazil,Curitiba,city,2022-01-24,32.0
-Brazil,Curitiba,city,2022-01-25,7.000000000000001
-Brazil,Curitiba,city,2022-01-26,-14.000000000000002
+Brazil,Curitiba,city,2022-01-24,25.0
+Brazil,Curitiba,city,2022-01-25,11.0
+Brazil,Curitiba,city,2022-01-26,-9.0
+Brazil,Curitiba,city,2022-01-27,-7.000000000000001
+Brazil,Curitiba,city,2022-01-28,-8.0
+Brazil,Curitiba,city,2022-01-29,1.0
+Brazil,Curitiba,city,2022-01-30,-8.0
+Brazil,Curitiba,city,2022-01-31,22.0
+Brazil,Curitiba,city,2022-02-01,-97.0
 Brazil,Florianopolis,city,2020-03-01,-35.0
 Brazil,Florianopolis,city,2020-03-02,-22.0
 Brazil,Florianopolis,city,2020-03-03,-22.0
@@ -11814,9 +11897,15 @@ Brazil,Florianopolis,city,2022-01-20,10.0
 Brazil,Florianopolis,city,2022-01-21,6.0
 Brazil,Florianopolis,city,2022-01-22,-7.000000000000001
 Brazil,Florianopolis,city,2022-01-23,-5.0
-Brazil,Florianopolis,city,2022-01-24,3.0
-Brazil,Florianopolis,city,2022-01-25,4.0
-Brazil,Florianopolis,city,2022-01-26,30.0
+Brazil,Florianopolis,city,2022-01-24,-3.0
+Brazil,Florianopolis,city,2022-01-25,6.0
+Brazil,Florianopolis,city,2022-01-26,20.0
+Brazil,Florianopolis,city,2022-01-27,13.0
+Brazil,Florianopolis,city,2022-01-28,1.0
+Brazil,Florianopolis,city,2022-01-29,-20.0
+Brazil,Florianopolis,city,2022-01-30,-12.0
+Brazil,Florianopolis,city,2022-01-31,-13.0
+Brazil,Florianopolis,city,2022-02-01,-97.0
 Brazil,Fortaleza,city,2020-03-01,-5.0
 Brazil,Fortaleza,city,2020-03-02,22.0
 Brazil,Fortaleza,city,2020-03-03,14.000000000000002
@@ -12509,9 +12598,14 @@ Brazil,Fortaleza,city,2022-01-20,-11.0
 Brazil,Fortaleza,city,2022-01-21,-7.000000000000001
 Brazil,Fortaleza,city,2022-01-22,2.0
 Brazil,Fortaleza,city,2022-01-23,2.0
-Brazil,Fortaleza,city,2022-01-24,21.0
+Brazil,Fortaleza,city,2022-01-24,9.0
 Brazil,Fortaleza,city,2022-01-25,7.000000000000001
-Brazil,Fortaleza,city,2022-01-26,-10.0
+Brazil,Fortaleza,city,2022-01-26,-7.000000000000001
+Brazil,Fortaleza,city,2022-01-27,-8.0
+Brazil,Fortaleza,city,2022-01-28,-7.000000000000001
+Brazil,Fortaleza,city,2022-01-29,5.0
+Brazil,Fortaleza,city,2022-01-30,15.0
+Brazil,Fortaleza,city,2022-01-31,27.0
 Brazil,Guarulhos,city,2020-03-01,7.000000000000001
 Brazil,Guarulhos,city,2020-03-02,11.0
 Brazil,Guarulhos,city,2020-03-03,2.0
@@ -13206,7 +13300,12 @@ Brazil,Guarulhos,city,2022-01-22,-6.0
 Brazil,Guarulhos,city,2022-01-23,10.0
 Brazil,Guarulhos,city,2022-01-24,25.0
 Brazil,Guarulhos,city,2022-01-25,5.0
-Brazil,Guarulhos,city,2022-01-26,-1.0
+Brazil,Guarulhos,city,2022-01-26,-4.0
+Brazil,Guarulhos,city,2022-01-27,1.0
+Brazil,Guarulhos,city,2022-01-28,-6.0
+Brazil,Guarulhos,city,2022-01-29,-8.0
+Brazil,Guarulhos,city,2022-01-30,6.0
+Brazil,Guarulhos,city,2022-01-31,15.0
 Brazil,Porto Alegre,city,2020-03-01,28.999999999999996
 Brazil,Porto Alegre,city,2020-03-02,31.0
 Brazil,Porto Alegre,city,2020-03-03,17.0
@@ -13899,9 +13998,14 @@ Brazil,Porto Alegre,city,2022-01-20,-13.0
 Brazil,Porto Alegre,city,2022-01-21,-10.0
 Brazil,Porto Alegre,city,2022-01-22,-6.0
 Brazil,Porto Alegre,city,2022-01-23,2.0
-Brazil,Porto Alegre,city,2022-01-24,35.0
+Brazil,Porto Alegre,city,2022-01-24,40.0
 Brazil,Porto Alegre,city,2022-01-25,1.0
 Brazil,Porto Alegre,city,2022-01-26,-8.0
+Brazil,Porto Alegre,city,2022-01-27,-11.0
+Brazil,Porto Alegre,city,2022-01-28,-8.0
+Brazil,Porto Alegre,city,2022-01-29,12.0
+Brazil,Porto Alegre,city,2022-01-30,32.0
+Brazil,Porto Alegre,city,2022-01-31,28.999999999999996
 Brazil,Recife,city,2020-03-01,8.0
 Brazil,Recife,city,2020-03-02,11.0
 Brazil,Recife,city,2020-03-03,8.0
@@ -14594,9 +14698,15 @@ Brazil,Recife,city,2022-01-20,-8.0
 Brazil,Recife,city,2022-01-21,-11.0
 Brazil,Recife,city,2022-01-22,-19.0
 Brazil,Recife,city,2022-01-23,-1.0
-Brazil,Recife,city,2022-01-24,7.000000000000001
-Brazil,Recife,city,2022-01-25,-1.0
-Brazil,Recife,city,2022-01-26,-14.000000000000002
+Brazil,Recife,city,2022-01-24,10.0
+Brazil,Recife,city,2022-01-25,-5.0
+Brazil,Recife,city,2022-01-26,-13.0
+Brazil,Recife,city,2022-01-27,-16.0
+Brazil,Recife,city,2022-01-28,-17.0
+Brazil,Recife,city,2022-01-29,-28.000000000000004
+Brazil,Recife,city,2022-01-30,-9.0
+Brazil,Recife,city,2022-01-31,11.0
+Brazil,Recife,city,2022-02-01,-99.0
 Brazil,Rio De Janeiro,city,2020-03-01,-15.0
 Brazil,Rio De Janeiro,city,2020-03-02,-4.0
 Brazil,Rio De Janeiro,city,2020-03-03,-1.0
@@ -15289,9 +15399,14 @@ Brazil,Rio De Janeiro,city,2022-01-20,-22.0
 Brazil,Rio De Janeiro,city,2022-01-21,-16.0
 Brazil,Rio De Janeiro,city,2022-01-22,-12.0
 Brazil,Rio De Janeiro,city,2022-01-23,5.0
-Brazil,Rio De Janeiro,city,2022-01-24,11.0
+Brazil,Rio De Janeiro,city,2022-01-24,12.0
 Brazil,Rio De Janeiro,city,2022-01-25,-1.0
 Brazil,Rio De Janeiro,city,2022-01-26,-11.0
+Brazil,Rio De Janeiro,city,2022-01-27,-10.0
+Brazil,Rio De Janeiro,city,2022-01-28,-9.0
+Brazil,Rio De Janeiro,city,2022-01-29,-13.0
+Brazil,Rio De Janeiro,city,2022-01-30,-3.0
+Brazil,Rio De Janeiro,city,2022-01-31,4.0
 Brazil,Salvador,city,2020-03-01,-18.0
 Brazil,Salvador,city,2020-03-02,2.0
 Brazil,Salvador,city,2020-03-03,2.0
@@ -15984,9 +16099,14 @@ Brazil,Salvador,city,2022-01-20,-11.0
 Brazil,Salvador,city,2022-01-21,-8.0
 Brazil,Salvador,city,2022-01-22,-19.0
 Brazil,Salvador,city,2022-01-23,-16.0
-Brazil,Salvador,city,2022-01-24,-1.0
-Brazil,Salvador,city,2022-01-25,-4.0
-Brazil,Salvador,city,2022-01-26,-20.0
+Brazil,Salvador,city,2022-01-24,-2.0
+Brazil,Salvador,city,2022-01-25,-5.0
+Brazil,Salvador,city,2022-01-26,-16.0
+Brazil,Salvador,city,2022-01-27,-15.0
+Brazil,Salvador,city,2022-01-28,-8.0
+Brazil,Salvador,city,2022-01-29,-9.0
+Brazil,Salvador,city,2022-01-30,-3.0
+Brazil,Salvador,city,2022-01-31,7.000000000000001
 Brazil,Sao Paulo,city,2020-03-01,7.000000000000001
 Brazil,Sao Paulo,city,2020-03-02,12.0
 Brazil,Sao Paulo,city,2020-03-03,9.0
@@ -16682,6 +16802,11 @@ Brazil,Sao Paulo,city,2022-01-23,-8.0
 Brazil,Sao Paulo,city,2022-01-24,3.0
 Brazil,Sao Paulo,city,2022-01-25,-15.0
 Brazil,Sao Paulo,city,2022-01-26,-10.0
+Brazil,Sao Paulo,city,2022-01-27,-17.0
+Brazil,Sao Paulo,city,2022-01-28,-14.000000000000002
+Brazil,Sao Paulo,city,2022-01-29,-10.0
+Brazil,Sao Paulo,city,2022-01-30,-3.0
+Brazil,Sao Paulo,city,2022-01-31,3.0
 Brazil,Total,country,2020-03-01,-7.000000000000001
 Brazil,Total,country,2020-03-02,4.0
 Brazil,Total,country,2020-03-03,-2.0
@@ -17377,6 +17502,11 @@ Brazil,Total,country,2022-01-23,17.0
 Brazil,Total,country,2022-01-24,26.0
 Brazil,Total,country,2022-01-25,8.0
 Brazil,Total,country,2022-01-26,7.000000000000001
+Brazil,Total,country,2022-01-27,3.0
+Brazil,Total,country,2022-01-28,-2.0
+Brazil,Total,country,2022-01-29,-11.0
+Brazil,Total,country,2022-01-30,8.0
+Brazil,Total,country,2022-01-31,16.0
 Brazil,Vitoria,city,2020-03-01,-56.00000000000001
 Brazil,Vitoria,city,2020-03-02,13.0
 Brazil,Vitoria,city,2020-03-03,-8.0
@@ -18066,9 +18196,14 @@ Brazil,Vitoria,city,2022-01-20,-2.0
 Brazil,Vitoria,city,2022-01-21,-13.0
 Brazil,Vitoria,city,2022-01-22,27.0
 Brazil,Vitoria,city,2022-01-23,-22.0
-Brazil,Vitoria,city,2022-01-24,42.0
-Brazil,Vitoria,city,2022-01-25,1.0
-Brazil,Vitoria,city,2022-01-26,2.0
+Brazil,Vitoria,city,2022-01-24,49.0
+Brazil,Vitoria,city,2022-01-25,33.0
+Brazil,Vitoria,city,2022-01-26,-11.0
+Brazil,Vitoria,city,2022-01-27,23.0
+Brazil,Vitoria,city,2022-01-28,-28.000000000000004
+Brazil,Vitoria,city,2022-01-29,22.0
+Brazil,Vitoria,city,2022-01-30,11.0
+Brazil,Vitoria,city,2022-01-31,31.0
 Canada,Calgary,city,2020-03-01,5.0
 Canada,Calgary,city,2020-03-02,4.0
 Canada,Calgary,city,2020-03-03,-6.0
@@ -18757,9 +18892,14 @@ Canada,Calgary,city,2022-01-20,4.0
 Canada,Calgary,city,2022-01-21,-2.0
 Canada,Calgary,city,2022-01-22,67.0
 Canada,Calgary,city,2022-01-23,15.0
-Canada,Calgary,city,2022-01-24,10.0
-Canada,Calgary,city,2022-01-25,-16.0
-Canada,Calgary,city,2022-01-26,-22.0
+Canada,Calgary,city,2022-01-24,-3.0
+Canada,Calgary,city,2022-01-25,-15.0
+Canada,Calgary,city,2022-01-26,9.0
+Canada,Calgary,city,2022-01-27,-33.0
+Canada,Calgary,city,2022-01-28,-3.0
+Canada,Calgary,city,2022-01-29,53.0
+Canada,Calgary,city,2022-01-31,8.0
+Canada,Calgary,city,2022-02-01,-88.0
 Canada,Hamilton,city,2020-03-01,3.0
 Canada,Hamilton,city,2020-03-02,8.0
 Canada,Hamilton,city,2020-03-03,5.0
@@ -19452,9 +19592,15 @@ Canada,Hamilton,city,2022-01-20,-15.0
 Canada,Hamilton,city,2022-01-21,-45.0
 Canada,Hamilton,city,2022-01-22,-20.0
 Canada,Hamilton,city,2022-01-23,-15.0
-Canada,Hamilton,city,2022-01-24,0.0
-Canada,Hamilton,city,2022-01-25,-1.0
+Canada,Hamilton,city,2022-01-24,-6.0
+Canada,Hamilton,city,2022-01-25,-19.0
 Canada,Hamilton,city,2022-01-26,0.0
+Canada,Hamilton,city,2022-01-27,4.0
+Canada,Hamilton,city,2022-01-28,1.0
+Canada,Hamilton,city,2022-01-29,-9.0
+Canada,Hamilton,city,2022-01-30,-14.000000000000002
+Canada,Hamilton,city,2022-01-31,16.0
+Canada,Hamilton,city,2022-02-01,-90.0
 Canada,Mississauga,city,2020-03-01,4.0
 Canada,Mississauga,city,2020-03-02,23.0
 Canada,Mississauga,city,2020-03-03,-1.0
@@ -20147,9 +20293,14 @@ Canada,Mississauga,city,2022-01-20,-38.0
 Canada,Mississauga,city,2022-01-21,-32.0
 Canada,Mississauga,city,2022-01-22,-22.0
 Canada,Mississauga,city,2022-01-23,-27.0
-Canada,Mississauga,city,2022-01-24,-28.000000000000004
-Canada,Mississauga,city,2022-01-25,-38.0
-Canada,Mississauga,city,2022-01-26,-41.0
+Canada,Mississauga,city,2022-01-24,-31.0
+Canada,Mississauga,city,2022-01-25,-45.0
+Canada,Mississauga,city,2022-01-26,-36.0
+Canada,Mississauga,city,2022-01-27,-30.0
+Canada,Mississauga,city,2022-01-28,-37.0
+Canada,Mississauga,city,2022-01-29,-25.0
+Canada,Mississauga,city,2022-01-30,-20.0
+Canada,Mississauga,city,2022-01-31,-10.0
 Canada,Montreal,city,2020-03-01,-9.0
 Canada,Montreal,city,2020-03-02,-8.0
 Canada,Montreal,city,2020-03-03,-9.0
@@ -20842,9 +20993,15 @@ Canada,Montreal,city,2022-01-20,-22.0
 Canada,Montreal,city,2022-01-21,-23.0
 Canada,Montreal,city,2022-01-22,-28.999999999999996
 Canada,Montreal,city,2022-01-23,-23.0
-Canada,Montreal,city,2022-01-24,-17.0
-Canada,Montreal,city,2022-01-25,-21.0
-Canada,Montreal,city,2022-01-26,-21.0
+Canada,Montreal,city,2022-01-24,-14.000000000000002
+Canada,Montreal,city,2022-01-25,-17.0
+Canada,Montreal,city,2022-01-26,-20.0
+Canada,Montreal,city,2022-01-27,-23.0
+Canada,Montreal,city,2022-01-28,-21.0
+Canada,Montreal,city,2022-01-29,-17.0
+Canada,Montreal,city,2022-01-30,-15.0
+Canada,Montreal,city,2022-01-31,-15.0
+Canada,Montreal,city,2022-02-02,-97.0
 Canada,Ottawa,city,2020-03-01,-6.0
 Canada,Ottawa,city,2020-03-02,10.0
 Canada,Ottawa,city,2020-03-03,-1.0
@@ -21538,9 +21695,15 @@ Canada,Ottawa,city,2022-01-20,-42.0
 Canada,Ottawa,city,2022-01-21,-35.0
 Canada,Ottawa,city,2022-01-22,-36.0
 Canada,Ottawa,city,2022-01-23,-32.0
-Canada,Ottawa,city,2022-01-24,-24.0
-Canada,Ottawa,city,2022-01-25,-40.0
-Canada,Ottawa,city,2022-01-26,-65.0
+Canada,Ottawa,city,2022-01-24,-13.0
+Canada,Ottawa,city,2022-01-25,-41.0
+Canada,Ottawa,city,2022-01-26,-31.0
+Canada,Ottawa,city,2022-01-27,-33.0
+Canada,Ottawa,city,2022-01-28,-25.0
+Canada,Ottawa,city,2022-01-29,-2.0
+Canada,Ottawa,city,2022-01-30,-7.000000000000001
+Canada,Ottawa,city,2022-01-31,-12.0
+Canada,Ottawa,city,2022-02-02,-94.0
 Canada,Quebec City,city,2020-03-01,-4.0
 Canada,Quebec City,city,2020-03-02,7.000000000000001
 Canada,Quebec City,city,2020-03-03,10.0
@@ -22231,9 +22394,14 @@ Canada,Quebec City,city,2022-01-20,-37.0
 Canada,Quebec City,city,2022-01-21,-27.0
 Canada,Quebec City,city,2022-01-22,-22.0
 Canada,Quebec City,city,2022-01-23,-31.0
-Canada,Quebec City,city,2022-01-24,-15.0
-Canada,Quebec City,city,2022-01-25,-28.000000000000004
-Canada,Quebec City,city,2022-01-26,-25.0
+Canada,Quebec City,city,2022-01-24,60.0
+Canada,Quebec City,city,2022-01-25,-14.000000000000002
+Canada,Quebec City,city,2022-01-26,0.0
+Canada,Quebec City,city,2022-01-27,-38.0
+Canada,Quebec City,city,2022-01-28,-42.0
+Canada,Quebec City,city,2022-01-29,12.0
+Canada,Quebec City,city,2022-01-30,-22.0
+Canada,Quebec City,city,2022-01-31,-23.0
 Canada,Toronto,city,2020-03-01,4.0
 Canada,Toronto,city,2020-03-02,14.000000000000002
 Canada,Toronto,city,2020-03-03,1.0
@@ -22926,9 +23094,14 @@ Canada,Toronto,city,2022-01-20,-32.0
 Canada,Toronto,city,2022-01-21,-28.999999999999996
 Canada,Toronto,city,2022-01-22,-25.0
 Canada,Toronto,city,2022-01-23,-22.0
-Canada,Toronto,city,2022-01-24,-16.0
-Canada,Toronto,city,2022-01-25,-28.999999999999996
-Canada,Toronto,city,2022-01-26,-28.999999999999996
+Canada,Toronto,city,2022-01-24,-15.0
+Canada,Toronto,city,2022-01-25,-28.000000000000004
+Canada,Toronto,city,2022-01-26,-27.0
+Canada,Toronto,city,2022-01-27,-26.0
+Canada,Toronto,city,2022-01-28,-28.000000000000004
+Canada,Toronto,city,2022-01-29,-23.0
+Canada,Toronto,city,2022-01-30,-17.0
+Canada,Toronto,city,2022-01-31,-7.000000000000001
 Canada,Total,country,2020-03-01,-3.0
 Canada,Total,country,2020-03-02,1.0
 Canada,Total,country,2020-03-03,0.0
@@ -23622,8 +23795,13 @@ Canada,Total,country,2022-01-21,-19.0
 Canada,Total,country,2022-01-22,-18.0
 Canada,Total,country,2022-01-23,-16.0
 Canada,Total,country,2022-01-24,-15.0
-Canada,Total,country,2022-01-25,-18.0
-Canada,Total,country,2022-01-26,-18.0
+Canada,Total,country,2022-01-25,-19.0
+Canada,Total,country,2022-01-26,-19.0
+Canada,Total,country,2022-01-27,-15.0
+Canada,Total,country,2022-01-28,-14.000000000000002
+Canada,Total,country,2022-01-29,-11.0
+Canada,Total,country,2022-01-30,-7.000000000000001
+Canada,Total,country,2022-01-31,-8.0
 Canada,Vaughan,city,2020-03-01,9.0
 Canada,Vaughan,city,2020-03-02,11.0
 Canada,Vaughan,city,2020-03-03,0.0
@@ -24317,9 +24495,15 @@ Canada,Vaughan,city,2022-01-20,-19.0
 Canada,Vaughan,city,2022-01-21,3.0
 Canada,Vaughan,city,2022-01-22,-2.0
 Canada,Vaughan,city,2022-01-23,-16.0
-Canada,Vaughan,city,2022-01-24,-10.0
-Canada,Vaughan,city,2022-01-25,-16.0
-Canada,Vaughan,city,2022-01-26,-32.0
+Canada,Vaughan,city,2022-01-24,-18.0
+Canada,Vaughan,city,2022-01-25,-19.0
+Canada,Vaughan,city,2022-01-26,-5.0
+Canada,Vaughan,city,2022-01-27,-10.0
+Canada,Vaughan,city,2022-01-28,-19.0
+Canada,Vaughan,city,2022-01-29,22.0
+Canada,Vaughan,city,2022-01-30,9.0
+Canada,Vaughan,city,2022-01-31,0.0
+Canada,Vaughan,city,2022-02-02,-99.0
 Chile,Las Condes,city,2020-03-01,17.0
 Chile,Las Condes,city,2020-03-02,3.0
 Chile,Las Condes,city,2020-03-03,23.0
@@ -25012,9 +25196,14 @@ Chile,Las Condes,city,2022-01-20,34.0
 Chile,Las Condes,city,2022-01-21,24.0
 Chile,Las Condes,city,2022-01-22,28.000000000000004
 Chile,Las Condes,city,2022-01-23,0.0
-Chile,Las Condes,city,2022-01-24,11.0
-Chile,Las Condes,city,2022-01-25,22.0
-Chile,Las Condes,city,2022-01-26,31.0
+Chile,Las Condes,city,2022-01-24,13.0
+Chile,Las Condes,city,2022-01-25,31.0
+Chile,Las Condes,city,2022-01-26,28.999999999999996
+Chile,Las Condes,city,2022-01-27,27.0
+Chile,Las Condes,city,2022-01-28,33.0
+Chile,Las Condes,city,2022-01-29,24.0
+Chile,Las Condes,city,2022-01-30,3.0
+Chile,Las Condes,city,2022-01-31,5.0
 Chile,Maipu,city,2020-03-01,7.000000000000001
 Chile,Maipu,city,2020-03-02,-9.0
 Chile,Maipu,city,2020-03-03,11.0
@@ -25707,9 +25896,15 @@ Chile,Maipu,city,2022-01-20,43.0
 Chile,Maipu,city,2022-01-21,10.0
 Chile,Maipu,city,2022-01-22,16.0
 Chile,Maipu,city,2022-01-23,-22.0
-Chile,Maipu,city,2022-01-24,32.0
-Chile,Maipu,city,2022-01-25,19.0
-Chile,Maipu,city,2022-01-26,27.0
+Chile,Maipu,city,2022-01-24,11.0
+Chile,Maipu,city,2022-01-25,11.0
+Chile,Maipu,city,2022-01-26,31.0
+Chile,Maipu,city,2022-01-27,35.0
+Chile,Maipu,city,2022-01-28,27.0
+Chile,Maipu,city,2022-01-29,16.0
+Chile,Maipu,city,2022-01-30,12.0
+Chile,Maipu,city,2022-01-31,31.0
+Chile,Maipu,city,2022-02-01,-78.0
 Chile,Santiago,city,2020-03-01,7.000000000000001
 Chile,Santiago,city,2020-03-02,-5.0
 Chile,Santiago,city,2020-03-03,7.000000000000001
@@ -26402,9 +26597,14 @@ Chile,Santiago,city,2022-01-20,19.0
 Chile,Santiago,city,2022-01-21,14.000000000000002
 Chile,Santiago,city,2022-01-22,3.0
 Chile,Santiago,city,2022-01-23,-4.0
-Chile,Santiago,city,2022-01-24,15.0
-Chile,Santiago,city,2022-01-25,21.0
+Chile,Santiago,city,2022-01-24,11.0
+Chile,Santiago,city,2022-01-25,16.0
 Chile,Santiago,city,2022-01-26,21.0
+Chile,Santiago,city,2022-01-27,20.0
+Chile,Santiago,city,2022-01-28,18.0
+Chile,Santiago,city,2022-01-29,10.0
+Chile,Santiago,city,2022-01-30,-4.0
+Chile,Santiago,city,2022-01-31,8.0
 Chile,Total,country,2020-03-01,-16.0
 Chile,Total,country,2020-03-02,-24.0
 Chile,Total,country,2020-03-03,-20.0
@@ -27098,8 +27298,13 @@ Chile,Total,country,2022-01-21,20.0
 Chile,Total,country,2022-01-22,14.000000000000002
 Chile,Total,country,2022-01-23,11.0
 Chile,Total,country,2022-01-24,20.0
-Chile,Total,country,2022-01-25,27.0
+Chile,Total,country,2022-01-25,28.000000000000004
 Chile,Total,country,2022-01-26,25.0
+Chile,Total,country,2022-01-27,23.0
+Chile,Total,country,2022-01-28,20.0
+Chile,Total,country,2022-01-29,26.0
+Chile,Total,country,2022-01-30,20.0
+Chile,Total,country,2022-01-31,26.0
 Colombia,Bogota,city,2020-03-01,9.0
 Colombia,Bogota,city,2020-03-02,3.0
 Colombia,Bogota,city,2020-03-03,6.0
@@ -27793,8 +27998,13 @@ Colombia,Bogota,city,2022-01-21,0.0
 Colombia,Bogota,city,2022-01-22,1.0
 Colombia,Bogota,city,2022-01-23,2.0
 Colombia,Bogota,city,2022-01-24,7.000000000000001
-Colombia,Bogota,city,2022-01-25,5.0
+Colombia,Bogota,city,2022-01-25,4.0
 Colombia,Bogota,city,2022-01-26,5.0
+Colombia,Bogota,city,2022-01-27,6.0
+Colombia,Bogota,city,2022-01-28,2.0
+Colombia,Bogota,city,2022-01-29,3.0
+Colombia,Bogota,city,2022-01-30,8.0
+Colombia,Bogota,city,2022-01-31,11.0
 Colombia,Cali,city,2020-03-01,2.0
 Colombia,Cali,city,2020-03-02,-2.0
 Colombia,Cali,city,2020-03-03,6.0
@@ -28485,9 +28695,16 @@ Colombia,Cali,city,2022-01-20,25.0
 Colombia,Cali,city,2022-01-21,28.999999999999996
 Colombia,Cali,city,2022-01-22,9.0
 Colombia,Cali,city,2022-01-23,24.0
-Colombia,Cali,city,2022-01-24,28.999999999999996
+Colombia,Cali,city,2022-01-24,23.0
 Colombia,Cali,city,2022-01-25,23.0
-Colombia,Cali,city,2022-01-26,21.0
+Colombia,Cali,city,2022-01-26,26.0
+Colombia,Cali,city,2022-01-27,7.000000000000001
+Colombia,Cali,city,2022-01-28,28.000000000000004
+Colombia,Cali,city,2022-01-29,37.0
+Colombia,Cali,city,2022-01-30,22.0
+Colombia,Cali,city,2022-01-31,38.0
+Colombia,Cali,city,2022-02-01,-84.0
+Colombia,Cali,city,2022-02-02,-89.0
 Colombia,Medellin,city,2020-03-01,3.0
 Colombia,Medellin,city,2020-03-02,2.0
 Colombia,Medellin,city,2020-03-03,0.0
@@ -29180,9 +29397,14 @@ Colombia,Medellin,city,2022-01-20,40.0
 Colombia,Medellin,city,2022-01-21,39.0
 Colombia,Medellin,city,2022-01-22,43.0
 Colombia,Medellin,city,2022-01-23,47.0
-Colombia,Medellin,city,2022-01-24,50.0
-Colombia,Medellin,city,2022-01-25,49.0
-Colombia,Medellin,city,2022-01-26,48.0
+Colombia,Medellin,city,2022-01-24,48.0
+Colombia,Medellin,city,2022-01-25,48.0
+Colombia,Medellin,city,2022-01-26,53.0
+Colombia,Medellin,city,2022-01-27,48.0
+Colombia,Medellin,city,2022-01-28,35.0
+Colombia,Medellin,city,2022-01-29,50.0
+Colombia,Medellin,city,2022-01-30,61.0
+Colombia,Medellin,city,2022-01-31,61.0
 Colombia,Total,country,2020-03-01,8.0
 Colombia,Total,country,2020-03-02,2.0
 Colombia,Total,country,2020-03-03,3.0
@@ -29875,9 +30097,14 @@ Colombia,Total,country,2022-01-20,22.0
 Colombia,Total,country,2022-01-21,23.0
 Colombia,Total,country,2022-01-22,27.0
 Colombia,Total,country,2022-01-23,34.0
-Colombia,Total,country,2022-01-24,31.0
+Colombia,Total,country,2022-01-24,30.0
 Colombia,Total,country,2022-01-25,25.0
-Colombia,Total,country,2022-01-26,25.0
+Colombia,Total,country,2022-01-26,24.0
+Colombia,Total,country,2022-01-27,26.0
+Colombia,Total,country,2022-01-28,24.0
+Colombia,Total,country,2022-01-29,28.000000000000004
+Colombia,Total,country,2022-01-30,38.0
+Colombia,Total,country,2022-01-31,33.0
 Costa Rica,San Jose,city,2020-03-01,7.000000000000001
 Costa Rica,San Jose,city,2020-03-02,0.0
 Costa Rica,San Jose,city,2020-03-03,5.0
@@ -30570,9 +30797,15 @@ Costa Rica,San Jose,city,2022-01-20,-19.0
 Costa Rica,San Jose,city,2022-01-21,-20.0
 Costa Rica,San Jose,city,2022-01-22,-15.0
 Costa Rica,San Jose,city,2022-01-23,-21.0
-Costa Rica,San Jose,city,2022-01-24,-19.0
-Costa Rica,San Jose,city,2022-01-25,-17.0
-Costa Rica,San Jose,city,2022-01-26,-20.0
+Costa Rica,San Jose,city,2022-01-24,-4.0
+Costa Rica,San Jose,city,2022-01-25,-18.0
+Costa Rica,San Jose,city,2022-01-26,-14.000000000000002
+Costa Rica,San Jose,city,2022-01-27,-19.0
+Costa Rica,San Jose,city,2022-01-28,-36.0
+Costa Rica,San Jose,city,2022-01-29,-20.0
+Costa Rica,San Jose,city,2022-01-30,-15.0
+Costa Rica,San Jose,city,2022-01-31,-13.0
+Costa Rica,San Jose,city,2022-02-01,-98.0
 Costa Rica,Total,country,2020-03-01,2.0
 Costa Rica,Total,country,2020-03-02,-1.0
 Costa Rica,Total,country,2020-03-03,2.0
@@ -31265,9 +31498,14 @@ Costa Rica,Total,country,2022-01-20,6.0
 Costa Rica,Total,country,2022-01-21,10.0
 Costa Rica,Total,country,2022-01-22,12.0
 Costa Rica,Total,country,2022-01-23,18.0
-Costa Rica,Total,country,2022-01-24,12.0
-Costa Rica,Total,country,2022-01-25,11.0
-Costa Rica,Total,country,2022-01-26,10.0
+Costa Rica,Total,country,2022-01-24,13.0
+Costa Rica,Total,country,2022-01-25,5.0
+Costa Rica,Total,country,2022-01-26,8.0
+Costa Rica,Total,country,2022-01-27,8.0
+Costa Rica,Total,country,2022-01-28,12.0
+Costa Rica,Total,country,2022-01-29,16.0
+Costa Rica,Total,country,2022-01-30,24.0
+Costa Rica,Total,country,2022-01-31,11.0
 Czechia,Brno,city,2020-03-01,0.0
 Czechia,Brno,city,2020-03-02,2.0
 Czechia,Brno,city,2020-03-03,4.0
@@ -31961,9 +32199,16 @@ Czechia,Brno,city,2022-01-20,33.0
 Czechia,Brno,city,2022-01-21,14.000000000000002
 Czechia,Brno,city,2022-01-22,8.0
 Czechia,Brno,city,2022-01-23,9.0
-Czechia,Brno,city,2022-01-24,12.0
-Czechia,Brno,city,2022-01-25,22.0
-Czechia,Brno,city,2022-01-26,26.0
+Czechia,Brno,city,2022-01-24,17.0
+Czechia,Brno,city,2022-01-25,19.0
+Czechia,Brno,city,2022-01-26,59.0
+Czechia,Brno,city,2022-01-27,28.000000000000004
+Czechia,Brno,city,2022-01-28,-15.0
+Czechia,Brno,city,2022-01-29,-81.0
+Czechia,Brno,city,2022-01-30,5.0
+Czechia,Brno,city,2022-01-31,15.0
+Czechia,Brno,city,2022-02-01,-89.0
+Czechia,Brno,city,2022-02-02,-94.0
 Czechia,Prague,city,2020-03-01,6.0
 Czechia,Prague,city,2020-03-02,1.0
 Czechia,Prague,city,2020-03-03,1.0
@@ -32657,9 +32902,14 @@ Czechia,Prague,city,2022-01-20,-2.0
 Czechia,Prague,city,2022-01-21,-2.0
 Czechia,Prague,city,2022-01-22,-3.0
 Czechia,Prague,city,2022-01-23,4.0
-Czechia,Prague,city,2022-01-24,2.0
-Czechia,Prague,city,2022-01-25,0.0
-Czechia,Prague,city,2022-01-26,-1.0
+Czechia,Prague,city,2022-01-24,-3.0
+Czechia,Prague,city,2022-01-25,-1.0
+Czechia,Prague,city,2022-01-26,-5.0
+Czechia,Prague,city,2022-01-27,-5.0
+Czechia,Prague,city,2022-01-28,-5.0
+Czechia,Prague,city,2022-01-29,-4.0
+Czechia,Prague,city,2022-01-30,7.000000000000001
+Czechia,Prague,city,2022-01-31,2.0
 Czechia,Total,country,2020-03-01,2.0
 Czechia,Total,country,2020-03-02,0.0
 Czechia,Total,country,2020-03-03,-1.0
@@ -33355,6 +33605,11 @@ Czechia,Total,country,2022-01-23,8.0
 Czechia,Total,country,2022-01-24,9.0
 Czechia,Total,country,2022-01-25,7.000000000000001
 Czechia,Total,country,2022-01-26,6.0
+Czechia,Total,country,2022-01-27,6.0
+Czechia,Total,country,2022-01-28,3.0
+Czechia,Total,country,2022-01-29,-7.000000000000001
+Czechia,Total,country,2022-01-30,6.0
+Czechia,Total,country,2022-01-31,10.0
 Ecuador,Quito,city,2020-03-01,2.0
 Ecuador,Quito,city,2020-03-02,30.0
 Ecuador,Quito,city,2020-03-03,19.0
@@ -34047,9 +34302,15 @@ Ecuador,Quito,city,2022-01-20,-11.0
 Ecuador,Quito,city,2022-01-21,-10.0
 Ecuador,Quito,city,2022-01-22,-5.0
 Ecuador,Quito,city,2022-01-23,16.0
-Ecuador,Quito,city,2022-01-24,48.0
-Ecuador,Quito,city,2022-01-25,10.0
-Ecuador,Quito,city,2022-01-26,-14.000000000000002
+Ecuador,Quito,city,2022-01-24,19.0
+Ecuador,Quito,city,2022-01-25,7.000000000000001
+Ecuador,Quito,city,2022-01-26,-2.0
+Ecuador,Quito,city,2022-01-27,-1.0
+Ecuador,Quito,city,2022-01-28,-5.0
+Ecuador,Quito,city,2022-01-29,14.000000000000002
+Ecuador,Quito,city,2022-01-30,31.0
+Ecuador,Quito,city,2022-01-31,42.0
+Ecuador,Quito,city,2022-02-01,-97.0
 Ecuador,Total,country,2020-03-01,-15.0
 Ecuador,Total,country,2020-03-02,-4.0
 Ecuador,Total,country,2020-03-03,-2.0
@@ -34742,9 +35003,15 @@ Ecuador,Total,country,2022-01-20,-12.0
 Ecuador,Total,country,2022-01-21,-8.0
 Ecuador,Total,country,2022-01-22,-12.0
 Ecuador,Total,country,2022-01-23,-2.0
-Ecuador,Total,country,2022-01-24,11.0
+Ecuador,Total,country,2022-01-24,14.000000000000002
 Ecuador,Total,country,2022-01-25,1.0
-Ecuador,Total,country,2022-01-26,4.0
+Ecuador,Total,country,2022-01-26,3.0
+Ecuador,Total,country,2022-01-27,7.000000000000001
+Ecuador,Total,country,2022-01-28,4.0
+Ecuador,Total,country,2022-01-29,-1.0
+Ecuador,Total,country,2022-01-30,15.0
+Ecuador,Total,country,2022-01-31,22.0
+Ecuador,Total,country,2022-02-01,-93.0
 Estonia,Total,country,2020-03-01,-7.000000000000001
 Estonia,Total,country,2020-03-02,-10.0
 Estonia,Total,country,2020-03-03,-5.0
@@ -35437,9 +35704,14 @@ Estonia,Total,country,2022-01-20,20.0
 Estonia,Total,country,2022-01-21,4.0
 Estonia,Total,country,2022-01-22,7.000000000000001
 Estonia,Total,country,2022-01-23,11.0
-Estonia,Total,country,2022-01-24,11.0
-Estonia,Total,country,2022-01-25,19.0
-Estonia,Total,country,2022-01-26,17.0
+Estonia,Total,country,2022-01-24,17.0
+Estonia,Total,country,2022-01-25,24.0
+Estonia,Total,country,2022-01-26,18.0
+Estonia,Total,country,2022-01-27,23.0
+Estonia,Total,country,2022-01-28,9.0
+Estonia,Total,country,2022-01-29,10.0
+Estonia,Total,country,2022-01-30,6.0
+Estonia,Total,country,2022-01-31,4.0
 France,Bordeaux,city,2020-03-01,-7.000000000000001
 France,Bordeaux,city,2020-03-02,-14.000000000000002
 France,Bordeaux,city,2020-03-03,-8.0
@@ -36132,9 +36404,14 @@ France,Bordeaux,city,2022-01-20,-7.000000000000001
 France,Bordeaux,city,2022-01-21,-5.0
 France,Bordeaux,city,2022-01-22,7.000000000000001
 France,Bordeaux,city,2022-01-23,16.0
-France,Bordeaux,city,2022-01-24,5.0
-France,Bordeaux,city,2022-01-25,3.0
-France,Bordeaux,city,2022-01-26,9.0
+France,Bordeaux,city,2022-01-24,13.0
+France,Bordeaux,city,2022-01-25,5.0
+France,Bordeaux,city,2022-01-26,12.0
+France,Bordeaux,city,2022-01-27,-3.0
+France,Bordeaux,city,2022-01-28,-9.0
+France,Bordeaux,city,2022-01-29,1.0
+France,Bordeaux,city,2022-01-30,20.0
+France,Bordeaux,city,2022-01-31,-16.0
 France,Lille,city,2020-03-01,21.0
 France,Lille,city,2020-03-02,7.000000000000001
 France,Lille,city,2020-03-03,4.0
@@ -36827,9 +37104,15 @@ France,Lille,city,2022-01-20,-7.000000000000001
 France,Lille,city,2022-01-21,7.000000000000001
 France,Lille,city,2022-01-22,20.0
 France,Lille,city,2022-01-23,9.0
-France,Lille,city,2022-01-24,9.0
-France,Lille,city,2022-01-25,3.0
-France,Lille,city,2022-01-26,5.0
+France,Lille,city,2022-01-24,21.0
+France,Lille,city,2022-01-25,-2.0
+France,Lille,city,2022-01-26,10.0
+France,Lille,city,2022-01-27,4.0
+France,Lille,city,2022-01-28,-16.0
+France,Lille,city,2022-01-29,28.999999999999996
+France,Lille,city,2022-01-30,4.0
+France,Lille,city,2022-01-31,21.0
+France,Lille,city,2022-02-02,-96.0
 France,Lyon,city,2020-03-01,-4.0
 France,Lyon,city,2020-03-02,-9.0
 France,Lyon,city,2020-03-03,-8.0
@@ -37522,9 +37805,14 @@ France,Lyon,city,2022-01-20,-2.0
 France,Lyon,city,2022-01-21,-15.0
 France,Lyon,city,2022-01-22,-9.0
 France,Lyon,city,2022-01-23,12.0
-France,Lyon,city,2022-01-24,1.0
-France,Lyon,city,2022-01-25,18.0
-France,Lyon,city,2022-01-26,-5.0
+France,Lyon,city,2022-01-24,2.0
+France,Lyon,city,2022-01-25,9.0
+France,Lyon,city,2022-01-26,-1.0
+France,Lyon,city,2022-01-27,4.0
+France,Lyon,city,2022-01-28,-15.0
+France,Lyon,city,2022-01-29,0.0
+France,Lyon,city,2022-01-30,25.0
+France,Lyon,city,2022-01-31,9.0
 France,Marseille,city,2020-03-01,1.0
 France,Marseille,city,2020-03-02,11.0
 France,Marseille,city,2020-03-03,9.0
@@ -38217,9 +38505,14 @@ France,Marseille,city,2022-01-20,21.0
 France,Marseille,city,2022-01-21,8.0
 France,Marseille,city,2022-01-22,13.0
 France,Marseille,city,2022-01-23,28.999999999999996
-France,Marseille,city,2022-01-24,34.0
-France,Marseille,city,2022-01-25,35.0
-France,Marseille,city,2022-01-26,22.0
+France,Marseille,city,2022-01-24,38.0
+France,Marseille,city,2022-01-25,34.0
+France,Marseille,city,2022-01-26,26.0
+France,Marseille,city,2022-01-27,27.0
+France,Marseille,city,2022-01-28,17.0
+France,Marseille,city,2022-01-29,13.0
+France,Marseille,city,2022-01-30,51.0
+France,Marseille,city,2022-01-31,40.0
 France,Paris,city,2020-03-01,-11.0
 France,Paris,city,2020-03-02,-3.0
 France,Paris,city,2020-03-03,0.0
@@ -38912,9 +39205,14 @@ France,Paris,city,2022-01-20,-9.0
 France,Paris,city,2022-01-21,-13.0
 France,Paris,city,2022-01-22,-15.0
 France,Paris,city,2022-01-23,-16.0
-France,Paris,city,2022-01-24,-10.0
-France,Paris,city,2022-01-25,-8.0
-France,Paris,city,2022-01-26,-5.0
+France,Paris,city,2022-01-24,-9.0
+France,Paris,city,2022-01-25,-7.000000000000001
+France,Paris,city,2022-01-26,-6.0
+France,Paris,city,2022-01-27,-6.0
+France,Paris,city,2022-01-28,-9.0
+France,Paris,city,2022-01-29,-15.0
+France,Paris,city,2022-01-30,-11.0
+France,Paris,city,2022-01-31,-7.000000000000001
 France,Total,country,2020-03-01,-8.0
 France,Total,country,2020-03-02,-4.0
 France,Total,country,2020-03-03,-2.0
@@ -39609,7 +39907,12 @@ France,Total,country,2022-01-22,-15.0
 France,Total,country,2022-01-23,-1.0
 France,Total,country,2022-01-24,10.0
 France,Total,country,2022-01-25,12.0
-France,Total,country,2022-01-26,12.0
+France,Total,country,2022-01-26,11.0
+France,Total,country,2022-01-27,11.0
+France,Total,country,2022-01-28,4.0
+France,Total,country,2022-01-29,-9.0
+France,Total,country,2022-01-30,5.0
+France,Total,country,2022-01-31,11.0
 France,Toulouse,city,2020-03-01,-16.0
 France,Toulouse,city,2020-03-02,6.0
 France,Toulouse,city,2020-03-03,9.0
@@ -40302,9 +40605,14 @@ France,Toulouse,city,2022-01-20,4.0
 France,Toulouse,city,2022-01-21,2.0
 France,Toulouse,city,2022-01-22,-6.0
 France,Toulouse,city,2022-01-23,4.0
-France,Toulouse,city,2022-01-24,6.0
-France,Toulouse,city,2022-01-25,-2.0
-France,Toulouse,city,2022-01-26,-5.0
+France,Toulouse,city,2022-01-24,7.000000000000001
+France,Toulouse,city,2022-01-25,1.0
+France,Toulouse,city,2022-01-26,0.0
+France,Toulouse,city,2022-01-27,6.0
+France,Toulouse,city,2022-01-28,3.0
+France,Toulouse,city,2022-01-29,14.000000000000002
+France,Toulouse,city,2022-01-30,6.0
+France,Toulouse,city,2022-01-31,4.0
 Germany,Berlin,city,2020-03-01,-6.0
 Germany,Berlin,city,2020-03-02,-38.0
 Germany,Berlin,city,2020-03-03,-13.0
@@ -40995,9 +41303,14 @@ Germany,Berlin,city,2022-01-20,19.0
 Germany,Berlin,city,2022-01-21,12.0
 Germany,Berlin,city,2022-01-22,86.0
 Germany,Berlin,city,2022-01-23,9.0
-Germany,Berlin,city,2022-01-24,17.0
-Germany,Berlin,city,2022-01-25,-19.0
-Germany,Berlin,city,2022-01-26,6.0
+Germany,Berlin,city,2022-01-24,74.0
+Germany,Berlin,city,2022-01-25,-4.0
+Germany,Berlin,city,2022-01-26,18.0
+Germany,Berlin,city,2022-01-27,2.0
+Germany,Berlin,city,2022-01-28,-39.0
+Germany,Berlin,city,2022-01-29,7.000000000000001
+Germany,Berlin,city,2022-01-30,23.0
+Germany,Berlin,city,2022-01-31,22.0
 Germany,Total,country,2020-03-01,1.0
 Germany,Total,country,2020-03-02,-11.0
 Germany,Total,country,2020-03-03,-11.0
@@ -41693,6 +42006,11 @@ Germany,Total,country,2022-01-23,0.0
 Germany,Total,country,2022-01-24,-1.0
 Germany,Total,country,2022-01-25,0.0
 Germany,Total,country,2022-01-26,3.0
+Germany,Total,country,2022-01-27,2.0
+Germany,Total,country,2022-01-28,-13.0
+Germany,Total,country,2022-01-29,-17.0
+Germany,Total,country,2022-01-30,6.0
+Germany,Total,country,2022-01-31,4.0
 Guatemala,Total,country,2020-03-01,9.0
 Guatemala,Total,country,2020-03-02,5.0
 Guatemala,Total,country,2020-03-03,1.0
@@ -42386,9 +42704,14 @@ Guatemala,Total,country,2022-01-20,6.0
 Guatemala,Total,country,2022-01-21,6.0
 Guatemala,Total,country,2022-01-22,0.0
 Guatemala,Total,country,2022-01-23,14.000000000000002
-Guatemala,Total,country,2022-01-24,2.0
+Guatemala,Total,country,2022-01-24,7.000000000000001
 Guatemala,Total,country,2022-01-25,-1.0
-Guatemala,Total,country,2022-01-26,1.0
+Guatemala,Total,country,2022-01-26,-4.0
+Guatemala,Total,country,2022-01-27,1.0
+Guatemala,Total,country,2022-01-28,4.0
+Guatemala,Total,country,2022-01-29,6.0
+Guatemala,Total,country,2022-01-30,11.0
+Guatemala,Total,country,2022-01-31,10.0
 Hungary,Budapest,city,2020-03-01,-3.0
 Hungary,Budapest,city,2020-03-02,1.0
 Hungary,Budapest,city,2020-03-03,1.0
@@ -43082,8 +43405,13 @@ Hungary,Budapest,city,2022-01-21,-7.000000000000001
 Hungary,Budapest,city,2022-01-22,-4.0
 Hungary,Budapest,city,2022-01-23,-9.0
 Hungary,Budapest,city,2022-01-24,-6.0
-Hungary,Budapest,city,2022-01-25,-13.0
-Hungary,Budapest,city,2022-01-26,-5.0
+Hungary,Budapest,city,2022-01-25,-8.0
+Hungary,Budapest,city,2022-01-26,-2.0
+Hungary,Budapest,city,2022-01-27,-7.000000000000001
+Hungary,Budapest,city,2022-01-28,-6.0
+Hungary,Budapest,city,2022-01-29,-3.0
+Hungary,Budapest,city,2022-01-30,-9.0
+Hungary,Budapest,city,2022-01-31,-3.0
 Hungary,Total,country,2020-03-01,-7.000000000000001
 Hungary,Total,country,2020-03-02,-2.0
 Hungary,Total,country,2020-03-03,-1.0
@@ -43776,9 +44104,14 @@ Hungary,Total,country,2022-01-20,-2.0
 Hungary,Total,country,2022-01-21,-4.0
 Hungary,Total,country,2022-01-22,-7.000000000000001
 Hungary,Total,country,2022-01-23,-12.0
-Hungary,Total,country,2022-01-24,-1.0
-Hungary,Total,country,2022-01-25,-2.0
+Hungary,Total,country,2022-01-24,0.0
+Hungary,Total,country,2022-01-25,-3.0
 Hungary,Total,country,2022-01-26,2.0
+Hungary,Total,country,2022-01-27,-1.0
+Hungary,Total,country,2022-01-28,-2.0
+Hungary,Total,country,2022-01-29,-1.0
+Hungary,Total,country,2022-01-30,-9.0
+Hungary,Total,country,2022-01-31,0.0
 Indonesia,Bekasi,city,2020-03-01,0.0
 Indonesia,Bekasi,city,2020-03-02,-5.0
 Indonesia,Bekasi,city,2020-03-03,8.0
@@ -44467,9 +44800,14 @@ Indonesia,Bekasi,city,2022-01-20,-65.0
 Indonesia,Bekasi,city,2022-01-21,-18.0
 Indonesia,Bekasi,city,2022-01-22,-41.0
 Indonesia,Bekasi,city,2022-01-23,-32.0
-Indonesia,Bekasi,city,2022-01-24,-11.0
-Indonesia,Bekasi,city,2022-01-25,4.0
-Indonesia,Bekasi,city,2022-01-26,-26.0
+Indonesia,Bekasi,city,2022-01-24,-84.0
+Indonesia,Bekasi,city,2022-01-25,-19.0
+Indonesia,Bekasi,city,2022-01-26,-10.0
+Indonesia,Bekasi,city,2022-01-27,-16.0
+Indonesia,Bekasi,city,2022-01-28,-15.0
+Indonesia,Bekasi,city,2022-01-29,-44.0
+Indonesia,Bekasi,city,2022-01-30,-9.0
+Indonesia,Bekasi,city,2022-01-31,-10.0
 Indonesia,Jakarta,city,2020-03-01,9.0
 Indonesia,Jakarta,city,2020-03-02,-1.0
 Indonesia,Jakarta,city,2020-03-03,10.0
@@ -45162,9 +45500,14 @@ Indonesia,Jakarta,city,2022-01-20,-25.0
 Indonesia,Jakarta,city,2022-01-21,-30.0
 Indonesia,Jakarta,city,2022-01-22,-30.0
 Indonesia,Jakarta,city,2022-01-23,-32.0
-Indonesia,Jakarta,city,2022-01-24,-35.0
-Indonesia,Jakarta,city,2022-01-25,-22.0
-Indonesia,Jakarta,city,2022-01-26,-35.0
+Indonesia,Jakarta,city,2022-01-24,-32.0
+Indonesia,Jakarta,city,2022-01-25,-24.0
+Indonesia,Jakarta,city,2022-01-26,-33.0
+Indonesia,Jakarta,city,2022-01-27,-35.0
+Indonesia,Jakarta,city,2022-01-28,-39.0
+Indonesia,Jakarta,city,2022-01-29,-36.0
+Indonesia,Jakarta,city,2022-01-30,-37.0
+Indonesia,Jakarta,city,2022-01-31,-36.0
 Indonesia,South Tangerang,city,2020-03-01,0.0
 Indonesia,South Tangerang,city,2020-03-02,7.000000000000001
 Indonesia,South Tangerang,city,2020-03-03,-28.000000000000004
@@ -45845,9 +46188,14 @@ Indonesia,South Tangerang,city,2022-01-20,13.0
 Indonesia,South Tangerang,city,2022-01-21,-5.0
 Indonesia,South Tangerang,city,2022-01-22,-49.0
 Indonesia,South Tangerang,city,2022-01-23,45.0
-Indonesia,South Tangerang,city,2022-01-24,28.999999999999996
-Indonesia,South Tangerang,city,2022-01-25,-18.0
-Indonesia,South Tangerang,city,2022-01-26,22.0
+Indonesia,South Tangerang,city,2022-01-24,-7.000000000000001
+Indonesia,South Tangerang,city,2022-01-25,-69.0
+Indonesia,South Tangerang,city,2022-01-26,56.99999999999999
+Indonesia,South Tangerang,city,2022-01-27,-28.999999999999996
+Indonesia,South Tangerang,city,2022-01-28,-13.0
+Indonesia,South Tangerang,city,2022-01-29,-18.0
+Indonesia,South Tangerang,city,2022-01-30,-4.0
+Indonesia,South Tangerang,city,2022-01-31,-34.0
 Indonesia,Tangerang,city,2020-03-01,0.0
 Indonesia,Tangerang,city,2020-03-02,5.0
 Indonesia,Tangerang,city,2020-03-03,-14.000000000000002
@@ -46527,9 +46875,14 @@ Indonesia,Tangerang,city,2022-01-20,-33.0
 Indonesia,Tangerang,city,2022-01-21,-35.0
 Indonesia,Tangerang,city,2022-01-22,-44.0
 Indonesia,Tangerang,city,2022-01-23,-9.0
-Indonesia,Tangerang,city,2022-01-24,-7.000000000000001
-Indonesia,Tangerang,city,2022-01-25,-13.0
-Indonesia,Tangerang,city,2022-01-26,14.000000000000002
+Indonesia,Tangerang,city,2022-01-24,-26.0
+Indonesia,Tangerang,city,2022-01-25,-45.0
+Indonesia,Tangerang,city,2022-01-26,-13.0
+Indonesia,Tangerang,city,2022-01-27,-35.0
+Indonesia,Tangerang,city,2022-01-28,-25.0
+Indonesia,Tangerang,city,2022-01-29,-16.0
+Indonesia,Tangerang,city,2022-01-30,-22.0
+Indonesia,Tangerang,city,2022-01-31,-28.000000000000004
 Indonesia,Total,country,2020-03-01,5.0
 Indonesia,Total,country,2020-03-02,-1.0
 Indonesia,Total,country,2020-03-03,3.0
@@ -47222,9 +47575,14 @@ Indonesia,Total,country,2022-01-20,-22.0
 Indonesia,Total,country,2022-01-21,-23.0
 Indonesia,Total,country,2022-01-22,-23.0
 Indonesia,Total,country,2022-01-23,-19.0
-Indonesia,Total,country,2022-01-24,-25.0
+Indonesia,Total,country,2022-01-24,-24.0
 Indonesia,Total,country,2022-01-25,-18.0
-Indonesia,Total,country,2022-01-26,-21.0
+Indonesia,Total,country,2022-01-26,-20.0
+Indonesia,Total,country,2022-01-27,-23.0
+Indonesia,Total,country,2022-01-28,-23.0
+Indonesia,Total,country,2022-01-29,-19.0
+Indonesia,Total,country,2022-01-30,-18.0
+Indonesia,Total,country,2022-01-31,-15.0
 Israel,Be'er Sheva,city,2020-03-01,16.0
 Israel,Be'er Sheva,city,2020-03-02,-14.000000000000002
 Israel,Be'er Sheva,city,2020-03-03,6.0
@@ -47916,9 +48274,15 @@ Israel,Be'er Sheva,city,2022-01-20,-5.0
 Israel,Be'er Sheva,city,2022-01-21,-1.0
 Israel,Be'er Sheva,city,2022-01-22,10.0
 Israel,Be'er Sheva,city,2022-01-23,7.000000000000001
-Israel,Be'er Sheva,city,2022-01-24,1.0
-Israel,Be'er Sheva,city,2022-01-25,1.0
-Israel,Be'er Sheva,city,2022-01-26,-11.0
+Israel,Be'er Sheva,city,2022-01-24,-1.0
+Israel,Be'er Sheva,city,2022-01-25,11.0
+Israel,Be'er Sheva,city,2022-01-26,0.0
+Israel,Be'er Sheva,city,2022-01-27,-4.0
+Israel,Be'er Sheva,city,2022-01-28,6.0
+Israel,Be'er Sheva,city,2022-01-29,0.0
+Israel,Be'er Sheva,city,2022-01-30,12.0
+Israel,Be'er Sheva,city,2022-01-31,11.0
+Israel,Be'er Sheva,city,2022-02-01,-98.0
 Israel,Haifa,city,2020-03-01,6.0
 Israel,Haifa,city,2020-03-02,-25.0
 Israel,Haifa,city,2020-03-03,1.0
@@ -48611,9 +48975,15 @@ Israel,Haifa,city,2022-01-20,-8.0
 Israel,Haifa,city,2022-01-21,-3.0
 Israel,Haifa,city,2022-01-22,15.0
 Israel,Haifa,city,2022-01-23,-1.0
-Israel,Haifa,city,2022-01-24,-11.0
-Israel,Haifa,city,2022-01-25,-9.0
-Israel,Haifa,city,2022-01-26,-16.0
+Israel,Haifa,city,2022-01-24,-20.0
+Israel,Haifa,city,2022-01-25,-6.0
+Israel,Haifa,city,2022-01-26,-21.0
+Israel,Haifa,city,2022-01-27,-11.0
+Israel,Haifa,city,2022-01-28,-11.0
+Israel,Haifa,city,2022-01-29,-2.0
+Israel,Haifa,city,2022-01-30,4.0
+Israel,Haifa,city,2022-01-31,-3.0
+Israel,Haifa,city,2022-02-02,-97.0
 Israel,Jerusalem,city,2020-03-01,4.0
 Israel,Jerusalem,city,2020-03-02,-18.0
 Israel,Jerusalem,city,2020-03-03,4.0
@@ -49306,9 +49676,14 @@ Israel,Jerusalem,city,2022-01-20,-18.0
 Israel,Jerusalem,city,2022-01-21,-1.0
 Israel,Jerusalem,city,2022-01-22,2.0
 Israel,Jerusalem,city,2022-01-23,-10.0
-Israel,Jerusalem,city,2022-01-24,-13.0
-Israel,Jerusalem,city,2022-01-25,2.0
-Israel,Jerusalem,city,2022-01-26,-20.0
+Israel,Jerusalem,city,2022-01-24,-11.0
+Israel,Jerusalem,city,2022-01-25,1.0
+Israel,Jerusalem,city,2022-01-26,-17.0
+Israel,Jerusalem,city,2022-01-27,-47.0
+Israel,Jerusalem,city,2022-01-28,-4.0
+Israel,Jerusalem,city,2022-01-29,2.0
+Israel,Jerusalem,city,2022-01-30,6.0
+Israel,Jerusalem,city,2022-01-31,0.0
 Israel,Petah Tikva,city,2020-03-01,6.0
 Israel,Petah Tikva,city,2020-03-02,-32.0
 Israel,Petah Tikva,city,2020-03-03,-1.0
@@ -50002,9 +50377,14 @@ Israel,Petah Tikva,city,2022-01-20,-17.0
 Israel,Petah Tikva,city,2022-01-21,-14.000000000000002
 Israel,Petah Tikva,city,2022-01-22,1.0
 Israel,Petah Tikva,city,2022-01-23,-15.0
-Israel,Petah Tikva,city,2022-01-24,-13.0
-Israel,Petah Tikva,city,2022-01-25,0.0
-Israel,Petah Tikva,city,2022-01-26,-20.0
+Israel,Petah Tikva,city,2022-01-24,-8.0
+Israel,Petah Tikva,city,2022-01-25,-2.0
+Israel,Petah Tikva,city,2022-01-26,-15.0
+Israel,Petah Tikva,city,2022-01-27,-18.0
+Israel,Petah Tikva,city,2022-01-28,-8.0
+Israel,Petah Tikva,city,2022-01-29,-5.0
+Israel,Petah Tikva,city,2022-01-30,-8.0
+Israel,Petah Tikva,city,2022-01-31,-6.0
 Israel,Ramat Gan,city,2020-03-01,7.000000000000001
 Israel,Ramat Gan,city,2020-03-02,-14.000000000000002
 Israel,Ramat Gan,city,2020-03-03,4.0
@@ -50697,9 +51077,14 @@ Israel,Ramat Gan,city,2022-01-20,-7.000000000000001
 Israel,Ramat Gan,city,2022-01-21,10.0
 Israel,Ramat Gan,city,2022-01-22,10.0
 Israel,Ramat Gan,city,2022-01-23,-6.0
-Israel,Ramat Gan,city,2022-01-24,-2.0
-Israel,Ramat Gan,city,2022-01-25,-17.0
-Israel,Ramat Gan,city,2022-01-26,-23.0
+Israel,Ramat Gan,city,2022-01-24,-9.0
+Israel,Ramat Gan,city,2022-01-25,0.0
+Israel,Ramat Gan,city,2022-01-26,-28.000000000000004
+Israel,Ramat Gan,city,2022-01-27,-15.0
+Israel,Ramat Gan,city,2022-01-28,-11.0
+Israel,Ramat Gan,city,2022-01-29,-10.0
+Israel,Ramat Gan,city,2022-01-30,0.0
+Israel,Ramat Gan,city,2022-01-31,-8.0
 Israel,Rishon Letsiyon,city,2020-03-01,9.0
 Israel,Rishon Letsiyon,city,2020-03-02,-4.0
 Israel,Rishon Letsiyon,city,2020-03-03,0.0
@@ -51393,9 +51778,14 @@ Israel,Rishon Letsiyon,city,2022-01-20,-8.0
 Israel,Rishon Letsiyon,city,2022-01-21,7.000000000000001
 Israel,Rishon Letsiyon,city,2022-01-22,-6.0
 Israel,Rishon Letsiyon,city,2022-01-23,1.0
-Israel,Rishon Letsiyon,city,2022-01-24,-7.000000000000001
-Israel,Rishon Letsiyon,city,2022-01-25,8.0
-Israel,Rishon Letsiyon,city,2022-01-26,-18.0
+Israel,Rishon Letsiyon,city,2022-01-24,-6.0
+Israel,Rishon Letsiyon,city,2022-01-25,1.0
+Israel,Rishon Letsiyon,city,2022-01-26,-14.000000000000002
+Israel,Rishon Letsiyon,city,2022-01-27,-13.0
+Israel,Rishon Letsiyon,city,2022-01-28,-8.0
+Israel,Rishon Letsiyon,city,2022-01-29,-11.0
+Israel,Rishon Letsiyon,city,2022-01-30,7.000000000000001
+Israel,Rishon Letsiyon,city,2022-01-31,3.0
 Israel,Tel Aviv-Yafo,city,2020-03-01,7.000000000000001
 Israel,Tel Aviv-Yafo,city,2020-03-02,-18.0
 Israel,Tel Aviv-Yafo,city,2020-03-03,0.0
@@ -52089,8 +52479,13 @@ Israel,Tel Aviv-Yafo,city,2022-01-21,-17.0
 Israel,Tel Aviv-Yafo,city,2022-01-22,1.0
 Israel,Tel Aviv-Yafo,city,2022-01-23,-10.0
 Israel,Tel Aviv-Yafo,city,2022-01-24,-16.0
-Israel,Tel Aviv-Yafo,city,2022-01-25,-13.0
-Israel,Tel Aviv-Yafo,city,2022-01-26,-21.0
+Israel,Tel Aviv-Yafo,city,2022-01-25,-14.000000000000002
+Israel,Tel Aviv-Yafo,city,2022-01-26,-22.0
+Israel,Tel Aviv-Yafo,city,2022-01-27,-22.0
+Israel,Tel Aviv-Yafo,city,2022-01-28,-21.0
+Israel,Tel Aviv-Yafo,city,2022-01-29,-8.0
+Israel,Tel Aviv-Yafo,city,2022-01-30,-4.0
+Israel,Tel Aviv-Yafo,city,2022-01-31,-9.0
 Israel,Total,country,2020-03-01,8.0
 Israel,Total,country,2020-03-02,-4.0
 Israel,Total,country,2020-03-03,2.0
@@ -52786,6 +53181,11 @@ Israel,Total,country,2022-01-23,0.0
 Israel,Total,country,2022-01-24,-8.0
 Israel,Total,country,2022-01-25,2.0
 Israel,Total,country,2022-01-26,-13.0
+Israel,Total,country,2022-01-27,-14.000000000000002
+Israel,Total,country,2022-01-28,-5.0
+Israel,Total,country,2022-01-29,-1.0
+Israel,Total,country,2022-01-30,11.0
+Israel,Total,country,2022-01-31,2.0
 Italy,Milan,city,2020-03-01,-14.000000000000002
 Italy,Milan,city,2020-03-02,-22.0
 Italy,Milan,city,2020-03-03,-28.000000000000004
@@ -53477,9 +53877,14 @@ Italy,Milan,city,2022-01-20,-12.0
 Italy,Milan,city,2022-01-21,-16.0
 Italy,Milan,city,2022-01-22,7.000000000000001
 Italy,Milan,city,2022-01-23,12.0
-Italy,Milan,city,2022-01-24,5.0
-Italy,Milan,city,2022-01-25,11.0
-Italy,Milan,city,2022-01-26,-16.0
+Italy,Milan,city,2022-01-24,-2.0
+Italy,Milan,city,2022-01-25,7.000000000000001
+Italy,Milan,city,2022-01-26,-6.0
+Italy,Milan,city,2022-01-27,-10.0
+Italy,Milan,city,2022-01-28,-9.0
+Italy,Milan,city,2022-01-29,6.0
+Italy,Milan,city,2022-01-30,37.0
+Italy,Milan,city,2022-01-31,8.0
 Italy,Rome,city,2020-03-01,-21.0
 Italy,Rome,city,2020-03-02,-6.0
 Italy,Rome,city,2020-03-03,-2.0
@@ -54172,9 +54577,15 @@ Italy,Rome,city,2022-01-20,-7.000000000000001
 Italy,Rome,city,2022-01-21,-8.0
 Italy,Rome,city,2022-01-22,-7.000000000000001
 Italy,Rome,city,2022-01-23,-8.0
-Italy,Rome,city,2022-01-24,-14.000000000000002
-Italy,Rome,city,2022-01-25,-6.0
-Italy,Rome,city,2022-01-26,-7.000000000000001
+Italy,Rome,city,2022-01-24,-11.0
+Italy,Rome,city,2022-01-25,-5.0
+Italy,Rome,city,2022-01-26,-3.0
+Italy,Rome,city,2022-01-27,-8.0
+Italy,Rome,city,2022-01-28,-9.0
+Italy,Rome,city,2022-01-29,4.0
+Italy,Rome,city,2022-01-30,-5.0
+Italy,Rome,city,2022-01-31,-11.0
+Italy,Rome,city,2022-02-01,-88.0
 Italy,Total,country,2020-03-01,-28.000000000000004
 Italy,Total,country,2020-03-02,-17.0
 Italy,Total,country,2020-03-03,-15.0
@@ -54869,7 +55280,12 @@ Italy,Total,country,2022-01-22,-11.0
 Italy,Total,country,2022-01-23,-8.0
 Italy,Total,country,2022-01-24,-5.0
 Italy,Total,country,2022-01-25,-1.0
-Italy,Total,country,2022-01-26,-5.0
+Italy,Total,country,2022-01-26,-6.0
+Italy,Total,country,2022-01-27,-8.0
+Italy,Total,country,2022-01-28,-9.0
+Italy,Total,country,2022-01-29,-6.0
+Italy,Total,country,2022-01-30,1.0
+Italy,Total,country,2022-01-31,-4.0
 Latvia,Riga,city,2020-03-01,-4.0
 Latvia,Riga,city,2020-03-02,-3.0
 Latvia,Riga,city,2020-03-03,-1.0
@@ -55563,8 +55979,13 @@ Latvia,Riga,city,2022-01-21,-11.0
 Latvia,Riga,city,2022-01-22,-11.0
 Latvia,Riga,city,2022-01-23,2.0
 Latvia,Riga,city,2022-01-24,2.0
-Latvia,Riga,city,2022-01-25,-3.0
-Latvia,Riga,city,2022-01-26,-10.0
+Latvia,Riga,city,2022-01-25,-12.0
+Latvia,Riga,city,2022-01-26,-1.0
+Latvia,Riga,city,2022-01-27,-8.0
+Latvia,Riga,city,2022-01-28,-12.0
+Latvia,Riga,city,2022-01-29,-10.0
+Latvia,Riga,city,2022-01-30,-11.0
+Latvia,Riga,city,2022-01-31,-5.0
 Latvia,Total,country,2020-03-01,0.0
 Latvia,Total,country,2020-03-02,-2.0
 Latvia,Total,country,2020-03-03,0.0
@@ -56257,9 +56678,15 @@ Latvia,Total,country,2022-01-20,2.0
 Latvia,Total,country,2022-01-21,-13.0
 Latvia,Total,country,2022-01-22,-6.0
 Latvia,Total,country,2022-01-23,1.0
-Latvia,Total,country,2022-01-24,-4.0
-Latvia,Total,country,2022-01-25,4.0
-Latvia,Total,country,2022-01-26,0.0
+Latvia,Total,country,2022-01-24,3.0
+Latvia,Total,country,2022-01-25,5.0
+Latvia,Total,country,2022-01-26,1.0
+Latvia,Total,country,2022-01-27,0.0
+Latvia,Total,country,2022-01-28,-6.0
+Latvia,Total,country,2022-01-29,-8.0
+Latvia,Total,country,2022-01-30,-4.0
+Latvia,Total,country,2022-01-31,-2.0
+Latvia,Total,country,2022-02-02,-98.0
 Lithuania,Kaunas,city,2020-03-01,-14.000000000000002
 Lithuania,Kaunas,city,2020-03-02,0.0
 Lithuania,Kaunas,city,2020-03-03,-2.0
@@ -56950,9 +57377,14 @@ Lithuania,Kaunas,city,2022-01-20,108.0
 Lithuania,Kaunas,city,2022-01-21,59.0
 Lithuania,Kaunas,city,2022-01-22,105.0
 Lithuania,Kaunas,city,2022-01-23,79.0
-Lithuania,Kaunas,city,2022-01-24,75.0
-Lithuania,Kaunas,city,2022-01-25,115.99999999999999
-Lithuania,Kaunas,city,2022-01-26,89.0
+Lithuania,Kaunas,city,2022-01-24,104.0
+Lithuania,Kaunas,city,2022-01-25,90.0
+Lithuania,Kaunas,city,2022-01-26,100.0
+Lithuania,Kaunas,city,2022-01-27,72.0
+Lithuania,Kaunas,city,2022-01-28,86.0
+Lithuania,Kaunas,city,2022-01-29,60.0
+Lithuania,Kaunas,city,2022-01-30,73.0
+Lithuania,Kaunas,city,2022-01-31,93.0
 Lithuania,Total,country,2020-03-01,-9.0
 Lithuania,Total,country,2020-03-02,-3.0
 Lithuania,Total,country,2020-03-03,4.0
@@ -57640,9 +58072,14 @@ Lithuania,Total,country,2022-01-20,82.0
 Lithuania,Total,country,2022-01-21,59.0
 Lithuania,Total,country,2022-01-22,68.0
 Lithuania,Total,country,2022-01-23,61.0
-Lithuania,Total,country,2022-01-24,84.0
-Lithuania,Total,country,2022-01-25,95.0
-Lithuania,Total,country,2022-01-26,87.0
+Lithuania,Total,country,2022-01-24,76.0
+Lithuania,Total,country,2022-01-25,94.0
+Lithuania,Total,country,2022-01-26,88.0
+Lithuania,Total,country,2022-01-27,83.0
+Lithuania,Total,country,2022-01-28,78.0
+Lithuania,Total,country,2022-01-29,69.0
+Lithuania,Total,country,2022-01-30,56.99999999999999
+Lithuania,Total,country,2022-01-31,76.0
 Lithuania,Vilnius,city,2020-03-01,-7.000000000000001
 Lithuania,Vilnius,city,2020-03-02,-2.0
 Lithuania,Vilnius,city,2020-03-03,-4.0
@@ -58336,9 +58773,14 @@ Lithuania,Vilnius,city,2022-01-20,64.0
 Lithuania,Vilnius,city,2022-01-21,62.0
 Lithuania,Vilnius,city,2022-01-22,62.0
 Lithuania,Vilnius,city,2022-01-23,68.0
-Lithuania,Vilnius,city,2022-01-24,70.0
-Lithuania,Vilnius,city,2022-01-25,77.0
-Lithuania,Vilnius,city,2022-01-26,75.0
+Lithuania,Vilnius,city,2022-01-24,71.0
+Lithuania,Vilnius,city,2022-01-25,61.0
+Lithuania,Vilnius,city,2022-01-26,65.0
+Lithuania,Vilnius,city,2022-01-27,73.0
+Lithuania,Vilnius,city,2022-01-28,64.0
+Lithuania,Vilnius,city,2022-01-29,66.0
+Lithuania,Vilnius,city,2022-01-30,68.0
+Lithuania,Vilnius,city,2022-01-31,60.0
 Luxembourg,Total,country,2020-03-01,4.0
 Luxembourg,Total,country,2020-03-02,-2.0
 Luxembourg,Total,country,2020-03-03,8.0
@@ -59031,9 +59473,15 @@ Luxembourg,Total,country,2022-01-20,-2.0
 Luxembourg,Total,country,2022-01-21,-7.000000000000001
 Luxembourg,Total,country,2022-01-22,-2.0
 Luxembourg,Total,country,2022-01-23,-1.0
-Luxembourg,Total,country,2022-01-24,9.0
-Luxembourg,Total,country,2022-01-25,-3.0
-Luxembourg,Total,country,2022-01-26,1.0
+Luxembourg,Total,country,2022-01-24,7.000000000000001
+Luxembourg,Total,country,2022-01-25,-6.0
+Luxembourg,Total,country,2022-01-26,0.0
+Luxembourg,Total,country,2022-01-27,-2.0
+Luxembourg,Total,country,2022-01-28,0.0
+Luxembourg,Total,country,2022-01-29,11.0
+Luxembourg,Total,country,2022-01-30,24.0
+Luxembourg,Total,country,2022-01-31,1.0
+Luxembourg,Total,country,2022-02-01,-95.0
 Malaysia,Ipoh,city,2020-03-01,24.0
 Malaysia,Ipoh,city,2020-03-02,10.0
 Malaysia,Ipoh,city,2020-03-03,-2.0
@@ -59725,9 +60173,15 @@ Malaysia,Ipoh,city,2022-01-20,15.0
 Malaysia,Ipoh,city,2022-01-21,34.0
 Malaysia,Ipoh,city,2022-01-22,16.0
 Malaysia,Ipoh,city,2022-01-23,36.0
-Malaysia,Ipoh,city,2022-01-24,37.0
-Malaysia,Ipoh,city,2022-01-25,9.0
-Malaysia,Ipoh,city,2022-01-26,28.999999999999996
+Malaysia,Ipoh,city,2022-01-24,1.0
+Malaysia,Ipoh,city,2022-01-25,36.0
+Malaysia,Ipoh,city,2022-01-26,55.00000000000001
+Malaysia,Ipoh,city,2022-01-27,92.0
+Malaysia,Ipoh,city,2022-01-28,74.0
+Malaysia,Ipoh,city,2022-01-29,66.0
+Malaysia,Ipoh,city,2022-01-30,161.0
+Malaysia,Ipoh,city,2022-01-31,160.0
+Malaysia,Ipoh,city,2022-02-02,-95.0
 Malaysia,Johor Bahru,city,2020-03-01,11.0
 Malaysia,Johor Bahru,city,2020-03-02,6.0
 Malaysia,Johor Bahru,city,2020-03-03,5.0
@@ -60420,9 +60874,14 @@ Malaysia,Johor Bahru,city,2022-01-20,7.000000000000001
 Malaysia,Johor Bahru,city,2022-01-21,4.0
 Malaysia,Johor Bahru,city,2022-01-22,4.0
 Malaysia,Johor Bahru,city,2022-01-23,-1.0
-Malaysia,Johor Bahru,city,2022-01-24,8.0
-Malaysia,Johor Bahru,city,2022-01-25,9.0
-Malaysia,Johor Bahru,city,2022-01-26,4.0
+Malaysia,Johor Bahru,city,2022-01-24,1.0
+Malaysia,Johor Bahru,city,2022-01-25,11.0
+Malaysia,Johor Bahru,city,2022-01-26,16.0
+Malaysia,Johor Bahru,city,2022-01-27,13.0
+Malaysia,Johor Bahru,city,2022-01-28,-4.0
+Malaysia,Johor Bahru,city,2022-01-29,3.0
+Malaysia,Johor Bahru,city,2022-01-30,3.0
+Malaysia,Johor Bahru,city,2022-01-31,-6.0
 Malaysia,Kuala Lumpur,city,2020-03-01,7.000000000000001
 Malaysia,Kuala Lumpur,city,2020-03-02,2.0
 Malaysia,Kuala Lumpur,city,2020-03-03,0.0
@@ -61115,9 +61574,14 @@ Malaysia,Kuala Lumpur,city,2022-01-20,3.0
 Malaysia,Kuala Lumpur,city,2022-01-21,3.0
 Malaysia,Kuala Lumpur,city,2022-01-22,8.0
 Malaysia,Kuala Lumpur,city,2022-01-23,8.0
-Malaysia,Kuala Lumpur,city,2022-01-24,8.0
-Malaysia,Kuala Lumpur,city,2022-01-25,12.0
+Malaysia,Kuala Lumpur,city,2022-01-24,9.0
+Malaysia,Kuala Lumpur,city,2022-01-25,13.0
 Malaysia,Kuala Lumpur,city,2022-01-26,10.0
+Malaysia,Kuala Lumpur,city,2022-01-27,8.0
+Malaysia,Kuala Lumpur,city,2022-01-28,1.0
+Malaysia,Kuala Lumpur,city,2022-01-29,-5.0
+Malaysia,Kuala Lumpur,city,2022-01-30,-12.0
+Malaysia,Kuala Lumpur,city,2022-01-31,-19.0
 Malaysia,Petaling Jaya,city,2020-03-01,4.0
 Malaysia,Petaling Jaya,city,2020-03-02,1.0
 Malaysia,Petaling Jaya,city,2020-03-03,-1.0
@@ -61810,9 +62274,14 @@ Malaysia,Petaling Jaya,city,2022-01-20,11.0
 Malaysia,Petaling Jaya,city,2022-01-21,6.0
 Malaysia,Petaling Jaya,city,2022-01-22,12.0
 Malaysia,Petaling Jaya,city,2022-01-23,7.000000000000001
-Malaysia,Petaling Jaya,city,2022-01-24,11.0
-Malaysia,Petaling Jaya,city,2022-01-25,12.0
-Malaysia,Petaling Jaya,city,2022-01-26,13.0
+Malaysia,Petaling Jaya,city,2022-01-24,12.0
+Malaysia,Petaling Jaya,city,2022-01-25,14.000000000000002
+Malaysia,Petaling Jaya,city,2022-01-26,16.0
+Malaysia,Petaling Jaya,city,2022-01-27,13.0
+Malaysia,Petaling Jaya,city,2022-01-28,6.0
+Malaysia,Petaling Jaya,city,2022-01-29,1.0
+Malaysia,Petaling Jaya,city,2022-01-30,-19.0
+Malaysia,Petaling Jaya,city,2022-01-31,-30.0
 Malaysia,Puchong,city,2020-03-01,0.0
 Malaysia,Puchong,city,2020-03-02,3.0
 Malaysia,Puchong,city,2020-03-03,3.0
@@ -62505,9 +62974,14 @@ Malaysia,Puchong,city,2022-01-20,27.0
 Malaysia,Puchong,city,2022-01-21,17.0
 Malaysia,Puchong,city,2022-01-22,27.0
 Malaysia,Puchong,city,2022-01-23,23.0
-Malaysia,Puchong,city,2022-01-24,22.0
-Malaysia,Puchong,city,2022-01-25,42.0
-Malaysia,Puchong,city,2022-01-26,43.0
+Malaysia,Puchong,city,2022-01-24,31.0
+Malaysia,Puchong,city,2022-01-25,28.999999999999996
+Malaysia,Puchong,city,2022-01-26,33.0
+Malaysia,Puchong,city,2022-01-27,35.0
+Malaysia,Puchong,city,2022-01-28,21.0
+Malaysia,Puchong,city,2022-01-29,5.0
+Malaysia,Puchong,city,2022-01-30,-10.0
+Malaysia,Puchong,city,2022-01-31,-6.0
 Malaysia,Shah Alam,city,2020-03-01,11.0
 Malaysia,Shah Alam,city,2020-03-02,4.0
 Malaysia,Shah Alam,city,2020-03-03,9.0
@@ -63201,8 +63675,13 @@ Malaysia,Shah Alam,city,2022-01-21,6.0
 Malaysia,Shah Alam,city,2022-01-22,10.0
 Malaysia,Shah Alam,city,2022-01-23,10.0
 Malaysia,Shah Alam,city,2022-01-24,17.0
-Malaysia,Shah Alam,city,2022-01-25,27.0
-Malaysia,Shah Alam,city,2022-01-26,25.0
+Malaysia,Shah Alam,city,2022-01-25,23.0
+Malaysia,Shah Alam,city,2022-01-26,24.0
+Malaysia,Shah Alam,city,2022-01-27,25.0
+Malaysia,Shah Alam,city,2022-01-28,18.0
+Malaysia,Shah Alam,city,2022-01-29,7.000000000000001
+Malaysia,Shah Alam,city,2022-01-30,0.0
+Malaysia,Shah Alam,city,2022-01-31,-7.000000000000001
 Malaysia,Total,country,2020-03-01,9.0
 Malaysia,Total,country,2020-03-02,3.0
 Malaysia,Total,country,2020-03-03,2.0
@@ -63895,9 +64374,14 @@ Malaysia,Total,country,2022-01-20,14.000000000000002
 Malaysia,Total,country,2022-01-21,11.0
 Malaysia,Total,country,2022-01-22,13.0
 Malaysia,Total,country,2022-01-23,13.0
-Malaysia,Total,country,2022-01-24,19.0
+Malaysia,Total,country,2022-01-24,20.0
 Malaysia,Total,country,2022-01-25,21.0
 Malaysia,Total,country,2022-01-26,23.0
+Malaysia,Total,country,2022-01-27,25.0
+Malaysia,Total,country,2022-01-28,28.999999999999996
+Malaysia,Total,country,2022-01-29,37.0
+Malaysia,Total,country,2022-01-30,35.0
+Malaysia,Total,country,2022-01-31,38.0
 Mexico,Guadalajara,city,2020-03-01,1.0
 Mexico,Guadalajara,city,2020-03-02,1.0
 Mexico,Guadalajara,city,2020-03-03,2.0
@@ -64591,9 +65075,14 @@ Mexico,Guadalajara,city,2022-01-20,-28.999999999999996
 Mexico,Guadalajara,city,2022-01-21,-28.999999999999996
 Mexico,Guadalajara,city,2022-01-22,-36.0
 Mexico,Guadalajara,city,2022-01-23,-28.000000000000004
-Mexico,Guadalajara,city,2022-01-24,-26.0
+Mexico,Guadalajara,city,2022-01-24,-25.0
 Mexico,Guadalajara,city,2022-01-25,-22.0
-Mexico,Guadalajara,city,2022-01-26,-27.0
+Mexico,Guadalajara,city,2022-01-26,-22.0
+Mexico,Guadalajara,city,2022-01-27,-27.0
+Mexico,Guadalajara,city,2022-01-28,-31.0
+Mexico,Guadalajara,city,2022-01-29,-19.0
+Mexico,Guadalajara,city,2022-01-30,-27.0
+Mexico,Guadalajara,city,2022-01-31,-19.0
 Mexico,Mexico City,city,2020-03-01,2.0
 Mexico,Mexico City,city,2020-03-02,2.0
 Mexico,Mexico City,city,2020-03-03,-1.0
@@ -65287,8 +65776,13 @@ Mexico,Mexico City,city,2022-01-21,-41.0
 Mexico,Mexico City,city,2022-01-22,-41.0
 Mexico,Mexico City,city,2022-01-23,-40.0
 Mexico,Mexico City,city,2022-01-24,-36.0
-Mexico,Mexico City,city,2022-01-25,-38.0
+Mexico,Mexico City,city,2022-01-25,-37.0
 Mexico,Mexico City,city,2022-01-26,-38.0
+Mexico,Mexico City,city,2022-01-27,-38.0
+Mexico,Mexico City,city,2022-01-28,-38.0
+Mexico,Mexico City,city,2022-01-29,-37.0
+Mexico,Mexico City,city,2022-01-30,-34.0
+Mexico,Mexico City,city,2022-01-31,-31.0
 Mexico,Monterrey,city,2020-03-01,8.0
 Mexico,Monterrey,city,2020-03-02,8.0
 Mexico,Monterrey,city,2020-03-03,2.0
@@ -65982,8 +66476,14 @@ Mexico,Monterrey,city,2022-01-21,-55.00000000000001
 Mexico,Monterrey,city,2022-01-22,-55.00000000000001
 Mexico,Monterrey,city,2022-01-23,-55.00000000000001
 Mexico,Monterrey,city,2022-01-24,-41.0
-Mexico,Monterrey,city,2022-01-25,-46.0
+Mexico,Monterrey,city,2022-01-25,-44.0
 Mexico,Monterrey,city,2022-01-26,-47.0
+Mexico,Monterrey,city,2022-01-27,-44.0
+Mexico,Monterrey,city,2022-01-28,-47.0
+Mexico,Monterrey,city,2022-01-29,-44.0
+Mexico,Monterrey,city,2022-01-30,-34.0
+Mexico,Monterrey,city,2022-01-31,-30.0
+Mexico,Monterrey,city,2022-02-02,-98.0
 Mexico,Puebla City,city,2020-03-01,5.0
 Mexico,Puebla City,city,2020-03-02,2.0
 Mexico,Puebla City,city,2020-03-03,-1.0
@@ -66676,9 +67176,15 @@ Mexico,Puebla City,city,2022-01-20,-13.0
 Mexico,Puebla City,city,2022-01-21,-33.0
 Mexico,Puebla City,city,2022-01-22,-38.0
 Mexico,Puebla City,city,2022-01-23,-34.0
-Mexico,Puebla City,city,2022-01-24,-23.0
-Mexico,Puebla City,city,2022-01-25,-25.0
-Mexico,Puebla City,city,2022-01-26,-24.0
+Mexico,Puebla City,city,2022-01-24,-26.0
+Mexico,Puebla City,city,2022-01-25,-20.0
+Mexico,Puebla City,city,2022-01-26,-34.0
+Mexico,Puebla City,city,2022-01-27,-15.0
+Mexico,Puebla City,city,2022-01-28,-26.0
+Mexico,Puebla City,city,2022-01-29,-31.0
+Mexico,Puebla City,city,2022-01-30,-26.0
+Mexico,Puebla City,city,2022-01-31,-22.0
+Mexico,Puebla City,city,2022-02-02,-98.0
 Mexico,Santiago De Queretaro,city,2020-03-01,8.0
 Mexico,Santiago De Queretaro,city,2020-03-02,1.0
 Mexico,Santiago De Queretaro,city,2020-03-03,2.0
@@ -67371,9 +67877,14 @@ Mexico,Santiago De Queretaro,city,2022-01-20,-42.0
 Mexico,Santiago De Queretaro,city,2022-01-21,-32.0
 Mexico,Santiago De Queretaro,city,2022-01-22,-37.0
 Mexico,Santiago De Queretaro,city,2022-01-23,-39.0
-Mexico,Santiago De Queretaro,city,2022-01-24,-31.0
-Mexico,Santiago De Queretaro,city,2022-01-25,-21.0
-Mexico,Santiago De Queretaro,city,2022-01-26,-43.0
+Mexico,Santiago De Queretaro,city,2022-01-24,-38.0
+Mexico,Santiago De Queretaro,city,2022-01-25,-36.0
+Mexico,Santiago De Queretaro,city,2022-01-26,-36.0
+Mexico,Santiago De Queretaro,city,2022-01-27,-32.0
+Mexico,Santiago De Queretaro,city,2022-01-28,-33.0
+Mexico,Santiago De Queretaro,city,2022-01-29,-30.0
+Mexico,Santiago De Queretaro,city,2022-01-30,-23.0
+Mexico,Santiago De Queretaro,city,2022-01-31,-25.0
 Mexico,Total,country,2020-03-01,3.0
 Mexico,Total,country,2020-03-02,1.0
 Mexico,Total,country,2020-03-03,-1.0
@@ -68069,6 +68580,11 @@ Mexico,Total,country,2022-01-23,-28.999999999999996
 Mexico,Total,country,2022-01-24,-26.0
 Mexico,Total,country,2022-01-25,-27.0
 Mexico,Total,country,2022-01-26,-27.0
+Mexico,Total,country,2022-01-27,-27.0
+Mexico,Total,country,2022-01-28,-26.0
+Mexico,Total,country,2022-01-29,-25.0
+Mexico,Total,country,2022-01-30,-21.0
+Mexico,Total,country,2022-01-31,-20.0
 Mexico,Zapopan,city,2020-03-01,-1.0
 Mexico,Zapopan,city,2020-03-02,-2.0
 Mexico,Zapopan,city,2020-03-03,-4.0
@@ -68761,9 +69277,15 @@ Mexico,Zapopan,city,2022-01-20,-30.0
 Mexico,Zapopan,city,2022-01-21,-26.0
 Mexico,Zapopan,city,2022-01-22,-27.0
 Mexico,Zapopan,city,2022-01-23,-25.0
-Mexico,Zapopan,city,2022-01-24,-25.0
-Mexico,Zapopan,city,2022-01-25,-22.0
+Mexico,Zapopan,city,2022-01-24,-23.0
+Mexico,Zapopan,city,2022-01-25,-28.999999999999996
 Mexico,Zapopan,city,2022-01-26,-33.0
+Mexico,Zapopan,city,2022-01-27,-25.0
+Mexico,Zapopan,city,2022-01-28,-28.000000000000004
+Mexico,Zapopan,city,2022-01-29,-20.0
+Mexico,Zapopan,city,2022-01-30,-12.0
+Mexico,Zapopan,city,2022-01-31,-13.0
+Mexico,Zapopan,city,2022-02-02,-99.0
 Morocco,Total,country,2020-03-01,15.0
 Morocco,Total,country,2020-03-02,1.0
 Morocco,Total,country,2020-03-03,-1.0
@@ -69456,9 +69978,14 @@ Morocco,Total,country,2022-01-20,18.0
 Morocco,Total,country,2022-01-21,16.0
 Morocco,Total,country,2022-01-22,24.0
 Morocco,Total,country,2022-01-23,20.0
-Morocco,Total,country,2022-01-24,11.0
-Morocco,Total,country,2022-01-25,16.0
-Morocco,Total,country,2022-01-26,21.0
+Morocco,Total,country,2022-01-24,21.0
+Morocco,Total,country,2022-01-25,20.0
+Morocco,Total,country,2022-01-26,24.0
+Morocco,Total,country,2022-01-27,14.000000000000002
+Morocco,Total,country,2022-01-28,18.0
+Morocco,Total,country,2022-01-29,27.0
+Morocco,Total,country,2022-01-30,15.0
+Morocco,Total,country,2022-01-31,24.0
 Netherlands,Amsterdam,city,2020-03-01,-7.000000000000001
 Netherlands,Amsterdam,city,2020-03-02,-1.0
 Netherlands,Amsterdam,city,2020-03-03,-6.0
@@ -70152,8 +70679,13 @@ Netherlands,Amsterdam,city,2022-01-21,-28.999999999999996
 Netherlands,Amsterdam,city,2022-01-22,-37.0
 Netherlands,Amsterdam,city,2022-01-23,-32.0
 Netherlands,Amsterdam,city,2022-01-24,-33.0
-Netherlands,Amsterdam,city,2022-01-25,-35.0
-Netherlands,Amsterdam,city,2022-01-26,-27.0
+Netherlands,Amsterdam,city,2022-01-25,-17.0
+Netherlands,Amsterdam,city,2022-01-26,-47.0
+Netherlands,Amsterdam,city,2022-01-27,-32.0
+Netherlands,Amsterdam,city,2022-01-28,-22.0
+Netherlands,Amsterdam,city,2022-01-29,-9.0
+Netherlands,Amsterdam,city,2022-01-30,-25.0
+Netherlands,Amsterdam,city,2022-01-31,-8.0
 Netherlands,Rotterdam,city,2020-03-01,13.0
 Netherlands,Rotterdam,city,2020-03-02,7.000000000000001
 Netherlands,Rotterdam,city,2020-03-03,7.000000000000001
@@ -70846,9 +71378,15 @@ Netherlands,Rotterdam,city,2022-01-20,-19.0
 Netherlands,Rotterdam,city,2022-01-21,-31.0
 Netherlands,Rotterdam,city,2022-01-22,-19.0
 Netherlands,Rotterdam,city,2022-01-23,6.0
-Netherlands,Rotterdam,city,2022-01-24,-15.0
-Netherlands,Rotterdam,city,2022-01-25,-15.0
-Netherlands,Rotterdam,city,2022-01-26,-36.0
+Netherlands,Rotterdam,city,2022-01-24,-23.0
+Netherlands,Rotterdam,city,2022-01-25,-26.0
+Netherlands,Rotterdam,city,2022-01-26,-27.0
+Netherlands,Rotterdam,city,2022-01-27,-13.0
+Netherlands,Rotterdam,city,2022-01-28,-20.0
+Netherlands,Rotterdam,city,2022-01-29,-9.0
+Netherlands,Rotterdam,city,2022-01-30,4.0
+Netherlands,Rotterdam,city,2022-01-31,-21.0
+Netherlands,Rotterdam,city,2022-02-02,-93.0
 Netherlands,Total,country,2020-03-01,11.0
 Netherlands,Total,country,2020-03-02,2.0
 Netherlands,Total,country,2020-03-03,2.0
@@ -71541,9 +72079,14 @@ Netherlands,Total,country,2022-01-20,-30.0
 Netherlands,Total,country,2022-01-21,-28.000000000000004
 Netherlands,Total,country,2022-01-22,-22.0
 Netherlands,Total,country,2022-01-23,-14.000000000000002
-Netherlands,Total,country,2022-01-24,-26.0
+Netherlands,Total,country,2022-01-24,-27.0
 Netherlands,Total,country,2022-01-25,-28.999999999999996
-Netherlands,Total,country,2022-01-26,-27.0
+Netherlands,Total,country,2022-01-26,-26.0
+Netherlands,Total,country,2022-01-27,-28.999999999999996
+Netherlands,Total,country,2022-01-28,-23.0
+Netherlands,Total,country,2022-01-29,-12.0
+Netherlands,Total,country,2022-01-30,-1.0
+Netherlands,Total,country,2022-01-31,-24.0
 Peru,Lima,city,2020-03-01,6.0
 Peru,Lima,city,2020-03-02,-2.0
 Peru,Lima,city,2020-03-03,2.0
@@ -72236,9 +72779,14 @@ Peru,Lima,city,2022-01-20,-26.0
 Peru,Lima,city,2022-01-21,-28.000000000000004
 Peru,Lima,city,2022-01-22,-21.0
 Peru,Lima,city,2022-01-23,-24.0
-Peru,Lima,city,2022-01-24,-19.0
-Peru,Lima,city,2022-01-25,-21.0
+Peru,Lima,city,2022-01-24,-18.0
+Peru,Lima,city,2022-01-25,-22.0
 Peru,Lima,city,2022-01-26,-22.0
+Peru,Lima,city,2022-01-27,-22.0
+Peru,Lima,city,2022-01-28,-24.0
+Peru,Lima,city,2022-01-29,-19.0
+Peru,Lima,city,2022-01-30,-16.0
+Peru,Lima,city,2022-01-31,-14.000000000000002
 Peru,Total,country,2020-03-01,4.0
 Peru,Total,country,2020-03-02,-3.0
 Peru,Total,country,2020-03-03,0.0
@@ -72931,9 +73479,14 @@ Peru,Total,country,2022-01-20,-18.0
 Peru,Total,country,2022-01-21,-22.0
 Peru,Total,country,2022-01-22,-19.0
 Peru,Total,country,2022-01-23,-18.0
-Peru,Total,country,2022-01-24,-14.000000000000002
+Peru,Total,country,2022-01-24,-13.0
 Peru,Total,country,2022-01-25,-16.0
-Peru,Total,country,2022-01-26,-16.0
+Peru,Total,country,2022-01-26,-15.0
+Peru,Total,country,2022-01-27,-15.0
+Peru,Total,country,2022-01-28,-17.0
+Peru,Total,country,2022-01-29,-15.0
+Peru,Total,country,2022-01-30,-10.0
+Peru,Total,country,2022-01-31,-8.0
 Philippines,Makati,city,2020-03-01,-5.0
 Philippines,Makati,city,2020-03-02,5.0
 Philippines,Makati,city,2020-03-03,10.0
@@ -73626,9 +74179,15 @@ Philippines,Makati,city,2022-01-20,-64.0
 Philippines,Makati,city,2022-01-21,-65.0
 Philippines,Makati,city,2022-01-22,-54.0
 Philippines,Makati,city,2022-01-23,-63.0
-Philippines,Makati,city,2022-01-24,-62.0
-Philippines,Makati,city,2022-01-25,-57.99999999999999
-Philippines,Makati,city,2022-01-26,-67.0
+Philippines,Makati,city,2022-01-24,-50.0
+Philippines,Makati,city,2022-01-25,-65.0
+Philippines,Makati,city,2022-01-26,-63.0
+Philippines,Makati,city,2022-01-27,-63.0
+Philippines,Makati,city,2022-01-28,-44.0
+Philippines,Makati,city,2022-01-29,-55.00000000000001
+Philippines,Makati,city,2022-01-30,-61.0
+Philippines,Makati,city,2022-01-31,-62.0
+Philippines,Makati,city,2022-02-02,-96.0
 Philippines,Manila,city,2020-03-01,-3.0
 Philippines,Manila,city,2020-03-02,-5.0
 Philippines,Manila,city,2020-03-03,0.0
@@ -74321,9 +74880,14 @@ Philippines,Manila,city,2022-01-20,-44.0
 Philippines,Manila,city,2022-01-21,-48.0
 Philippines,Manila,city,2022-01-22,-34.0
 Philippines,Manila,city,2022-01-23,-49.0
-Philippines,Manila,city,2022-01-24,-33.0
-Philippines,Manila,city,2022-01-25,-43.0
-Philippines,Manila,city,2022-01-26,-46.0
+Philippines,Manila,city,2022-01-24,-42.0
+Philippines,Manila,city,2022-01-25,-42.0
+Philippines,Manila,city,2022-01-26,-20.0
+Philippines,Manila,city,2022-01-27,-56.99999999999999
+Philippines,Manila,city,2022-01-28,-44.0
+Philippines,Manila,city,2022-01-29,-48.0
+Philippines,Manila,city,2022-01-30,-46.0
+Philippines,Manila,city,2022-01-31,-33.0
 Philippines,Quezon City,city,2020-03-01,2.0
 Philippines,Quezon City,city,2020-03-02,-4.0
 Philippines,Quezon City,city,2020-03-03,1.0
@@ -75016,9 +75580,14 @@ Philippines,Quezon City,city,2022-01-20,-48.0
 Philippines,Quezon City,city,2022-01-21,-53.0
 Philippines,Quezon City,city,2022-01-22,-49.0
 Philippines,Quezon City,city,2022-01-23,-49.0
-Philippines,Quezon City,city,2022-01-24,-47.0
-Philippines,Quezon City,city,2022-01-25,-44.0
-Philippines,Quezon City,city,2022-01-26,-45.0
+Philippines,Quezon City,city,2022-01-24,-45.0
+Philippines,Quezon City,city,2022-01-25,-43.0
+Philippines,Quezon City,city,2022-01-26,-50.0
+Philippines,Quezon City,city,2022-01-27,-50.0
+Philippines,Quezon City,city,2022-01-28,-45.0
+Philippines,Quezon City,city,2022-01-29,-43.0
+Philippines,Quezon City,city,2022-01-30,-39.0
+Philippines,Quezon City,city,2022-01-31,-33.0
 Philippines,Total,country,2020-03-01,-2.0
 Philippines,Total,country,2020-03-02,-7.000000000000001
 Philippines,Total,country,2020-03-03,-2.0
@@ -75711,9 +76280,14 @@ Philippines,Total,country,2022-01-20,-37.0
 Philippines,Total,country,2022-01-21,-40.0
 Philippines,Total,country,2022-01-22,-37.0
 Philippines,Total,country,2022-01-23,-37.0
-Philippines,Total,country,2022-01-24,-37.0
+Philippines,Total,country,2022-01-24,-36.0
 Philippines,Total,country,2022-01-25,-34.0
-Philippines,Total,country,2022-01-26,-34.0
+Philippines,Total,country,2022-01-26,-35.0
+Philippines,Total,country,2022-01-27,-31.0
+Philippines,Total,country,2022-01-28,-32.0
+Philippines,Total,country,2022-01-29,-26.0
+Philippines,Total,country,2022-01-30,-25.0
+Philippines,Total,country,2022-01-31,-25.0
 Poland,Krakow,city,2020-03-01,-15.0
 Poland,Krakow,city,2020-03-02,-13.0
 Poland,Krakow,city,2020-03-03,4.0
@@ -76399,9 +76973,14 @@ Poland,Krakow,city,2022-01-20,31.0
 Poland,Krakow,city,2022-01-21,26.0
 Poland,Krakow,city,2022-01-22,33.0
 Poland,Krakow,city,2022-01-23,-3.0
-Poland,Krakow,city,2022-01-24,44.0
-Poland,Krakow,city,2022-01-25,18.0
-Poland,Krakow,city,2022-01-26,-11.0
+Poland,Krakow,city,2022-01-24,41.0
+Poland,Krakow,city,2022-01-25,43.0
+Poland,Krakow,city,2022-01-26,39.0
+Poland,Krakow,city,2022-01-27,23.0
+Poland,Krakow,city,2022-01-28,36.0
+Poland,Krakow,city,2022-01-29,61.0
+Poland,Krakow,city,2022-01-30,39.0
+Poland,Krakow,city,2022-01-31,32.0
 Poland,Total,country,2020-03-01,-11.0
 Poland,Total,country,2020-03-02,-3.0
 Poland,Total,country,2020-03-03,-4.0
@@ -77094,9 +77673,16 @@ Poland,Total,country,2022-01-20,20.0
 Poland,Total,country,2022-01-21,14.000000000000002
 Poland,Total,country,2022-01-22,11.0
 Poland,Total,country,2022-01-23,14.000000000000002
-Poland,Total,country,2022-01-24,20.0
-Poland,Total,country,2022-01-25,20.0
-Poland,Total,country,2022-01-26,13.0
+Poland,Total,country,2022-01-24,22.0
+Poland,Total,country,2022-01-25,22.0
+Poland,Total,country,2022-01-26,23.0
+Poland,Total,country,2022-01-27,21.0
+Poland,Total,country,2022-01-28,17.0
+Poland,Total,country,2022-01-29,21.0
+Poland,Total,country,2022-01-30,9.0
+Poland,Total,country,2022-01-31,27.0
+Poland,Total,country,2022-02-01,-98.0
+Poland,Total,country,2022-02-02,-99.0
 Poland,Warsaw,city,2020-03-01,-5.0
 Poland,Warsaw,city,2020-03-02,2.0
 Poland,Warsaw,city,2020-03-03,-2.0
@@ -77789,9 +78375,14 @@ Poland,Warsaw,city,2022-01-20,23.0
 Poland,Warsaw,city,2022-01-21,21.0
 Poland,Warsaw,city,2022-01-22,15.0
 Poland,Warsaw,city,2022-01-23,9.0
-Poland,Warsaw,city,2022-01-24,23.0
-Poland,Warsaw,city,2022-01-25,10.0
-Poland,Warsaw,city,2022-01-26,14.000000000000002
+Poland,Warsaw,city,2022-01-24,35.0
+Poland,Warsaw,city,2022-01-25,23.0
+Poland,Warsaw,city,2022-01-26,13.0
+Poland,Warsaw,city,2022-01-27,30.0
+Poland,Warsaw,city,2022-01-28,19.0
+Poland,Warsaw,city,2022-01-29,13.0
+Poland,Warsaw,city,2022-01-30,3.0
+Poland,Warsaw,city,2022-01-31,46.0
 Portugal,Lisbon,city,2020-03-01,-1.0
 Portugal,Lisbon,city,2020-03-02,13.0
 Portugal,Lisbon,city,2020-03-03,9.0
@@ -78484,9 +79075,15 @@ Portugal,Lisbon,city,2022-01-20,-12.0
 Portugal,Lisbon,city,2022-01-21,-13.0
 Portugal,Lisbon,city,2022-01-22,-6.0
 Portugal,Lisbon,city,2022-01-23,-3.0
-Portugal,Lisbon,city,2022-01-24,-4.0
-Portugal,Lisbon,city,2022-01-25,-8.0
+Portugal,Lisbon,city,2022-01-24,0.0
+Portugal,Lisbon,city,2022-01-25,-2.0
 Portugal,Lisbon,city,2022-01-26,-5.0
+Portugal,Lisbon,city,2022-01-27,-8.0
+Portugal,Lisbon,city,2022-01-28,-4.0
+Portugal,Lisbon,city,2022-01-29,-9.0
+Portugal,Lisbon,city,2022-01-30,7.000000000000001
+Portugal,Lisbon,city,2022-01-31,7.000000000000001
+Portugal,Lisbon,city,2022-02-02,-96.0
 Portugal,Total,country,2020-03-01,-12.0
 Portugal,Total,country,2020-03-02,-3.0
 Portugal,Total,country,2020-03-03,-2.0
@@ -79179,9 +79776,14 @@ Portugal,Total,country,2022-01-20,12.0
 Portugal,Total,country,2022-01-21,6.0
 Portugal,Total,country,2022-01-22,-2.0
 Portugal,Total,country,2022-01-23,5.0
-Portugal,Total,country,2022-01-24,12.0
-Portugal,Total,country,2022-01-25,10.0
+Portugal,Total,country,2022-01-24,11.0
+Portugal,Total,country,2022-01-25,11.0
 Portugal,Total,country,2022-01-26,15.0
+Portugal,Total,country,2022-01-27,13.0
+Portugal,Total,country,2022-01-28,8.0
+Portugal,Total,country,2022-01-29,4.0
+Portugal,Total,country,2022-01-30,10.0
+Portugal,Total,country,2022-01-31,14.000000000000002
 Puerto Rico,Total,country,2020-03-01,-2.0
 Puerto Rico,Total,country,2020-03-02,-2.0
 Puerto Rico,Total,country,2020-03-03,4.0
@@ -79874,9 +80476,14 @@ Puerto Rico,Total,country,2022-01-20,-18.0
 Puerto Rico,Total,country,2022-01-21,-7.000000000000001
 Puerto Rico,Total,country,2022-01-22,7.000000000000001
 Puerto Rico,Total,country,2022-01-23,1.0
-Puerto Rico,Total,country,2022-01-24,9.0
-Puerto Rico,Total,country,2022-01-25,-4.0
-Puerto Rico,Total,country,2022-01-26,-8.0
+Puerto Rico,Total,country,2022-01-24,6.0
+Puerto Rico,Total,country,2022-01-25,-7.000000000000001
+Puerto Rico,Total,country,2022-01-26,-3.0
+Puerto Rico,Total,country,2022-01-27,-12.0
+Puerto Rico,Total,country,2022-01-28,-5.0
+Puerto Rico,Total,country,2022-01-29,1.0
+Puerto Rico,Total,country,2022-01-30,11.0
+Puerto Rico,Total,country,2022-01-31,11.0
 Qatar,Doha,city,2020-03-01,4.0
 Qatar,Doha,city,2020-03-02,5.0
 Qatar,Doha,city,2020-03-03,11.0
@@ -80569,9 +81176,14 @@ Qatar,Doha,city,2022-01-20,37.0
 Qatar,Doha,city,2022-01-21,28.000000000000004
 Qatar,Doha,city,2022-01-22,42.0
 Qatar,Doha,city,2022-01-23,37.0
-Qatar,Doha,city,2022-01-24,33.0
-Qatar,Doha,city,2022-01-25,44.0
-Qatar,Doha,city,2022-01-26,41.0
+Qatar,Doha,city,2022-01-24,36.0
+Qatar,Doha,city,2022-01-25,43.0
+Qatar,Doha,city,2022-01-26,42.0
+Qatar,Doha,city,2022-01-27,49.0
+Qatar,Doha,city,2022-01-28,46.0
+Qatar,Doha,city,2022-01-29,56.00000000000001
+Qatar,Doha,city,2022-01-30,56.00000000000001
+Qatar,Doha,city,2022-01-31,56.00000000000001
 Qatar,Total,country,2020-03-01,4.0
 Qatar,Total,country,2020-03-02,5.0
 Qatar,Total,country,2020-03-03,8.0
@@ -81264,9 +81876,14 @@ Qatar,Total,country,2022-01-20,40.0
 Qatar,Total,country,2022-01-21,32.0
 Qatar,Total,country,2022-01-22,47.0
 Qatar,Total,country,2022-01-23,40.0
-Qatar,Total,country,2022-01-24,50.0
-Qatar,Total,country,2022-01-25,51.0
+Qatar,Total,country,2022-01-24,37.0
+Qatar,Total,country,2022-01-25,49.0
 Qatar,Total,country,2022-01-26,50.0
+Qatar,Total,country,2022-01-27,56.00000000000001
+Qatar,Total,country,2022-01-28,54.0
+Qatar,Total,country,2022-01-29,66.0
+Qatar,Total,country,2022-01-30,65.0
+Qatar,Total,country,2022-01-31,64.0
 Romania,Bucharest,city,2020-03-01,-3.0
 Romania,Bucharest,city,2020-03-02,0.0
 Romania,Bucharest,city,2020-03-03,2.0
@@ -81959,9 +82576,14 @@ Romania,Bucharest,city,2022-01-20,23.0
 Romania,Bucharest,city,2022-01-21,17.0
 Romania,Bucharest,city,2022-01-22,4.0
 Romania,Bucharest,city,2022-01-23,-18.0
-Romania,Bucharest,city,2022-01-24,25.0
-Romania,Bucharest,city,2022-01-25,17.0
-Romania,Bucharest,city,2022-01-26,7.000000000000001
+Romania,Bucharest,city,2022-01-24,27.0
+Romania,Bucharest,city,2022-01-25,18.0
+Romania,Bucharest,city,2022-01-26,4.0
+Romania,Bucharest,city,2022-01-27,8.0
+Romania,Bucharest,city,2022-01-28,4.0
+Romania,Bucharest,city,2022-01-29,3.0
+Romania,Bucharest,city,2022-01-30,-10.0
+Romania,Bucharest,city,2022-01-31,3.0
 Romania,Total,country,2020-03-01,-8.0
 Romania,Total,country,2020-03-02,-4.0
 Romania,Total,country,2020-03-03,-2.0
@@ -82654,9 +83276,14 @@ Romania,Total,country,2022-01-20,22.0
 Romania,Total,country,2022-01-21,25.0
 Romania,Total,country,2022-01-22,28.999999999999996
 Romania,Total,country,2022-01-23,-8.0
-Romania,Total,country,2022-01-24,61.0
-Romania,Total,country,2022-01-25,21.0
-Romania,Total,country,2022-01-26,13.0
+Romania,Total,country,2022-01-24,60.0
+Romania,Total,country,2022-01-25,23.0
+Romania,Total,country,2022-01-26,11.0
+Romania,Total,country,2022-01-27,10.0
+Romania,Total,country,2022-01-28,4.0
+Romania,Total,country,2022-01-29,6.0
+Romania,Total,country,2022-01-30,-7.000000000000001
+Romania,Total,country,2022-01-31,10.0
 Russia,Total,country,2020-03-01,-12.0
 Russia,Total,country,2020-03-02,-4.0
 Russia,Total,country,2020-03-03,-3.0
@@ -83350,9 +83977,14 @@ Russia,Total,country,2022-01-20,-56.99999999999999
 Russia,Total,country,2022-01-21,-63.0
 Russia,Total,country,2022-01-22,-68.0
 Russia,Total,country,2022-01-23,-77.0
-Russia,Total,country,2022-01-24,-47.0
-Russia,Total,country,2022-01-25,-57.99999999999999
-Russia,Total,country,2022-01-26,-56.99999999999999
+Russia,Total,country,2022-01-24,-70.0
+Russia,Total,country,2022-01-25,-37.0
+Russia,Total,country,2022-01-26,-64.0
+Russia,Total,country,2022-01-27,-54.0
+Russia,Total,country,2022-01-28,-42.0
+Russia,Total,country,2022-01-29,-71.0
+Russia,Total,country,2022-01-31,-47.0
+Russia,Total,country,2022-02-02,-92.0
 Singapore,Singapore,city,2020-03-01,7.000000000000001
 Singapore,Singapore,city,2020-03-02,4.0
 Singapore,Singapore,city,2020-03-03,3.0
@@ -84048,6 +84680,11 @@ Singapore,Singapore,city,2022-01-23,11.0
 Singapore,Singapore,city,2022-01-24,3.0
 Singapore,Singapore,city,2022-01-25,5.0
 Singapore,Singapore,city,2022-01-26,5.0
+Singapore,Singapore,city,2022-01-27,4.0
+Singapore,Singapore,city,2022-01-28,0.0
+Singapore,Singapore,city,2022-01-29,11.0
+Singapore,Singapore,city,2022-01-30,13.0
+Singapore,Singapore,city,2022-01-31,-1.0
 Singapore,Total,country,2020-03-01,6.0
 Singapore,Total,country,2020-03-02,3.0
 Singapore,Total,country,2020-03-03,4.0
@@ -84741,8 +85378,13 @@ Singapore,Total,country,2022-01-21,0.0
 Singapore,Total,country,2022-01-22,11.0
 Singapore,Total,country,2022-01-23,11.0
 Singapore,Total,country,2022-01-24,3.0
-Singapore,Total,country,2022-01-25,2.0
+Singapore,Total,country,2022-01-25,3.0
 Singapore,Total,country,2022-01-26,5.0
+Singapore,Total,country,2022-01-27,3.0
+Singapore,Total,country,2022-01-28,4.0
+Singapore,Total,country,2022-01-29,11.0
+Singapore,Total,country,2022-01-30,11.0
+Singapore,Total,country,2022-01-31,-3.0
 Slovakia,Bratislava,city,2020-03-01,1.0
 Slovakia,Bratislava,city,2020-03-02,10.0
 Slovakia,Bratislava,city,2020-03-03,1.0
@@ -85435,9 +86077,14 @@ Slovakia,Bratislava,city,2022-01-20,-6.0
 Slovakia,Bratislava,city,2022-01-21,-9.0
 Slovakia,Bratislava,city,2022-01-22,-11.0
 Slovakia,Bratislava,city,2022-01-23,4.0
-Slovakia,Bratislava,city,2022-01-24,17.0
+Slovakia,Bratislava,city,2022-01-24,-15.0
 Slovakia,Bratislava,city,2022-01-25,-8.0
-Slovakia,Bratislava,city,2022-01-26,-1.0
+Slovakia,Bratislava,city,2022-01-26,-13.0
+Slovakia,Bratislava,city,2022-01-27,-1.0
+Slovakia,Bratislava,city,2022-01-28,-13.0
+Slovakia,Bratislava,city,2022-01-29,-11.0
+Slovakia,Bratislava,city,2022-01-30,-17.0
+Slovakia,Bratislava,city,2022-01-31,1.0
 Slovakia,Total,country,2020-03-01,-15.0
 Slovakia,Total,country,2020-03-02,1.0
 Slovakia,Total,country,2020-03-03,-3.0
@@ -86130,9 +86777,14 @@ Slovakia,Total,country,2022-01-20,-6.0
 Slovakia,Total,country,2022-01-21,2.0
 Slovakia,Total,country,2022-01-22,-20.0
 Slovakia,Total,country,2022-01-23,-4.0
-Slovakia,Total,country,2022-01-24,5.0
-Slovakia,Total,country,2022-01-25,0.0
-Slovakia,Total,country,2022-01-26,-4.0
+Slovakia,Total,country,2022-01-24,0.0
+Slovakia,Total,country,2022-01-25,-1.0
+Slovakia,Total,country,2022-01-26,-3.0
+Slovakia,Total,country,2022-01-27,-5.0
+Slovakia,Total,country,2022-01-28,-4.0
+Slovakia,Total,country,2022-01-29,-14.000000000000002
+Slovakia,Total,country,2022-01-30,-8.0
+Slovakia,Total,country,2022-01-31,1.0
 South Africa,Cape Town,city,2020-03-01,35.0
 South Africa,Cape Town,city,2020-03-02,6.0
 South Africa,Cape Town,city,2020-03-03,4.0
@@ -86825,9 +87477,15 @@ South Africa,Cape Town,city,2022-01-20,-1.0
 South Africa,Cape Town,city,2022-01-21,-2.0
 South Africa,Cape Town,city,2022-01-22,39.0
 South Africa,Cape Town,city,2022-01-23,21.0
-South Africa,Cape Town,city,2022-01-24,2.0
-South Africa,Cape Town,city,2022-01-25,11.0
-South Africa,Cape Town,city,2022-01-26,21.0
+South Africa,Cape Town,city,2022-01-24,9.0
+South Africa,Cape Town,city,2022-01-25,10.0
+South Africa,Cape Town,city,2022-01-26,5.0
+South Africa,Cape Town,city,2022-01-27,18.0
+South Africa,Cape Town,city,2022-01-28,17.0
+South Africa,Cape Town,city,2022-01-29,61.0
+South Africa,Cape Town,city,2022-01-30,52.0
+South Africa,Cape Town,city,2022-01-31,20.0
+South Africa,Cape Town,city,2022-02-02,-98.0
 South Africa,Total,country,2020-03-01,24.0
 South Africa,Total,country,2020-03-02,10.0
 South Africa,Total,country,2020-03-03,5.0
@@ -87520,9 +88178,14 @@ South Africa,Total,country,2022-01-20,5.0
 South Africa,Total,country,2022-01-21,5.0
 South Africa,Total,country,2022-01-22,28.000000000000004
 South Africa,Total,country,2022-01-23,23.0
-South Africa,Total,country,2022-01-24,11.0
+South Africa,Total,country,2022-01-24,7.000000000000001
 South Africa,Total,country,2022-01-25,11.0
-South Africa,Total,country,2022-01-26,14.000000000000002
+South Africa,Total,country,2022-01-26,13.0
+South Africa,Total,country,2022-01-27,14.000000000000002
+South Africa,Total,country,2022-01-28,17.0
+South Africa,Total,country,2022-01-29,49.0
+South Africa,Total,country,2022-01-30,51.0
+South Africa,Total,country,2022-01-31,20.0
 Spain,Barcelona,city,2020-03-01,-4.0
 Spain,Barcelona,city,2020-03-02,-8.0
 Spain,Barcelona,city,2020-03-03,-1.0
@@ -88215,9 +88878,14 @@ Spain,Barcelona,city,2022-01-20,2.0
 Spain,Barcelona,city,2022-01-21,3.0
 Spain,Barcelona,city,2022-01-22,-20.0
 Spain,Barcelona,city,2022-01-23,6.0
-Spain,Barcelona,city,2022-01-24,-19.0
-Spain,Barcelona,city,2022-01-25,-42.0
-Spain,Barcelona,city,2022-01-26,20.0
+Spain,Barcelona,city,2022-01-24,-9.0
+Spain,Barcelona,city,2022-01-25,-12.0
+Spain,Barcelona,city,2022-01-26,-15.0
+Spain,Barcelona,city,2022-01-27,2.0
+Spain,Barcelona,city,2022-01-28,0.0
+Spain,Barcelona,city,2022-01-29,6.0
+Spain,Barcelona,city,2022-01-30,17.0
+Spain,Barcelona,city,2022-01-31,-11.0
 Spain,Madrid,city,2020-03-01,2.0
 Spain,Madrid,city,2020-03-02,11.0
 Spain,Madrid,city,2020-03-03,-2.0
@@ -88912,7 +89580,12 @@ Spain,Madrid,city,2022-01-22,5.0
 Spain,Madrid,city,2022-01-23,-6.0
 Spain,Madrid,city,2022-01-24,-11.0
 Spain,Madrid,city,2022-01-25,-10.0
-Spain,Madrid,city,2022-01-26,-7.000000000000001
+Spain,Madrid,city,2022-01-26,-10.0
+Spain,Madrid,city,2022-01-27,-9.0
+Spain,Madrid,city,2022-01-28,-7.000000000000001
+Spain,Madrid,city,2022-01-29,9.0
+Spain,Madrid,city,2022-01-30,1.0
+Spain,Madrid,city,2022-01-31,-7.000000000000001
 Spain,Total,country,2020-03-01,3.0
 Spain,Total,country,2020-03-02,13.0
 Spain,Total,country,2020-03-03,-2.0
@@ -89605,9 +90278,14 @@ Spain,Total,country,2022-01-20,0.0
 Spain,Total,country,2022-01-21,-6.0
 Spain,Total,country,2022-01-22,-1.0
 Spain,Total,country,2022-01-23,-4.0
-Spain,Total,country,2022-01-24,1.0
+Spain,Total,country,2022-01-24,0.0
 Spain,Total,country,2022-01-25,3.0
-Spain,Total,country,2022-01-26,6.0
+Spain,Total,country,2022-01-26,7.000000000000001
+Spain,Total,country,2022-01-27,8.0
+Spain,Total,country,2022-01-28,4.0
+Spain,Total,country,2022-01-29,9.0
+Spain,Total,country,2022-01-30,10.0
+Spain,Total,country,2022-01-31,6.0
 Sweden,Stockholm,city,2020-03-01,37.0
 Sweden,Stockholm,city,2020-03-02,3.0
 Sweden,Stockholm,city,2020-03-03,9.0
@@ -90299,9 +90977,15 @@ Sweden,Stockholm,city,2022-01-20,-30.0
 Sweden,Stockholm,city,2022-01-21,-27.0
 Sweden,Stockholm,city,2022-01-22,-21.0
 Sweden,Stockholm,city,2022-01-23,0.0
-Sweden,Stockholm,city,2022-01-24,14.000000000000002
-Sweden,Stockholm,city,2022-01-25,-15.0
-Sweden,Stockholm,city,2022-01-26,7.000000000000001
+Sweden,Stockholm,city,2022-01-24,-33.0
+Sweden,Stockholm,city,2022-01-25,-33.0
+Sweden,Stockholm,city,2022-01-26,16.0
+Sweden,Stockholm,city,2022-01-27,-26.0
+Sweden,Stockholm,city,2022-01-28,-22.0
+Sweden,Stockholm,city,2022-01-29,22.0
+Sweden,Stockholm,city,2022-01-30,1.0
+Sweden,Stockholm,city,2022-01-31,-15.0
+Sweden,Stockholm,city,2022-02-01,-97.0
 Sweden,Total,country,2020-03-01,10.0
 Sweden,Total,country,2020-03-02,1.0
 Sweden,Total,country,2020-03-03,-1.0
@@ -90994,9 +91678,15 @@ Sweden,Total,country,2022-01-20,-24.0
 Sweden,Total,country,2022-01-21,-30.0
 Sweden,Total,country,2022-01-22,-35.0
 Sweden,Total,country,2022-01-23,-31.0
-Sweden,Total,country,2022-01-24,-28.999999999999996
-Sweden,Total,country,2022-01-25,-28.000000000000004
-Sweden,Total,country,2022-01-26,-24.0
+Sweden,Total,country,2022-01-24,-27.0
+Sweden,Total,country,2022-01-25,-30.0
+Sweden,Total,country,2022-01-26,-26.0
+Sweden,Total,country,2022-01-27,-22.0
+Sweden,Total,country,2022-01-28,-22.0
+Sweden,Total,country,2022-01-29,-31.0
+Sweden,Total,country,2022-01-30,-25.0
+Sweden,Total,country,2022-01-31,-23.0
+Sweden,Total,country,2022-02-01,-98.0
 Switzerland,Total,country,2020-03-01,-13.0
 Switzerland,Total,country,2020-03-02,-10.0
 Switzerland,Total,country,2020-03-03,-7.000000000000001
@@ -91689,9 +92379,14 @@ Switzerland,Total,country,2022-01-20,2.0
 Switzerland,Total,country,2022-01-21,3.0
 Switzerland,Total,country,2022-01-22,-24.0
 Switzerland,Total,country,2022-01-23,18.0
-Switzerland,Total,country,2022-01-24,1.0
-Switzerland,Total,country,2022-01-25,-3.0
-Switzerland,Total,country,2022-01-26,8.0
+Switzerland,Total,country,2022-01-24,7.000000000000001
+Switzerland,Total,country,2022-01-25,17.0
+Switzerland,Total,country,2022-01-26,10.0
+Switzerland,Total,country,2022-01-27,16.0
+Switzerland,Total,country,2022-01-28,6.0
+Switzerland,Total,country,2022-01-29,-20.0
+Switzerland,Total,country,2022-01-30,33.0
+Switzerland,Total,country,2022-01-31,-2.0
 Ukraine,Kyiv,city,2020-03-01,1.0
 Ukraine,Kyiv,city,2020-03-02,5.0
 Ukraine,Kyiv,city,2020-03-03,5.0
@@ -92385,8 +93080,13 @@ Ukraine,Kyiv,city,2022-01-21,96.0
 Ukraine,Kyiv,city,2022-01-22,103.0
 Ukraine,Kyiv,city,2022-01-23,115.99999999999999
 Ukraine,Kyiv,city,2022-01-24,107.0
-Ukraine,Kyiv,city,2022-01-25,111.00000000000001
-Ukraine,Kyiv,city,2022-01-26,102.0
+Ukraine,Kyiv,city,2022-01-25,109.00000000000001
+Ukraine,Kyiv,city,2022-01-26,104.0
+Ukraine,Kyiv,city,2022-01-27,101.0
+Ukraine,Kyiv,city,2022-01-28,90.0
+Ukraine,Kyiv,city,2022-01-29,92.0
+Ukraine,Kyiv,city,2022-01-30,104.0
+Ukraine,Kyiv,city,2022-01-31,100.0
 Ukraine,Lviv,city,2020-03-01,13.0
 Ukraine,Lviv,city,2020-03-02,0.0
 Ukraine,Lviv,city,2020-03-03,-5.0
@@ -92897,6 +93597,8 @@ Ukraine,Lviv,city,2021-09-06,149.0
 Ukraine,Lviv,city,2021-09-24,197.0
 Ukraine,Lviv,city,2021-09-27,179.0
 Ukraine,Lviv,city,2022-01-01,193.0
+Ukraine,Lviv,city,2022-01-28,199.0
+Ukraine,Lviv,city,2022-02-01,-99.0
 Ukraine,Total,country,2020-03-01,2.0
 Ukraine,Total,country,2020-03-02,3.0
 Ukraine,Total,country,2020-03-03,5.0
@@ -94031,9 +94733,14 @@ United Arab Emirates,Total,country,2022-01-20,19.0
 United Arab Emirates,Total,country,2022-01-21,43.0
 United Arab Emirates,Total,country,2022-01-22,65.0
 United Arab Emirates,Total,country,2022-01-23,57.99999999999999
-United Arab Emirates,Total,country,2022-01-24,55.00000000000001
+United Arab Emirates,Total,country,2022-01-24,54.0
 United Arab Emirates,Total,country,2022-01-25,56.99999999999999
-United Arab Emirates,Total,country,2022-01-26,56.00000000000001
+United Arab Emirates,Total,country,2022-01-26,51.0
+United Arab Emirates,Total,country,2022-01-27,33.0
+United Arab Emirates,Total,country,2022-01-28,69.0
+United Arab Emirates,Total,country,2022-01-29,85.0
+United Arab Emirates,Total,country,2022-01-30,66.0
+United Arab Emirates,Total,country,2022-01-31,68.0
 United Kingdom,Birmingham,city,2020-03-01,2.0
 United Kingdom,Birmingham,city,2020-03-02,0.0
 United Kingdom,Birmingham,city,2020-03-03,-5.0
@@ -94725,9 +95432,14 @@ United Kingdom,Birmingham,city,2022-01-20,13.0
 United Kingdom,Birmingham,city,2022-01-21,4.0
 United Kingdom,Birmingham,city,2022-01-22,18.0
 United Kingdom,Birmingham,city,2022-01-23,11.0
-United Kingdom,Birmingham,city,2022-01-24,17.0
-United Kingdom,Birmingham,city,2022-01-25,30.0
-United Kingdom,Birmingham,city,2022-01-26,-4.0
+United Kingdom,Birmingham,city,2022-01-24,6.0
+United Kingdom,Birmingham,city,2022-01-25,-7.000000000000001
+United Kingdom,Birmingham,city,2022-01-26,15.0
+United Kingdom,Birmingham,city,2022-01-27,31.0
+United Kingdom,Birmingham,city,2022-01-28,22.0
+United Kingdom,Birmingham,city,2022-01-29,31.0
+United Kingdom,Birmingham,city,2022-01-30,43.0
+United Kingdom,Birmingham,city,2022-01-31,15.0
 United Kingdom,Bristol,city,2020-03-01,0.0
 United Kingdom,Bristol,city,2020-03-02,-11.0
 United Kingdom,Bristol,city,2020-03-03,-12.0
@@ -95420,9 +96132,14 @@ United Kingdom,Bristol,city,2022-01-20,-12.0
 United Kingdom,Bristol,city,2022-01-21,8.0
 United Kingdom,Bristol,city,2022-01-22,50.0
 United Kingdom,Bristol,city,2022-01-23,15.0
-United Kingdom,Bristol,city,2022-01-24,9.0
-United Kingdom,Bristol,city,2022-01-25,31.0
-United Kingdom,Bristol,city,2022-01-26,1.0
+United Kingdom,Bristol,city,2022-01-24,-3.0
+United Kingdom,Bristol,city,2022-01-25,-15.0
+United Kingdom,Bristol,city,2022-01-26,-9.0
+United Kingdom,Bristol,city,2022-01-27,1.0
+United Kingdom,Bristol,city,2022-01-28,-8.0
+United Kingdom,Bristol,city,2022-01-29,33.0
+United Kingdom,Bristol,city,2022-01-30,27.0
+United Kingdom,Bristol,city,2022-01-31,-7.000000000000001
 United Kingdom,Liverpool,city,2020-03-01,14.000000000000002
 United Kingdom,Liverpool,city,2020-03-02,0.0
 United Kingdom,Liverpool,city,2020-03-03,15.0
@@ -96112,9 +96829,14 @@ United Kingdom,Liverpool,city,2022-01-20,-13.0
 United Kingdom,Liverpool,city,2022-01-21,8.0
 United Kingdom,Liverpool,city,2022-01-22,32.0
 United Kingdom,Liverpool,city,2022-01-23,18.0
-United Kingdom,Liverpool,city,2022-01-24,4.0
-United Kingdom,Liverpool,city,2022-01-25,20.0
-United Kingdom,Liverpool,city,2022-01-26,-10.0
+United Kingdom,Liverpool,city,2022-01-24,-85.0
+United Kingdom,Liverpool,city,2022-01-25,12.0
+United Kingdom,Liverpool,city,2022-01-26,13.0
+United Kingdom,Liverpool,city,2022-01-27,43.0
+United Kingdom,Liverpool,city,2022-01-28,1.0
+United Kingdom,Liverpool,city,2022-01-29,57.99999999999999
+United Kingdom,Liverpool,city,2022-01-30,42.0
+United Kingdom,Liverpool,city,2022-01-31,-17.0
 United Kingdom,London,city,2020-03-01,5.0
 United Kingdom,London,city,2020-03-02,-1.0
 United Kingdom,London,city,2020-03-03,0.0
@@ -96807,9 +97529,14 @@ United Kingdom,London,city,2022-01-20,-4.0
 United Kingdom,London,city,2022-01-21,-6.0
 United Kingdom,London,city,2022-01-22,-5.0
 United Kingdom,London,city,2022-01-23,-7.000000000000001
-United Kingdom,London,city,2022-01-24,-6.0
+United Kingdom,London,city,2022-01-24,-5.0
 United Kingdom,London,city,2022-01-25,-4.0
 United Kingdom,London,city,2022-01-26,-4.0
+United Kingdom,London,city,2022-01-27,-4.0
+United Kingdom,London,city,2022-01-28,-2.0
+United Kingdom,London,city,2022-01-29,3.0
+United Kingdom,London,city,2022-01-30,0.0
+United Kingdom,London,city,2022-01-31,-2.0
 United Kingdom,Luton,city,2020-03-01,14.000000000000002
 United Kingdom,Luton,city,2020-03-02,-8.0
 United Kingdom,Luton,city,2020-03-03,-3.0
@@ -97496,9 +98223,14 @@ United Kingdom,Luton,city,2022-01-20,16.0
 United Kingdom,Luton,city,2022-01-21,22.0
 United Kingdom,Luton,city,2022-01-22,2.0
 United Kingdom,Luton,city,2022-01-23,-63.0
-United Kingdom,Luton,city,2022-01-24,-17.0
-United Kingdom,Luton,city,2022-01-25,33.0
-United Kingdom,Luton,city,2022-01-26,-19.0
+United Kingdom,Luton,city,2022-01-24,-27.0
+United Kingdom,Luton,city,2022-01-25,64.0
+United Kingdom,Luton,city,2022-01-26,-51.0
+United Kingdom,Luton,city,2022-01-27,-8.0
+United Kingdom,Luton,city,2022-01-28,27.0
+United Kingdom,Luton,city,2022-01-29,34.0
+United Kingdom,Luton,city,2022-01-30,20.0
+United Kingdom,Luton,city,2022-01-31,-34.0
 United Kingdom,Manchester,city,2020-03-01,9.0
 United Kingdom,Manchester,city,2020-03-02,0.0
 United Kingdom,Manchester,city,2020-03-03,2.0
@@ -98191,9 +98923,15 @@ United Kingdom,Manchester,city,2022-01-20,23.0
 United Kingdom,Manchester,city,2022-01-21,4.0
 United Kingdom,Manchester,city,2022-01-22,16.0
 United Kingdom,Manchester,city,2022-01-23,54.0
-United Kingdom,Manchester,city,2022-01-24,7.000000000000001
-United Kingdom,Manchester,city,2022-01-25,-7.000000000000001
-United Kingdom,Manchester,city,2022-01-26,2.0
+United Kingdom,Manchester,city,2022-01-24,2.0
+United Kingdom,Manchester,city,2022-01-25,-28.999999999999996
+United Kingdom,Manchester,city,2022-01-26,6.0
+United Kingdom,Manchester,city,2022-01-27,8.0
+United Kingdom,Manchester,city,2022-01-28,1.0
+United Kingdom,Manchester,city,2022-01-29,17.0
+United Kingdom,Manchester,city,2022-01-30,28.000000000000004
+United Kingdom,Manchester,city,2022-01-31,3.0
+United Kingdom,Manchester,city,2022-02-02,-98.0
 United Kingdom,Total,country,2020-03-01,2.0
 United Kingdom,Total,country,2020-03-02,-3.0
 United Kingdom,Total,country,2020-03-03,-1.0
@@ -98889,6 +99627,11 @@ United Kingdom,Total,country,2022-01-23,6.0
 United Kingdom,Total,country,2022-01-24,-1.0
 United Kingdom,Total,country,2022-01-25,1.0
 United Kingdom,Total,country,2022-01-26,1.0
+United Kingdom,Total,country,2022-01-27,1.0
+United Kingdom,Total,country,2022-01-28,7.000000000000001
+United Kingdom,Total,country,2022-01-29,16.0
+United Kingdom,Total,country,2022-01-30,14.000000000000002
+United Kingdom,Total,country,2022-01-31,2.0
 United States,Atlanta,city,2020-03-01,5.0
 United States,Atlanta,city,2020-03-02,2.0
 United States,Atlanta,city,2020-03-03,-6.0
@@ -99582,9 +100325,14 @@ United States,Atlanta,city,2022-01-20,-33.0
 United States,Atlanta,city,2022-01-21,-35.0
 United States,Atlanta,city,2022-01-22,-33.0
 United States,Atlanta,city,2022-01-23,-28.000000000000004
-United States,Atlanta,city,2022-01-24,-31.0
-United States,Atlanta,city,2022-01-25,-31.0
-United States,Atlanta,city,2022-01-26,-30.0
+United States,Atlanta,city,2022-01-24,-23.0
+United States,Atlanta,city,2022-01-25,-28.000000000000004
+United States,Atlanta,city,2022-01-26,-28.999999999999996
+United States,Atlanta,city,2022-01-27,-28.999999999999996
+United States,Atlanta,city,2022-01-28,-31.0
+United States,Atlanta,city,2022-01-29,-27.0
+United States,Atlanta,city,2022-01-30,-24.0
+United States,Atlanta,city,2022-01-31,-31.0
 United States,Austin,city,2020-03-01,-1.0
 United States,Austin,city,2020-03-02,3.0
 United States,Austin,city,2020-03-03,1.0
@@ -100278,9 +101026,15 @@ United States,Austin,city,2022-01-20,-54.0
 United States,Austin,city,2022-01-21,-52.0
 United States,Austin,city,2022-01-22,-43.0
 United States,Austin,city,2022-01-23,-41.0
-United States,Austin,city,2022-01-24,-46.0
-United States,Austin,city,2022-01-25,-49.0
+United States,Austin,city,2022-01-24,-48.0
+United States,Austin,city,2022-01-25,-45.0
 United States,Austin,city,2022-01-26,-44.0
+United States,Austin,city,2022-01-27,-47.0
+United States,Austin,city,2022-01-28,-47.0
+United States,Austin,city,2022-01-29,-38.0
+United States,Austin,city,2022-01-30,-28.000000000000004
+United States,Austin,city,2022-01-31,-43.0
+United States,Austin,city,2022-02-01,-97.0
 United States,Baltimore,city,2020-03-01,1.0
 United States,Baltimore,city,2020-03-02,2.0
 United States,Baltimore,city,2020-03-03,0.0
@@ -100973,9 +101727,14 @@ United States,Baltimore,city,2022-01-20,-44.0
 United States,Baltimore,city,2022-01-21,-28.999999999999996
 United States,Baltimore,city,2022-01-22,-27.0
 United States,Baltimore,city,2022-01-23,-15.0
-United States,Baltimore,city,2022-01-24,-22.0
-United States,Baltimore,city,2022-01-25,-33.0
-United States,Baltimore,city,2022-01-26,-31.0
+United States,Baltimore,city,2022-01-24,-34.0
+United States,Baltimore,city,2022-01-25,-32.0
+United States,Baltimore,city,2022-01-26,-30.0
+United States,Baltimore,city,2022-01-27,-26.0
+United States,Baltimore,city,2022-01-28,-28.000000000000004
+United States,Baltimore,city,2022-01-29,-46.0
+United States,Baltimore,city,2022-01-30,-28.999999999999996
+United States,Baltimore,city,2022-01-31,-25.0
 United States,Boston,city,2020-03-01,9.0
 United States,Boston,city,2020-03-02,8.0
 United States,Boston,city,2020-03-03,-4.0
@@ -101669,9 +102428,14 @@ United States,Boston,city,2022-01-20,-35.0
 United States,Boston,city,2022-01-21,-31.0
 United States,Boston,city,2022-01-22,-28.999999999999996
 United States,Boston,city,2022-01-23,-23.0
-United States,Boston,city,2022-01-24,-25.0
+United States,Boston,city,2022-01-24,-28.000000000000004
 United States,Boston,city,2022-01-25,-32.0
 United States,Boston,city,2022-01-26,-31.0
+United States,Boston,city,2022-01-27,-30.0
+United States,Boston,city,2022-01-28,-28.000000000000004
+United States,Boston,city,2022-01-29,-76.0
+United States,Boston,city,2022-01-30,-61.0
+United States,Boston,city,2022-01-31,-31.0
 United States,Cambridge,city,2020-03-01,20.0
 United States,Cambridge,city,2020-03-02,3.0
 United States,Cambridge,city,2020-03-03,14.000000000000002
@@ -102361,9 +103125,14 @@ United States,Cambridge,city,2022-01-20,-41.0
 United States,Cambridge,city,2022-01-21,-23.0
 United States,Cambridge,city,2022-01-22,-34.0
 United States,Cambridge,city,2022-01-23,-16.0
-United States,Cambridge,city,2022-01-24,-34.0
-United States,Cambridge,city,2022-01-25,-6.0
-United States,Cambridge,city,2022-01-26,-44.0
+United States,Cambridge,city,2022-01-24,-28.000000000000004
+United States,Cambridge,city,2022-01-25,-34.0
+United States,Cambridge,city,2022-01-26,-38.0
+United States,Cambridge,city,2022-01-27,-50.0
+United States,Cambridge,city,2022-01-28,-12.0
+United States,Cambridge,city,2022-01-29,-97.0
+United States,Cambridge,city,2022-01-30,-51.0
+United States,Cambridge,city,2022-01-31,-35.0
 United States,Charlotte,city,2020-03-01,19.0
 United States,Charlotte,city,2020-03-02,6.0
 United States,Charlotte,city,2020-03-03,-3.0
@@ -103057,9 +103826,14 @@ United States,Charlotte,city,2022-01-20,-27.0
 United States,Charlotte,city,2022-01-21,-36.0
 United States,Charlotte,city,2022-01-22,-48.0
 United States,Charlotte,city,2022-01-23,-26.0
-United States,Charlotte,city,2022-01-24,-32.0
-United States,Charlotte,city,2022-01-25,-23.0
-United States,Charlotte,city,2022-01-26,-33.0
+United States,Charlotte,city,2022-01-24,-33.0
+United States,Charlotte,city,2022-01-25,-28.000000000000004
+United States,Charlotte,city,2022-01-26,-32.0
+United States,Charlotte,city,2022-01-27,-23.0
+United States,Charlotte,city,2022-01-28,-14.000000000000002
+United States,Charlotte,city,2022-01-29,-31.0
+United States,Charlotte,city,2022-01-30,-15.0
+United States,Charlotte,city,2022-01-31,-30.0
 United States,Chicago,city,2020-03-01,2.0
 United States,Chicago,city,2020-03-02,-2.0
 United States,Chicago,city,2020-03-03,-1.0
@@ -103752,9 +104526,15 @@ United States,Chicago,city,2022-01-20,-31.0
 United States,Chicago,city,2022-01-21,-33.0
 United States,Chicago,city,2022-01-22,-32.0
 United States,Chicago,city,2022-01-23,-34.0
-United States,Chicago,city,2022-01-24,-34.0
+United States,Chicago,city,2022-01-24,-35.0
 United States,Chicago,city,2022-01-25,-34.0
-United States,Chicago,city,2022-01-26,-35.0
+United States,Chicago,city,2022-01-26,-33.0
+United States,Chicago,city,2022-01-27,-30.0
+United States,Chicago,city,2022-01-28,-38.0
+United States,Chicago,city,2022-01-29,-32.0
+United States,Chicago,city,2022-01-30,-30.0
+United States,Chicago,city,2022-01-31,-28.000000000000004
+United States,Chicago,city,2022-02-01,-98.0
 United States,Cincinnati,city,2020-03-01,5.0
 United States,Cincinnati,city,2020-03-02,6.0
 United States,Cincinnati,city,2020-03-03,-1.0
@@ -104447,9 +105227,15 @@ United States,Cincinnati,city,2022-01-20,-36.0
 United States,Cincinnati,city,2022-01-21,-41.0
 United States,Cincinnati,city,2022-01-22,-23.0
 United States,Cincinnati,city,2022-01-23,-16.0
-United States,Cincinnati,city,2022-01-24,-7.000000000000001
-United States,Cincinnati,city,2022-01-25,-32.0
-United States,Cincinnati,city,2022-01-26,-34.0
+United States,Cincinnati,city,2022-01-24,-33.0
+United States,Cincinnati,city,2022-01-25,-33.0
+United States,Cincinnati,city,2022-01-26,-28.999999999999996
+United States,Cincinnati,city,2022-01-27,-39.0
+United States,Cincinnati,city,2022-01-28,-30.0
+United States,Cincinnati,city,2022-01-29,-30.0
+United States,Cincinnati,city,2022-01-30,-21.0
+United States,Cincinnati,city,2022-01-31,-22.0
+United States,Cincinnati,city,2022-02-02,-77.0
 United States,Dallas,city,2020-03-01,10.0
 United States,Dallas,city,2020-03-02,4.0
 United States,Dallas,city,2020-03-03,-2.0
@@ -105143,8 +105929,13 @@ United States,Dallas,city,2022-01-21,-38.0
 United States,Dallas,city,2022-01-22,-30.0
 United States,Dallas,city,2022-01-23,-26.0
 United States,Dallas,city,2022-01-24,-34.0
-United States,Dallas,city,2022-01-25,-36.0
-United States,Dallas,city,2022-01-26,-37.0
+United States,Dallas,city,2022-01-25,-30.0
+United States,Dallas,city,2022-01-26,-38.0
+United States,Dallas,city,2022-01-27,-33.0
+United States,Dallas,city,2022-01-28,-33.0
+United States,Dallas,city,2022-01-29,-18.0
+United States,Dallas,city,2022-01-30,-19.0
+United States,Dallas,city,2022-01-31,-27.0
 United States,Denver,city,2020-03-01,8.0
 United States,Denver,city,2020-03-02,3.0
 United States,Denver,city,2020-03-03,-5.0
@@ -105838,9 +106629,14 @@ United States,Denver,city,2022-01-20,-53.0
 United States,Denver,city,2022-01-21,-46.0
 United States,Denver,city,2022-01-22,-43.0
 United States,Denver,city,2022-01-23,-27.0
-United States,Denver,city,2022-01-24,-35.0
-United States,Denver,city,2022-01-25,-50.0
-United States,Denver,city,2022-01-26,-47.0
+United States,Denver,city,2022-01-24,-39.0
+United States,Denver,city,2022-01-25,-51.0
+United States,Denver,city,2022-01-26,-49.0
+United States,Denver,city,2022-01-27,-44.0
+United States,Denver,city,2022-01-28,-48.0
+United States,Denver,city,2022-01-29,-33.0
+United States,Denver,city,2022-01-30,-27.0
+United States,Denver,city,2022-01-31,-31.0
 United States,Detroit,city,2020-03-01,10.0
 United States,Detroit,city,2020-03-02,19.0
 United States,Detroit,city,2020-03-03,6.0
@@ -106534,9 +107330,15 @@ United States,Detroit,city,2022-01-20,-32.0
 United States,Detroit,city,2022-01-21,-35.0
 United States,Detroit,city,2022-01-22,-51.0
 United States,Detroit,city,2022-01-23,-38.0
-United States,Detroit,city,2022-01-24,-48.0
-United States,Detroit,city,2022-01-25,-43.0
-United States,Detroit,city,2022-01-26,-36.0
+United States,Detroit,city,2022-01-24,-37.0
+United States,Detroit,city,2022-01-25,-41.0
+United States,Detroit,city,2022-01-26,-27.0
+United States,Detroit,city,2022-01-27,-30.0
+United States,Detroit,city,2022-01-28,-42.0
+United States,Detroit,city,2022-01-29,-46.0
+United States,Detroit,city,2022-01-30,-36.0
+United States,Detroit,city,2022-01-31,-41.0
+United States,Detroit,city,2022-02-01,-82.0
 United States,Fort Lauderdale,city,2020-03-01,-9.0
 United States,Fort Lauderdale,city,2020-03-02,0.0
 United States,Fort Lauderdale,city,2020-03-03,0.0
@@ -107229,9 +108031,14 @@ United States,Fort Lauderdale,city,2022-01-20,-12.0
 United States,Fort Lauderdale,city,2022-01-21,-16.0
 United States,Fort Lauderdale,city,2022-01-22,30.0
 United States,Fort Lauderdale,city,2022-01-23,-4.0
-United States,Fort Lauderdale,city,2022-01-24,-18.0
-United States,Fort Lauderdale,city,2022-01-25,-24.0
-United States,Fort Lauderdale,city,2022-01-26,-25.0
+United States,Fort Lauderdale,city,2022-01-24,17.0
+United States,Fort Lauderdale,city,2022-01-25,-28.999999999999996
+United States,Fort Lauderdale,city,2022-01-26,-26.0
+United States,Fort Lauderdale,city,2022-01-27,-24.0
+United States,Fort Lauderdale,city,2022-01-28,-33.0
+United States,Fort Lauderdale,city,2022-01-29,-18.0
+United States,Fort Lauderdale,city,2022-01-30,-21.0
+United States,Fort Lauderdale,city,2022-01-31,-24.0
 United States,Fort Worth,city,2020-03-01,6.0
 United States,Fort Worth,city,2020-03-02,4.0
 United States,Fort Worth,city,2020-03-03,-1.0
@@ -107925,9 +108732,15 @@ United States,Fort Worth,city,2022-01-20,-20.0
 United States,Fort Worth,city,2022-01-21,-18.0
 United States,Fort Worth,city,2022-01-22,-17.0
 United States,Fort Worth,city,2022-01-23,-18.0
-United States,Fort Worth,city,2022-01-24,-14.000000000000002
-United States,Fort Worth,city,2022-01-25,-20.0
+United States,Fort Worth,city,2022-01-24,-21.0
+United States,Fort Worth,city,2022-01-25,-13.0
 United States,Fort Worth,city,2022-01-26,-17.0
+United States,Fort Worth,city,2022-01-27,-17.0
+United States,Fort Worth,city,2022-01-28,-6.0
+United States,Fort Worth,city,2022-01-29,-8.0
+United States,Fort Worth,city,2022-01-30,-11.0
+United States,Fort Worth,city,2022-01-31,-15.0
+United States,Fort Worth,city,2022-02-02,-99.0
 United States,Hartford,city,2020-03-01,-13.0
 United States,Hartford,city,2020-03-02,15.0
 United States,Hartford,city,2020-03-03,-3.0
@@ -108613,9 +109426,14 @@ United States,Hartford,city,2022-01-20,-44.0
 United States,Hartford,city,2022-01-21,-16.0
 United States,Hartford,city,2022-01-22,-16.0
 United States,Hartford,city,2022-01-23,-7.000000000000001
-United States,Hartford,city,2022-01-24,-6.0
-United States,Hartford,city,2022-01-25,-89.0
-United States,Hartford,city,2022-01-26,-43.0
+United States,Hartford,city,2022-01-24,-44.0
+United States,Hartford,city,2022-01-25,-72.0
+United States,Hartford,city,2022-01-26,-44.0
+United States,Hartford,city,2022-01-27,-32.0
+United States,Hartford,city,2022-01-28,-39.0
+United States,Hartford,city,2022-01-29,-50.0
+United States,Hartford,city,2022-01-30,-63.0
+United States,Hartford,city,2022-01-31,-38.0
 United States,Houston,city,2020-03-01,6.0
 United States,Houston,city,2020-03-02,1.0
 United States,Houston,city,2020-03-03,2.0
@@ -109308,9 +110126,14 @@ United States,Houston,city,2022-01-20,-37.0
 United States,Houston,city,2022-01-21,-37.0
 United States,Houston,city,2022-01-22,-28.000000000000004
 United States,Houston,city,2022-01-23,-28.999999999999996
-United States,Houston,city,2022-01-24,-35.0
+United States,Houston,city,2022-01-24,-34.0
 United States,Houston,city,2022-01-25,-35.0
-United States,Houston,city,2022-01-26,-34.0
+United States,Houston,city,2022-01-26,-32.0
+United States,Houston,city,2022-01-27,-32.0
+United States,Houston,city,2022-01-28,-30.0
+United States,Houston,city,2022-01-29,-20.0
+United States,Houston,city,2022-01-30,-19.0
+United States,Houston,city,2022-01-31,-31.0
 United States,Irvine,city,2020-03-01,0.0
 United States,Irvine,city,2020-03-02,5.0
 United States,Irvine,city,2020-03-03,-7.000000000000001
@@ -110003,9 +110826,15 @@ United States,Irvine,city,2022-01-20,-50.0
 United States,Irvine,city,2022-01-21,-49.0
 United States,Irvine,city,2022-01-22,-35.0
 United States,Irvine,city,2022-01-23,-35.0
-United States,Irvine,city,2022-01-24,-42.0
+United States,Irvine,city,2022-01-24,-71.0
 United States,Irvine,city,2022-01-25,-50.0
-United States,Irvine,city,2022-01-26,-48.0
+United States,Irvine,city,2022-01-26,-49.0
+United States,Irvine,city,2022-01-27,-54.0
+United States,Irvine,city,2022-01-28,-42.0
+United States,Irvine,city,2022-01-29,-32.0
+United States,Irvine,city,2022-01-30,-44.0
+United States,Irvine,city,2022-01-31,-38.0
+United States,Irvine,city,2022-02-02,-83.0
 United States,Jersey City,city,2020-03-01,5.0
 United States,Jersey City,city,2020-03-02,-4.0
 United States,Jersey City,city,2020-03-03,-6.0
@@ -110697,9 +111526,15 @@ United States,Jersey City,city,2022-01-20,-40.0
 United States,Jersey City,city,2022-01-21,-19.0
 United States,Jersey City,city,2022-01-22,-14.000000000000002
 United States,Jersey City,city,2022-01-23,-20.0
-United States,Jersey City,city,2022-01-24,-14.000000000000002
-United States,Jersey City,city,2022-01-25,-17.0
+United States,Jersey City,city,2022-01-24,-24.0
+United States,Jersey City,city,2022-01-25,-7.000000000000001
 United States,Jersey City,city,2022-01-26,-21.0
+United States,Jersey City,city,2022-01-27,-18.0
+United States,Jersey City,city,2022-01-28,-24.0
+United States,Jersey City,city,2022-01-29,-52.0
+United States,Jersey City,city,2022-01-30,-53.0
+United States,Jersey City,city,2022-01-31,-9.0
+United States,Jersey City,city,2022-02-01,-96.0
 United States,Los Angeles,city,2020-03-01,4.0
 United States,Los Angeles,city,2020-03-02,2.0
 United States,Los Angeles,city,2020-03-03,-4.0
@@ -111393,8 +112228,13 @@ United States,Los Angeles,city,2022-01-21,-43.0
 United States,Los Angeles,city,2022-01-22,-39.0
 United States,Los Angeles,city,2022-01-23,-38.0
 United States,Los Angeles,city,2022-01-24,-37.0
-United States,Los Angeles,city,2022-01-25,-44.0
-United States,Los Angeles,city,2022-01-26,-43.0
+United States,Los Angeles,city,2022-01-25,-45.0
+United States,Los Angeles,city,2022-01-26,-42.0
+United States,Los Angeles,city,2022-01-27,-44.0
+United States,Los Angeles,city,2022-01-28,-42.0
+United States,Los Angeles,city,2022-01-29,-38.0
+United States,Los Angeles,city,2022-01-30,-33.0
+United States,Los Angeles,city,2022-01-31,-36.0
 United States,Miami,city,2020-03-01,-3.0
 United States,Miami,city,2020-03-02,7.000000000000001
 United States,Miami,city,2020-03-03,-5.0
@@ -112087,9 +112927,14 @@ United States,Miami,city,2022-01-20,-31.0
 United States,Miami,city,2022-01-21,-24.0
 United States,Miami,city,2022-01-22,-31.0
 United States,Miami,city,2022-01-23,-24.0
-United States,Miami,city,2022-01-24,-22.0
-United States,Miami,city,2022-01-25,-30.0
-United States,Miami,city,2022-01-26,-31.0
+United States,Miami,city,2022-01-24,-19.0
+United States,Miami,city,2022-01-25,-27.0
+United States,Miami,city,2022-01-26,-27.0
+United States,Miami,city,2022-01-27,-23.0
+United States,Miami,city,2022-01-28,-28.999999999999996
+United States,Miami,city,2022-01-29,-22.0
+United States,Miami,city,2022-01-30,-21.0
+United States,Miami,city,2022-01-31,-20.0
 United States,Miami Beach,city,2020-03-01,0.0
 United States,Miami Beach,city,2020-03-02,-13.0
 United States,Miami Beach,city,2020-03-03,-11.0
@@ -112777,9 +113622,15 @@ United States,Miami Beach,city,2022-01-20,-5.0
 United States,Miami Beach,city,2022-01-21,-9.0
 United States,Miami Beach,city,2022-01-22,-39.0
 United States,Miami Beach,city,2022-01-23,-17.0
-United States,Miami Beach,city,2022-01-24,-17.0
-United States,Miami Beach,city,2022-01-25,0.0
-United States,Miami Beach,city,2022-01-26,8.0
+United States,Miami Beach,city,2022-01-24,-41.0
+United States,Miami Beach,city,2022-01-25,-3.0
+United States,Miami Beach,city,2022-01-26,-22.0
+United States,Miami Beach,city,2022-01-27,-7.000000000000001
+United States,Miami Beach,city,2022-01-28,-23.0
+United States,Miami Beach,city,2022-01-29,-31.0
+United States,Miami Beach,city,2022-01-30,-6.0
+United States,Miami Beach,city,2022-01-31,-28.999999999999996
+United States,Miami Beach,city,2022-02-01,-85.0
 United States,Minneapolis,city,2020-03-01,26.0
 United States,Minneapolis,city,2020-03-02,-9.0
 United States,Minneapolis,city,2020-03-03,-11.0
@@ -113467,9 +114318,14 @@ United States,Minneapolis,city,2022-01-20,-59.0
 United States,Minneapolis,city,2022-01-21,-47.0
 United States,Minneapolis,city,2022-01-22,-59.0
 United States,Minneapolis,city,2022-01-23,-23.0
-United States,Minneapolis,city,2022-01-24,-42.0
-United States,Minneapolis,city,2022-01-25,-11.0
-United States,Minneapolis,city,2022-01-26,-91.0
+United States,Minneapolis,city,2022-01-24,-86.0
+United States,Minneapolis,city,2022-01-25,-73.0
+United States,Minneapolis,city,2022-01-26,-66.0
+United States,Minneapolis,city,2022-01-27,-55.00000000000001
+United States,Minneapolis,city,2022-01-28,-34.0
+United States,Minneapolis,city,2022-01-29,-72.0
+United States,Minneapolis,city,2022-01-30,-55.00000000000001
+United States,Minneapolis,city,2022-01-31,-84.0
 United States,Nashville,city,2020-03-01,7.000000000000001
 United States,Nashville,city,2020-03-02,4.0
 United States,Nashville,city,2020-03-03,-7.000000000000001
@@ -114162,9 +115018,15 @@ United States,Nashville,city,2022-01-20,-35.0
 United States,Nashville,city,2022-01-21,-23.0
 United States,Nashville,city,2022-01-22,6.0
 United States,Nashville,city,2022-01-23,-22.0
-United States,Nashville,city,2022-01-24,-28.999999999999996
-United States,Nashville,city,2022-01-25,-30.0
-United States,Nashville,city,2022-01-26,-28.000000000000004
+United States,Nashville,city,2022-01-24,-24.0
+United States,Nashville,city,2022-01-25,-28.000000000000004
+United States,Nashville,city,2022-01-26,-30.0
+United States,Nashville,city,2022-01-27,-22.0
+United States,Nashville,city,2022-01-28,-20.0
+United States,Nashville,city,2022-01-29,-21.0
+United States,Nashville,city,2022-01-30,-15.0
+United States,Nashville,city,2022-01-31,-22.0
+United States,Nashville,city,2022-02-01,-98.0
 United States,New Orleans,city,2020-03-01,-25.0
 United States,New Orleans,city,2020-03-02,-13.0
 United States,New Orleans,city,2020-03-03,-24.0
@@ -114856,9 +115718,16 @@ United States,New Orleans,city,2022-01-20,-32.0
 United States,New Orleans,city,2022-01-21,-56.99999999999999
 United States,New Orleans,city,2022-01-22,-66.0
 United States,New Orleans,city,2022-01-23,-57.99999999999999
-United States,New Orleans,city,2022-01-24,-31.0
-United States,New Orleans,city,2022-01-25,-24.0
-United States,New Orleans,city,2022-01-26,-36.0
+United States,New Orleans,city,2022-01-24,-33.0
+United States,New Orleans,city,2022-01-25,-18.0
+United States,New Orleans,city,2022-01-26,-26.0
+United States,New Orleans,city,2022-01-27,-38.0
+United States,New Orleans,city,2022-01-28,-47.0
+United States,New Orleans,city,2022-01-29,-56.99999999999999
+United States,New Orleans,city,2022-01-30,-44.0
+United States,New Orleans,city,2022-01-31,-48.0
+United States,New Orleans,city,2022-02-01,-97.0
+United States,New Orleans,city,2022-02-02,-89.0
 United States,New York,city,2020-03-01,4.0
 United States,New York,city,2020-03-02,4.0
 United States,New York,city,2020-03-03,-1.0
@@ -115552,8 +116421,13 @@ United States,New York,city,2022-01-21,-10.0
 United States,New York,city,2022-01-22,-11.0
 United States,New York,city,2022-01-23,-9.0
 United States,New York,city,2022-01-24,-3.0
-United States,New York,city,2022-01-25,-8.0
+United States,New York,city,2022-01-25,-7.000000000000001
 United States,New York,city,2022-01-26,-3.0
+United States,New York,city,2022-01-27,-4.0
+United States,New York,city,2022-01-28,-3.0
+United States,New York,city,2022-01-29,-57.99999999999999
+United States,New York,city,2022-01-30,-44.0
+United States,New York,city,2022-01-31,-8.0
 United States,Oakland,city,2020-03-01,-11.0
 United States,Oakland,city,2020-03-02,11.0
 United States,Oakland,city,2020-03-03,-9.0
@@ -116246,9 +117120,14 @@ United States,Oakland,city,2022-01-20,-53.0
 United States,Oakland,city,2022-01-21,-43.0
 United States,Oakland,city,2022-01-22,-53.0
 United States,Oakland,city,2022-01-23,-42.0
-United States,Oakland,city,2022-01-24,-34.0
-United States,Oakland,city,2022-01-25,-37.0
-United States,Oakland,city,2022-01-26,-42.0
+United States,Oakland,city,2022-01-24,-53.0
+United States,Oakland,city,2022-01-25,-41.0
+United States,Oakland,city,2022-01-26,-44.0
+United States,Oakland,city,2022-01-27,-36.0
+United States,Oakland,city,2022-01-28,-49.0
+United States,Oakland,city,2022-01-29,-38.0
+United States,Oakland,city,2022-01-30,-46.0
+United States,Oakland,city,2022-01-31,-27.0
 United States,Orlando,city,2020-03-01,-1.0
 United States,Orlando,city,2020-03-02,0.0
 United States,Orlando,city,2020-03-03,-4.0
@@ -116942,8 +117821,13 @@ United States,Orlando,city,2022-01-21,-17.0
 United States,Orlando,city,2022-01-22,-16.0
 United States,Orlando,city,2022-01-23,-16.0
 United States,Orlando,city,2022-01-24,-19.0
-United States,Orlando,city,2022-01-25,-27.0
-United States,Orlando,city,2022-01-26,-12.0
+United States,Orlando,city,2022-01-25,-24.0
+United States,Orlando,city,2022-01-26,-21.0
+United States,Orlando,city,2022-01-27,-25.0
+United States,Orlando,city,2022-01-28,-21.0
+United States,Orlando,city,2022-01-29,-15.0
+United States,Orlando,city,2022-01-30,-22.0
+United States,Orlando,city,2022-01-31,-23.0
 United States,Philadelphia,city,2020-03-01,-1.0
 United States,Philadelphia,city,2020-03-02,0.0
 United States,Philadelphia,city,2020-03-03,-2.0
@@ -117637,9 +118521,14 @@ United States,Philadelphia,city,2022-01-20,-26.0
 United States,Philadelphia,city,2022-01-21,-26.0
 United States,Philadelphia,city,2022-01-22,-30.0
 United States,Philadelphia,city,2022-01-23,-30.0
-United States,Philadelphia,city,2022-01-24,-21.0
-United States,Philadelphia,city,2022-01-25,-26.0
-United States,Philadelphia,city,2022-01-26,-22.0
+United States,Philadelphia,city,2022-01-24,-19.0
+United States,Philadelphia,city,2022-01-25,-27.0
+United States,Philadelphia,city,2022-01-26,-24.0
+United States,Philadelphia,city,2022-01-27,-21.0
+United States,Philadelphia,city,2022-01-28,-26.0
+United States,Philadelphia,city,2022-01-29,-66.0
+United States,Philadelphia,city,2022-01-30,-48.0
+United States,Philadelphia,city,2022-01-31,-27.0
 United States,Phoenix,city,2020-03-01,11.0
 United States,Phoenix,city,2020-03-02,7.000000000000001
 United States,Phoenix,city,2020-03-03,1.0
@@ -118332,9 +119221,15 @@ United States,Phoenix,city,2022-01-20,-35.0
 United States,Phoenix,city,2022-01-21,-33.0
 United States,Phoenix,city,2022-01-22,-16.0
 United States,Phoenix,city,2022-01-23,-24.0
-United States,Phoenix,city,2022-01-24,-28.000000000000004
-United States,Phoenix,city,2022-01-25,-33.0
-United States,Phoenix,city,2022-01-26,-22.0
+United States,Phoenix,city,2022-01-24,-19.0
+United States,Phoenix,city,2022-01-25,-34.0
+United States,Phoenix,city,2022-01-26,-31.0
+United States,Phoenix,city,2022-01-27,-44.0
+United States,Phoenix,city,2022-01-28,-23.0
+United States,Phoenix,city,2022-01-29,-19.0
+United States,Phoenix,city,2022-01-30,-12.0
+United States,Phoenix,city,2022-01-31,-24.0
+United States,Phoenix,city,2022-02-02,-97.0
 United States,Pittsburgh,city,2020-03-01,-4.0
 United States,Pittsburgh,city,2020-03-02,-7.000000000000001
 United States,Pittsburgh,city,2020-03-03,-12.0
@@ -119027,9 +119922,14 @@ United States,Pittsburgh,city,2022-01-20,-43.0
 United States,Pittsburgh,city,2022-01-21,-42.0
 United States,Pittsburgh,city,2022-01-22,-33.0
 United States,Pittsburgh,city,2022-01-23,-34.0
-United States,Pittsburgh,city,2022-01-24,-37.0
-United States,Pittsburgh,city,2022-01-25,-37.0
-United States,Pittsburgh,city,2022-01-26,-30.0
+United States,Pittsburgh,city,2022-01-24,-49.0
+United States,Pittsburgh,city,2022-01-25,-44.0
+United States,Pittsburgh,city,2022-01-26,-39.0
+United States,Pittsburgh,city,2022-01-27,-30.0
+United States,Pittsburgh,city,2022-01-28,-33.0
+United States,Pittsburgh,city,2022-01-29,-41.0
+United States,Pittsburgh,city,2022-01-30,-30.0
+United States,Pittsburgh,city,2022-01-31,-43.0
 United States,Portland,city,2020-03-01,-3.0
 United States,Portland,city,2020-03-02,0.0
 United States,Portland,city,2020-03-03,-5.0
@@ -119722,9 +120622,15 @@ United States,Portland,city,2022-01-20,-34.0
 United States,Portland,city,2022-01-21,-42.0
 United States,Portland,city,2022-01-22,-32.0
 United States,Portland,city,2022-01-23,-35.0
-United States,Portland,city,2022-01-24,-44.0
-United States,Portland,city,2022-01-25,-42.0
-United States,Portland,city,2022-01-26,-35.0
+United States,Portland,city,2022-01-24,-35.0
+United States,Portland,city,2022-01-25,-39.0
+United States,Portland,city,2022-01-26,-42.0
+United States,Portland,city,2022-01-27,-39.0
+United States,Portland,city,2022-01-28,-30.0
+United States,Portland,city,2022-01-29,-42.0
+United States,Portland,city,2022-01-30,-41.0
+United States,Portland,city,2022-01-31,-45.0
+United States,Portland,city,2022-02-01,-97.0
 United States,Raleigh,city,2020-03-01,-5.0
 United States,Raleigh,city,2020-03-02,-5.0
 United States,Raleigh,city,2020-03-03,-1.0
@@ -120418,9 +121324,14 @@ United States,Raleigh,city,2022-01-20,-26.0
 United States,Raleigh,city,2022-01-21,-49.0
 United States,Raleigh,city,2022-01-22,-86.0
 United States,Raleigh,city,2022-01-23,-47.0
-United States,Raleigh,city,2022-01-24,-34.0
-United States,Raleigh,city,2022-01-25,-23.0
-United States,Raleigh,city,2022-01-26,-17.0
+United States,Raleigh,city,2022-01-24,-36.0
+United States,Raleigh,city,2022-01-25,-26.0
+United States,Raleigh,city,2022-01-26,-21.0
+United States,Raleigh,city,2022-01-27,-7.000000000000001
+United States,Raleigh,city,2022-01-28,-6.0
+United States,Raleigh,city,2022-01-29,-16.0
+United States,Raleigh,city,2022-01-30,-28.999999999999996
+United States,Raleigh,city,2022-01-31,-33.0
 United States,Sacramento,city,2020-03-01,-4.0
 United States,Sacramento,city,2020-03-02,16.0
 United States,Sacramento,city,2020-03-03,-5.0
@@ -121114,9 +122025,16 @@ United States,Sacramento,city,2022-01-20,-49.0
 United States,Sacramento,city,2022-01-21,-33.0
 United States,Sacramento,city,2022-01-22,-37.0
 United States,Sacramento,city,2022-01-23,-38.0
-United States,Sacramento,city,2022-01-24,-43.0
-United States,Sacramento,city,2022-01-25,-42.0
-United States,Sacramento,city,2022-01-26,-45.0
+United States,Sacramento,city,2022-01-24,-49.0
+United States,Sacramento,city,2022-01-25,-43.0
+United States,Sacramento,city,2022-01-26,-38.0
+United States,Sacramento,city,2022-01-27,-56.00000000000001
+United States,Sacramento,city,2022-01-28,-65.0
+United States,Sacramento,city,2022-01-29,-31.0
+United States,Sacramento,city,2022-01-30,-28.999999999999996
+United States,Sacramento,city,2022-01-31,-35.0
+United States,Sacramento,city,2022-02-01,-99.0
+United States,Sacramento,city,2022-02-02,-87.0
 United States,San Antonio,city,2020-03-01,2.0
 United States,San Antonio,city,2020-03-02,7.000000000000001
 United States,San Antonio,city,2020-03-03,0.0
@@ -121810,8 +122728,14 @@ United States,San Antonio,city,2022-01-21,-46.0
 United States,San Antonio,city,2022-01-22,-37.0
 United States,San Antonio,city,2022-01-23,-31.0
 United States,San Antonio,city,2022-01-24,-28.999999999999996
-United States,San Antonio,city,2022-01-25,-31.0
-United States,San Antonio,city,2022-01-26,-25.0
+United States,San Antonio,city,2022-01-25,-35.0
+United States,San Antonio,city,2022-01-26,-31.0
+United States,San Antonio,city,2022-01-27,-34.0
+United States,San Antonio,city,2022-01-28,-23.0
+United States,San Antonio,city,2022-01-29,-20.0
+United States,San Antonio,city,2022-01-30,-16.0
+United States,San Antonio,city,2022-01-31,-25.0
+United States,San Antonio,city,2022-02-01,-97.0
 United States,San Diego,city,2020-03-01,-3.0
 United States,San Diego,city,2020-03-02,5.0
 United States,San Diego,city,2020-03-03,-2.0
@@ -122504,9 +123428,14 @@ United States,San Diego,city,2022-01-20,-46.0
 United States,San Diego,city,2022-01-21,-46.0
 United States,San Diego,city,2022-01-22,-36.0
 United States,San Diego,city,2022-01-23,-27.0
-United States,San Diego,city,2022-01-24,-38.0
+United States,San Diego,city,2022-01-24,-37.0
 United States,San Diego,city,2022-01-25,-45.0
 United States,San Diego,city,2022-01-26,-46.0
+United States,San Diego,city,2022-01-27,-43.0
+United States,San Diego,city,2022-01-28,-43.0
+United States,San Diego,city,2022-01-29,-33.0
+United States,San Diego,city,2022-01-30,-34.0
+United States,San Diego,city,2022-01-31,-37.0
 United States,San Francisco,city,2020-03-01,-6.0
 United States,San Francisco,city,2020-03-02,8.0
 United States,San Francisco,city,2020-03-03,-7.000000000000001
@@ -123199,9 +124128,14 @@ United States,San Francisco,city,2022-01-20,-47.0
 United States,San Francisco,city,2022-01-21,-48.0
 United States,San Francisco,city,2022-01-22,-42.0
 United States,San Francisco,city,2022-01-23,-44.0
-United States,San Francisco,city,2022-01-24,-38.0
-United States,San Francisco,city,2022-01-25,-51.0
-United States,San Francisco,city,2022-01-26,-47.0
+United States,San Francisco,city,2022-01-24,-40.0
+United States,San Francisco,city,2022-01-25,-43.0
+United States,San Francisco,city,2022-01-26,-45.0
+United States,San Francisco,city,2022-01-27,-48.0
+United States,San Francisco,city,2022-01-28,-56.99999999999999
+United States,San Francisco,city,2022-01-29,-43.0
+United States,San Francisco,city,2022-01-30,-39.0
+United States,San Francisco,city,2022-01-31,-39.0
 United States,San Jose,city,2020-03-01,-2.0
 United States,San Jose,city,2020-03-02,8.0
 United States,San Jose,city,2020-03-03,-4.0
@@ -123894,9 +124828,14 @@ United States,San Jose,city,2022-01-20,-48.0
 United States,San Jose,city,2022-01-21,-53.0
 United States,San Jose,city,2022-01-22,-35.0
 United States,San Jose,city,2022-01-23,-39.0
-United States,San Jose,city,2022-01-24,-33.0
-United States,San Jose,city,2022-01-25,-49.0
+United States,San Jose,city,2022-01-24,-36.0
+United States,San Jose,city,2022-01-25,-50.0
 United States,San Jose,city,2022-01-26,-44.0
+United States,San Jose,city,2022-01-27,-40.0
+United States,San Jose,city,2022-01-28,-42.0
+United States,San Jose,city,2022-01-29,-38.0
+United States,San Jose,city,2022-01-30,-34.0
+United States,San Jose,city,2022-01-31,-34.0
 United States,Seattle,city,2020-03-01,9.0
 United States,Seattle,city,2020-03-02,6.0
 United States,Seattle,city,2020-03-03,-6.0
@@ -124589,9 +125528,14 @@ United States,Seattle,city,2022-01-20,-45.0
 United States,Seattle,city,2022-01-21,-42.0
 United States,Seattle,city,2022-01-22,-39.0
 United States,Seattle,city,2022-01-23,-31.0
-United States,Seattle,city,2022-01-24,-34.0
-United States,Seattle,city,2022-01-25,-63.0
-United States,Seattle,city,2022-01-26,-45.0
+United States,Seattle,city,2022-01-24,-35.0
+United States,Seattle,city,2022-01-25,-51.0
+United States,Seattle,city,2022-01-26,-47.0
+United States,Seattle,city,2022-01-27,-53.0
+United States,Seattle,city,2022-01-28,-31.0
+United States,Seattle,city,2022-01-29,-26.0
+United States,Seattle,city,2022-01-30,-39.0
+United States,Seattle,city,2022-01-31,-37.0
 United States,Stamford,city,2020-03-01,-9.0
 United States,Stamford,city,2020-03-02,7.000000000000001
 United States,Stamford,city,2020-03-03,-5.0
@@ -125284,9 +126228,15 @@ United States,Stamford,city,2022-01-20,-37.0
 United States,Stamford,city,2022-01-21,-26.0
 United States,Stamford,city,2022-01-22,-2.0
 United States,Stamford,city,2022-01-23,-31.0
-United States,Stamford,city,2022-01-24,-22.0
-United States,Stamford,city,2022-01-25,-23.0
-United States,Stamford,city,2022-01-26,-17.0
+United States,Stamford,city,2022-01-24,-21.0
+United States,Stamford,city,2022-01-25,-25.0
+United States,Stamford,city,2022-01-26,-7.000000000000001
+United States,Stamford,city,2022-01-27,-3.0
+United States,Stamford,city,2022-01-28,3.0
+United States,Stamford,city,2022-01-29,-81.0
+United States,Stamford,city,2022-01-30,-47.0
+United States,Stamford,city,2022-01-31,-14.000000000000002
+United States,Stamford,city,2022-02-02,-93.0
 United States,Tampa,city,2020-03-01,9.0
 United States,Tampa,city,2020-03-02,-5.0
 United States,Tampa,city,2020-03-03,4.0
@@ -125980,8 +126930,13 @@ United States,Tampa,city,2022-01-21,-31.0
 United States,Tampa,city,2022-01-22,-28.000000000000004
 United States,Tampa,city,2022-01-23,4.0
 United States,Tampa,city,2022-01-24,-33.0
-United States,Tampa,city,2022-01-25,-37.0
-United States,Tampa,city,2022-01-26,-25.0
+United States,Tampa,city,2022-01-25,-36.0
+United States,Tampa,city,2022-01-26,-32.0
+United States,Tampa,city,2022-01-27,-21.0
+United States,Tampa,city,2022-01-28,-16.0
+United States,Tampa,city,2022-01-29,-15.0
+United States,Tampa,city,2022-01-30,-12.0
+United States,Tampa,city,2022-01-31,-26.0
 United States,Total,country,2020-03-01,3.0
 United States,Total,country,2020-03-02,-2.0
 United States,Total,country,2020-03-03,-2.0
@@ -126677,6 +127632,11 @@ United States,Total,country,2022-01-23,-16.0
 United States,Total,country,2022-01-24,-20.0
 United States,Total,country,2022-01-25,-19.0
 United States,Total,country,2022-01-26,-16.0
+United States,Total,country,2022-01-27,-15.0
+United States,Total,country,2022-01-28,-15.0
+United States,Total,country,2022-01-29,-28.999999999999996
+United States,Total,country,2022-01-30,-21.0
+United States,Total,country,2022-01-31,-18.0
 United States,Washington,city,2020-03-01,0.0
 United States,Washington,city,2020-03-02,12.0
 United States,Washington,city,2020-03-03,-2.0
@@ -127369,9 +128329,14 @@ United States,Washington,city,2022-01-20,-39.0
 United States,Washington,city,2022-01-21,-35.0
 United States,Washington,city,2022-01-22,-35.0
 United States,Washington,city,2022-01-23,-30.0
-United States,Washington,city,2022-01-24,-28.999999999999996
-United States,Washington,city,2022-01-25,-37.0
-United States,Washington,city,2022-01-26,-33.0
+United States,Washington,city,2022-01-24,-25.0
+United States,Washington,city,2022-01-25,-36.0
+United States,Washington,city,2022-01-26,-32.0
+United States,Washington,city,2022-01-27,-31.0
+United States,Washington,city,2022-01-28,-35.0
+United States,Washington,city,2022-01-29,-49.0
+United States,Washington,city,2022-01-30,-32.0
+United States,Washington,city,2022-01-31,-27.0
 United States,Yonkers,city,2020-03-01,3.0
 United States,Yonkers,city,2020-03-02,-5.0
 United States,Yonkers,city,2020-03-03,-7.000000000000001
@@ -128064,9 +129029,14 @@ United States,Yonkers,city,2022-01-20,-8.0
 United States,Yonkers,city,2022-01-21,16.0
 United States,Yonkers,city,2022-01-22,-10.0
 United States,Yonkers,city,2022-01-23,2.0
-United States,Yonkers,city,2022-01-24,48.0
-United States,Yonkers,city,2022-01-25,-8.0
-United States,Yonkers,city,2022-01-26,-4.0
+United States,Yonkers,city,2022-01-24,2.0
+United States,Yonkers,city,2022-01-25,-39.0
+United States,Yonkers,city,2022-01-26,12.0
+United States,Yonkers,city,2022-01-27,-11.0
+United States,Yonkers,city,2022-01-28,10.0
+United States,Yonkers,city,2022-01-29,-60.0
+United States,Yonkers,city,2022-01-30,-31.0
+United States,Yonkers,city,2022-01-31,-19.0
 Uruguay,Montevideo,city,2020-03-01,13.0
 Uruguay,Montevideo,city,2020-03-02,16.0
 Uruguay,Montevideo,city,2020-03-03,3.0
@@ -128759,9 +129729,14 @@ Uruguay,Montevideo,city,2022-01-20,-2.0
 Uruguay,Montevideo,city,2022-01-21,9.0
 Uruguay,Montevideo,city,2022-01-22,-9.0
 Uruguay,Montevideo,city,2022-01-23,17.0
-Uruguay,Montevideo,city,2022-01-24,32.0
-Uruguay,Montevideo,city,2022-01-25,4.0
-Uruguay,Montevideo,city,2022-01-26,1.0
+Uruguay,Montevideo,city,2022-01-24,26.0
+Uruguay,Montevideo,city,2022-01-25,-7.000000000000001
+Uruguay,Montevideo,city,2022-01-26,-3.0
+Uruguay,Montevideo,city,2022-01-27,-3.0
+Uruguay,Montevideo,city,2022-01-28,-13.0
+Uruguay,Montevideo,city,2022-01-29,-20.0
+Uruguay,Montevideo,city,2022-01-30,19.0
+Uruguay,Montevideo,city,2022-01-31,82.0
 Uruguay,Total,country,2020-03-01,-2.0
 Uruguay,Total,country,2020-03-02,-12.0
 Uruguay,Total,country,2020-03-03,-21.0
@@ -129454,6 +130429,11 @@ Uruguay,Total,country,2022-01-20,15.0
 Uruguay,Total,country,2022-01-21,8.0
 Uruguay,Total,country,2022-01-22,-21.0
 Uruguay,Total,country,2022-01-23,-3.0
-Uruguay,Total,country,2022-01-24,15.0
-Uruguay,Total,country,2022-01-25,1.0
-Uruguay,Total,country,2022-01-26,17.0
+Uruguay,Total,country,2022-01-24,18.0
+Uruguay,Total,country,2022-01-25,-5.0
+Uruguay,Total,country,2022-01-26,13.0
+Uruguay,Total,country,2022-01-27,16.0
+Uruguay,Total,country,2022-01-28,11.0
+Uruguay,Total,country,2022-01-29,-5.0
+Uruguay,Total,country,2022-01-30,33.0
+Uruguay,Total,country,2022-01-31,60.0
