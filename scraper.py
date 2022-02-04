@@ -96,7 +96,7 @@ def process_apple_data():
         apple_US = apple_mobility.build_report(APPLE_CSV_PATH, report_type="US")
         # write reports to CSV and Excel
         write_df_to_csv_and_excel(apple_world, APPLE_WORLD_PATHS)
-        write_df_to_csv_and_excel(apple_US, APPLE_US_PATHS)
+#         write_df_to_csv_and_excel(apple_US, APPLE_US_PATHS)
 
     return new_files_status_apple
 
