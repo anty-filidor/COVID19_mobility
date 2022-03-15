@@ -168,6 +168,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 3. [COVID-19: Country progress tracker and forward projections](https://www.agility.asia/covid) 
 4. [Krekel, C., Swanke, S., De Neve, J., & Fancourt, D. (2020). Are Happier People More Compliant? Global Evidence From Three Large-Scale Surveys During Covid-19 Lockdowns](http://ftp.iza.org/dp13690.pdf)
 5. [Green shoots and mobility: Philippine economic prospects By Diwa C. Guinigundo](https://www.bworldonline.com/green-shoots-and-mobility-philippine-economic-prospects/)
-6. [Lichand, Guilherme and Alberto Doria, Carlos and Cossi Fernandes, Joao Paulo and Leal Neto, Onicio, Reopening Schools in the Pandemic Did Not Increase COVID-19 Incidence and Mortality in Brazil (March 25, 2021)](https://ssrn.com/abstract=3812173) 
-7. [Franks J, Gruss B, Mulas-Granados C, Patnam M, Weber S. Reopening strategies, mobility and COVID-19 infections in Europe: panel data analysis. BMJ Open. 2022;12(2):e055938. Published 2022 Feb 9. doi:10.1136/bmjopen-2021-055938](https://bmjopen.bmj.com/content/12/2/e055938)
+6. [Franks J, Gruss B, Mulas-Granados C, Patnam M, Weber S. Reopening strategies, mobility and COVID-19 infections in Europe: panel data analysis. BMJ Open. 2022;12(2):e055938. Published 2022 Feb 9. doi:10.1136/bmjopen-2021-055938](https://bmjopen.bmj.com/content/12/2/e055938)
+7. [Anna Godøy, Maja Weemes Grøtting. Implementation and economic effects of local non-pharmaceutical interventions. medRxiv 2022.02.10.22270783; doi:https://doi.org/10.1101/2022.02.10.22270783](https://www.medrxiv.org/content/10.1101/2022.02.10.22270783v1.full)
 8. [Here can be your great article/research publication]
