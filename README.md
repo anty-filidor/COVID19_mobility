@@ -1,3 +1,4 @@
+<a href="https://www.buymeacoffee.com/AConclusion" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 # COVID-19 Mobility Data Aggregator. Scraper of Google, Apple, Waze and TomTom COVID-19 Mobility Reports
 This is a repository with a data scraper of Mobility Reports and reports in different formats.
 
