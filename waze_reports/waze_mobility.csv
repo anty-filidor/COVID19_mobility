@@ -7681,6 +7681,7 @@ Belgium,Antwerp,city,2022-04-06,11.0
 Belgium,Antwerp,city,2022-04-07,8.0
 Belgium,Antwerp,city,2022-04-08,9.0
 Belgium,Antwerp,city,2022-04-09,32.0
+Belgium,Antwerp,city,2022-04-10,-98.0
 Belgium,Brussels,city,2020-03-01,3.0
 Belgium,Brussels,city,2020-03-02,0.0
 Belgium,Brussels,city,2020-03-03,-1.0
@@ -9218,6 +9219,7 @@ Belgium,Ghent,city,2022-04-06,-3.0
 Belgium,Ghent,city,2022-04-07,19.0
 Belgium,Ghent,city,2022-04-08,13.0
 Belgium,Ghent,city,2022-04-09,33.0
+Belgium,Ghent,city,2022-04-10,-95.0
 Belgium,Total,country,2020-03-01,13.0
 Belgium,Total,country,2020-03-02,-1.0
 Belgium,Total,country,2020-03-03,1.0
@@ -13826,6 +13828,7 @@ Brazil,Fortaleza,city,2022-04-06,6.0
 Brazil,Fortaleza,city,2022-04-07,12.0
 Brazil,Fortaleza,city,2022-04-08,15.0
 Brazil,Fortaleza,city,2022-04-09,28.000000000000004
+Brazil,Fortaleza,city,2022-04-10,-95.0
 Brazil,Guarulhos,city,2020-03-01,7.000000000000001
 Brazil,Guarulhos,city,2020-03-02,11.0
 Brazil,Guarulhos,city,2020-03-03,2.0
@@ -20731,6 +20734,7 @@ Canada,Calgary,city,2022-04-06,13.0
 Canada,Calgary,city,2022-04-07,-8.0
 Canada,Calgary,city,2022-04-08,14.000000000000002
 Canada,Calgary,city,2022-04-09,31.0
+Canada,Calgary,city,2022-04-10,-70.0
 Canada,Hamilton,city,2020-03-01,3.0
 Canada,Hamilton,city,2020-03-02,8.0
 Canada,Hamilton,city,2020-03-03,5.0
@@ -27643,6 +27647,7 @@ Chile,Las Condes,city,2022-04-06,60.0
 Chile,Las Condes,city,2022-04-07,68.0
 Chile,Las Condes,city,2022-04-08,71.0
 Chile,Las Condes,city,2022-04-09,95.0
+Chile,Las Condes,city,2022-04-10,-98.0
 Chile,Maipu,city,2020-03-01,7.000000000000001
 Chile,Maipu,city,2020-03-02,-9.0
 Chile,Maipu,city,2020-03-03,11.0
@@ -31481,6 +31486,7 @@ Colombia,Cali,city,2022-04-06,40.0
 Colombia,Cali,city,2022-04-07,41.0
 Colombia,Cali,city,2022-04-08,40.0
 Colombia,Cali,city,2022-04-09,36.0
+Colombia,Cali,city,2022-04-10,-89.0
 Colombia,Medellin,city,2020-03-01,3.0
 Colombia,Medellin,city,2020-03-02,2.0
 Colombia,Medellin,city,2020-03-03,0.0
@@ -33785,6 +33791,7 @@ Costa Rica,San Jose,city,2022-04-06,-11.0
 Costa Rica,San Jose,city,2022-04-07,-19.0
 Costa Rica,San Jose,city,2022-04-08,-9.0
 Costa Rica,San Jose,city,2022-04-09,-10.0
+Costa Rica,San Jose,city,2022-04-10,-97.0
 Costa Rica,Total,country,2020-03-01,2.0
 Costa Rica,Total,country,2020-03-02,-1.0
 Costa Rica,Total,country,2020-03-03,2.0
@@ -36091,6 +36098,7 @@ Czechia,Prague,city,2022-04-06,20.0
 Czechia,Prague,city,2022-04-07,19.0
 Czechia,Prague,city,2022-04-08,23.0
 Czechia,Prague,city,2022-04-09,15.0
+Czechia,Prague,city,2022-04-10,-98.0
 Czechia,Total,country,2020-03-01,2.0
 Czechia,Total,country,2020-03-02,0.0
 Czechia,Total,country,2020-03-03,-1.0
@@ -37627,6 +37635,7 @@ Ecuador,Quito,city,2022-04-06,24.0
 Ecuador,Quito,city,2022-04-07,19.0
 Ecuador,Quito,city,2022-04-08,16.0
 Ecuador,Quito,city,2022-04-09,24.0
+Ecuador,Quito,city,2022-04-10,-91.0
 Ecuador,Total,country,2020-03-01,-15.0
 Ecuador,Total,country,2020-03-02,-4.0
 Ecuador,Total,country,2020-03-03,-2.0
@@ -44539,6 +44548,7 @@ France,Toulouse,city,2022-04-06,22.0
 France,Toulouse,city,2022-04-07,20.0
 France,Toulouse,city,2022-04-08,6.0
 France,Toulouse,city,2022-04-09,9.0
+France,Toulouse,city,2022-04-10,-99.0
 Germany,Berlin,city,2020-03-01,-6.0
 Germany,Berlin,city,2020-03-02,-38.0
 Germany,Berlin,city,2020-03-03,-13.0
@@ -49142,6 +49152,7 @@ Indonesia,Bekasi,city,2022-04-06,-37.0
 Indonesia,Bekasi,city,2022-04-07,-70.0
 Indonesia,Bekasi,city,2022-04-08,-44.0
 Indonesia,Bekasi,city,2022-04-09,-32.0
+Indonesia,Bekasi,city,2022-04-10,-96.0
 Indonesia,Jakarta,city,2020-03-01,9.0
 Indonesia,Jakarta,city,2020-03-02,-1.0
 Indonesia,Jakarta,city,2020-03-03,10.0
@@ -50666,6 +50677,7 @@ Indonesia,South Tangerang,city,2022-04-06,10.0
 Indonesia,South Tangerang,city,2022-04-07,-54.0
 Indonesia,South Tangerang,city,2022-04-08,-84.0
 Indonesia,South Tangerang,city,2022-04-09,-43.0
+Indonesia,South Tangerang,city,2022-04-10,-87.0
 Indonesia,Tangerang,city,2020-03-01,0.0
 Indonesia,Tangerang,city,2020-03-02,5.0
 Indonesia,Tangerang,city,2020-03-03,-14.000000000000002
@@ -51421,6 +51433,7 @@ Indonesia,Tangerang,city,2022-04-06,5.0
 Indonesia,Tangerang,city,2022-04-07,-18.0
 Indonesia,Tangerang,city,2022-04-08,-30.0
 Indonesia,Tangerang,city,2022-04-09,-16.0
+Indonesia,Tangerang,city,2022-04-10,-94.0
 Indonesia,Total,country,2020-03-01,5.0
 Indonesia,Total,country,2020-03-02,-1.0
 Indonesia,Total,country,2020-03-03,3.0
@@ -56798,6 +56811,7 @@ Israel,Rishon Letsiyon,city,2022-04-06,18.0
 Israel,Rishon Letsiyon,city,2022-04-07,21.0
 Israel,Rishon Letsiyon,city,2022-04-08,21.0
 Israel,Rishon Letsiyon,city,2022-04-09,10.0
+Israel,Rishon Letsiyon,city,2022-04-10,-98.0
 Israel,Tel Aviv-Yafo,city,2020-03-01,7.000000000000001
 Israel,Tel Aviv-Yafo,city,2020-03-02,-18.0
 Israel,Tel Aviv-Yafo,city,2020-03-03,0.0
@@ -61405,6 +61419,7 @@ Latvia,Riga,city,2022-04-06,15.0
 Latvia,Riga,city,2022-04-07,16.0
 Latvia,Riga,city,2022-04-08,8.0
 Latvia,Riga,city,2022-04-09,13.0
+Latvia,Riga,city,2022-04-10,-95.0
 Latvia,Total,country,2020-03-01,0.0
 Latvia,Total,country,2020-03-02,-2.0
 Latvia,Total,country,2020-03-03,0.0
@@ -62173,6 +62188,7 @@ Latvia,Total,country,2022-04-06,14.000000000000002
 Latvia,Total,country,2022-04-07,15.0
 Latvia,Total,country,2022-04-08,12.0
 Latvia,Total,country,2022-04-09,14.000000000000002
+Latvia,Total,country,2022-04-10,-97.0
 Lithuania,Kaunas,city,2020-03-01,-14.000000000000002
 Lithuania,Kaunas,city,2020-03-02,0.0
 Lithuania,Kaunas,city,2020-03-03,-2.0
@@ -62939,6 +62955,7 @@ Lithuania,Kaunas,city,2022-04-06,129.0
 Lithuania,Kaunas,city,2022-04-07,138.0
 Lithuania,Kaunas,city,2022-04-08,130.0
 Lithuania,Kaunas,city,2022-04-09,118.0
+Lithuania,Kaunas,city,2022-04-10,-97.0
 Lithuania,Total,country,2020-03-01,-9.0
 Lithuania,Total,country,2020-03-02,-3.0
 Lithuania,Total,country,2020-03-03,4.0
@@ -63702,6 +63719,7 @@ Lithuania,Total,country,2022-04-06,118.0
 Lithuania,Total,country,2022-04-07,121.0
 Lithuania,Total,country,2022-04-08,112.00000000000001
 Lithuania,Total,country,2022-04-09,104.0
+Lithuania,Total,country,2022-04-10,-97.0
 Lithuania,Vilnius,city,2020-03-01,-7.000000000000001
 Lithuania,Vilnius,city,2020-03-02,-2.0
 Lithuania,Vilnius,city,2020-03-03,-4.0
@@ -88270,6 +88288,7 @@ Puerto Rico,Total,country,2022-04-06,18.0
 Puerto Rico,Total,country,2022-04-07,-8.0
 Puerto Rico,Total,country,2022-04-08,-4.0
 Puerto Rico,Total,country,2022-04-09,-8.0
+Puerto Rico,Total,country,2022-04-10,-91.0
 Qatar,Doha,city,2020-03-01,4.0
 Qatar,Doha,city,2020-03-02,5.0
 Qatar,Doha,city,2020-03-03,11.0
@@ -111561,6 +111580,7 @@ United States,Baltimore,city,2022-04-06,-12.0
 United States,Baltimore,city,2022-04-07,-18.0
 United States,Baltimore,city,2022-04-08,-16.0
 United States,Baltimore,city,2022-04-09,-12.0
+United States,Baltimore,city,2022-04-10,-89.0
 United States,Boston,city,2020-03-01,9.0
 United States,Boston,city,2020-03-02,8.0
 United States,Boston,city,2020-03-03,-4.0
@@ -116937,6 +116957,7 @@ United States,Denver,city,2022-04-06,-28.000000000000004
 United States,Denver,city,2022-04-07,-38.0
 United States,Denver,city,2022-04-08,-32.0
 United States,Denver,city,2022-04-09,-28.000000000000004
+United States,Denver,city,2022-04-10,-93.0
 United States,Detroit,city,2020-03-01,10.0
 United States,Detroit,city,2020-03-02,19.0
 United States,Detroit,city,2020-03-03,6.0
@@ -121540,6 +121561,7 @@ United States,Irvine,city,2022-04-06,-50.0
 United States,Irvine,city,2022-04-07,-42.0
 United States,Irvine,city,2022-04-08,-43.0
 United States,Irvine,city,2022-04-09,-45.0
+United States,Irvine,city,2022-04-10,-98.0
 United States,Jersey City,city,2020-03-01,5.0
 United States,Jersey City,city,2020-03-02,-4.0
 United States,Jersey City,city,2020-03-03,-6.0
@@ -124606,6 +124628,7 @@ United States,Miami Beach,city,2022-04-06,-9.0
 United States,Miami Beach,city,2022-04-07,-27.0
 United States,Miami Beach,city,2022-04-08,-20.0
 United States,Miami Beach,city,2022-04-09,-12.0
+United States,Miami Beach,city,2022-04-10,-97.0
 United States,Minneapolis,city,2020-03-01,26.0
 United States,Minneapolis,city,2020-03-02,-9.0
 United States,Minneapolis,city,2020-03-03,-11.0
@@ -125368,6 +125391,7 @@ United States,Minneapolis,city,2022-04-06,-72.0
 United States,Minneapolis,city,2022-04-07,-68.0
 United States,Minneapolis,city,2022-04-08,-39.0
 United States,Minneapolis,city,2022-04-09,-30.0
+United States,Minneapolis,city,2022-04-10,-92.0
 United States,Nashville,city,2020-03-01,7.000000000000001
 United States,Nashville,city,2020-03-02,4.0
 United States,Nashville,city,2020-03-03,-7.000000000000001
@@ -128439,6 +128463,7 @@ United States,Oakland,city,2022-04-06,-34.0
 United States,Oakland,city,2022-04-07,-24.0
 United States,Oakland,city,2022-04-08,-46.0
 United States,Oakland,city,2022-04-09,-27.0
+United States,Oakland,city,2022-04-10,-95.0
 United States,Orlando,city,2020-03-01,-1.0
 United States,Orlando,city,2020-03-02,0.0
 United States,Orlando,city,2020-03-03,-4.0
@@ -136890,6 +136915,7 @@ United States,San Jose,city,2022-04-06,-34.0
 United States,San Jose,city,2022-04-07,-38.0
 United States,San Jose,city,2022-04-08,-34.0
 United States,San Jose,city,2022-04-09,-32.0
+United States,San Jose,city,2022-04-10,-99.0
 United States,Seattle,city,2020-03-01,9.0
 United States,Seattle,city,2020-03-02,6.0
 United States,Seattle,city,2020-03-03,-6.0
@@ -137658,6 +137684,7 @@ United States,Seattle,city,2022-04-06,-40.0
 United States,Seattle,city,2022-04-07,-23.0
 United States,Seattle,city,2022-04-08,-27.0
 United States,Seattle,city,2022-04-09,-21.0
+United States,Seattle,city,2022-04-10,-97.0
 United States,Stamford,city,2020-03-01,-9.0
 United States,Stamford,city,2020-03-02,7.000000000000001
 United States,Stamford,city,2020-03-03,-5.0
@@ -140730,6 +140757,7 @@ United States,Washington,city,2022-04-06,-13.0
 United States,Washington,city,2022-04-07,-12.0
 United States,Washington,city,2022-04-08,-10.0
 United States,Washington,city,2022-04-09,-12.0
+United States,Washington,city,2022-04-10,-98.0
 United States,Yonkers,city,2020-03-01,3.0
 United States,Yonkers,city,2020-03-02,-5.0
 United States,Yonkers,city,2020-03-03,-7.000000000000001
@@ -143034,3 +143062,4 @@ Uruguay,Total,country,2022-04-06,23.0
 Uruguay,Total,country,2022-04-07,24.0
 Uruguay,Total,country,2022-04-08,20.0
 Uruguay,Total,country,2022-04-09,9.0
+Uruguay,Total,country,2022-04-10,-99.0
