@@ -40,7 +40,7 @@ Day defined as midnight-to-midnight, Pacific time. Cities represent usage in gre
 
 Data that is sent from users' devices to the Maps service is associated with random, rotating identifiers so Apple doesn't have a profile of your movements and searches. Apple Maps has no demographic information about Apple users, so it's impossible to make any statements about the representativeness of usage against the overall population.
 
-**Update interval:** daily
+**Update interval:** As of April 14, 2022, Apple is no longer providing COVID-19 mobility trends reports.
 
 By downloading or using this data, you agree to Apple terms.
 
